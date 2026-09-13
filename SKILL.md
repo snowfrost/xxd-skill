@@ -110,7 +110,6 @@ xxd-skill/
 ├── panels/                         **223 期开源 panel 的文字部分**
 │   ├── _shared/                    223 期共用的运行期文件（只存一份）＋「如何撰写 panel 提示词」指南
 │   └── xxd-panel-001/ … 223/       每期：prompt.zh-CN.md（风格本体）/ SKILL.md / README / 示例清单
-├── styles/                         2026-08 早期整合版（37 期，已被 panels/ 取代，保留备查）
 └── styles-extra/                   6 个 panel 未覆盖的帖子独有风格
 ```
 

@@ -76,7 +76,6 @@ xxd-skill/
 ├── panels/                         223 期开源 panel 的文字部分
 │   ├── _shared/                    共用运行期文件 + panel 提示词撰写指南
 │   └── xxd-panel-001/ … 223/
-├── styles/                         2026-08 早期整合版（37 期，已被 panels/ 取代）
 └── styles-extra/                   6 个 panel 未覆盖的帖子独有风格
 ```
 
