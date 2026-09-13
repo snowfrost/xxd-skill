@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 151"
+  short_description: "Naive Flat Hand Drawing"
+  default_prompt: "Use $xxd-panel-151 to transform my photograph using the complete canonical source brief."

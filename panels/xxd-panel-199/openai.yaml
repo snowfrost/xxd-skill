@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 199"
+  short_description: "Bright Airy Miniature Fashion Collage"
+  default_prompt: "Use $xxd-panel-199 to transform my photograph following the complete canonical source brief."

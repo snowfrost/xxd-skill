@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 132"
+  short_description: "Pen-and-Wash Travel"
+  default_prompt: "Use $xxd-panel-132 to transform my photograph using the complete canonical source brief."

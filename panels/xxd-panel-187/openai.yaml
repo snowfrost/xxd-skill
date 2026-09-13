@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 187"
+  short_description: "Archival Collage with Oversized Type"
+  default_prompt: "Use $xxd-panel-187 to transform my photograph following the complete canonical source brief."

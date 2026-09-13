@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 171"
+  short_description: "Vertical Skeleton and Tiny Vignettes"
+  default_prompt: "Use $xxd-panel-171 to transform my photograph following the complete canonical source brief."

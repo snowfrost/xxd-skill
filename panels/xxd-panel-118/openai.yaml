@@ -1,0 +1,7 @@
+interface:
+  display_name: "/xxd-panel-118"
+  short_description: "Graphite thematic sketches with active whitespace."
+  default_prompt: "Use $xxd-panel-118 on an image or directory. Read its complete Chinese original brief, isolate each source, and generate fresh graphite thematic sketch PNGs in the selected mode, with strict 50:50 pairs and no third band."
+
+policy:
+  allow_implicit_invocation: true

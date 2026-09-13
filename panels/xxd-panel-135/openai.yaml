@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 135"
+  short_description: "Street Spot-colour Zine"
+  default_prompt: "Use $xxd-panel-135 to transform my photograph using the complete canonical source brief."

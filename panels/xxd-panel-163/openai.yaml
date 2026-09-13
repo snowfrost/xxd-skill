@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 163"
+  short_description: "Centred Flat-colour Stamp Composition"
+  default_prompt: "Use $xxd-panel-163 to transform my photograph following the complete canonical source brief."

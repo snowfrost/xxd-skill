@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 191"
+  short_description: "Soft-edged Rectangular Pastel Field"
+  default_prompt: "Use $xxd-panel-191 to transform my photograph following the complete canonical source brief."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 147"
+  short_description: "Bento Food Packaging"
+  default_prompt: "Use $xxd-panel-147 to transform my photograph using the complete canonical source brief."

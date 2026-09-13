@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 220"
+  short_description: "Rounded Naïve Doodle Vignette"
+  default_prompt: "Use $xxd-panel-220 to transform my photograph following the complete canonical source brief."

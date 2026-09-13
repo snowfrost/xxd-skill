@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 178"
+  short_description: "Irregular Silhouette Woodcut Micro-island"
+  default_prompt: "Use $xxd-panel-178 to transform my photograph following the complete canonical source brief."

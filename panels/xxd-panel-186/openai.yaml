@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 186"
+  short_description: "Nine-cell Geometric Memory Grid"
+  default_prompt: "Use $xxd-panel-186 to transform my photograph following the complete canonical source brief."

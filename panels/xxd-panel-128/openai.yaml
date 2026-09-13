@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 128"
+  short_description: "Enamel Medallion Travel"
+  default_prompt: "Use $xxd-panel-128 to transform my photograph using the complete canonical source brief."

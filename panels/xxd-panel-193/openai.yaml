@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 193"
+  short_description: "Muted Watercolour on a Low Base"
+  default_prompt: "Use $xxd-panel-193 to transform my photograph following the complete canonical source brief."

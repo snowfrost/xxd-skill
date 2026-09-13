@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 146"
+  short_description: "Natural-history Scarf Illustration"
+  default_prompt: "Use $xxd-panel-146 to transform my photograph using the complete canonical source brief."

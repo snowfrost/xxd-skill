@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 184"
+  short_description: "Hand-drawn Square Everyday Vignette"
+  default_prompt: "Use $xxd-panel-184 to transform my photograph following the complete canonical source brief."

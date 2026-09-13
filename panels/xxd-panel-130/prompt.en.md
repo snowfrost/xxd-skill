@@ -1,0 +1,19 @@
+Turn each uploaded photograph into its own independent, refined design poster. Do not combine multiple photographs; output each separately. Use a 3:4 portrait composition with two vertically stacked regions of strictly equal height, each occupying 50% of the canvas.
+
+Preserve the original photograph in the upper half, maintaining the subject’s identity, structure, pose, authentic texture, natural lighting and original colour atmosphere. Apply only subtle, refined colour grading for an art-magazine or exhibition-image quality. The surrounding environment may be extended naturally to fit the format, but never stretch, distort or alter the subject.
+
+Extract only the photograph’s most recognisable **subject, silhouette, structure, pose and narrative relationships** for the lower half, reconstructing them as **hard-edge geometric planes / faceted geometric reconstruction collage**. Do not copy the whole photograph, redraw every object or retain all objects and backgrounds. Remove irrelevant details, preserving only the defining structure, directional flow and visual memories. Reinterpret them through high-contrast simplification, plane division, geometric rearrangement, local displacement and a little layered material, making their correspondence with the photograph above immediately recognisable.
+
+Make fresh artistic judgements in the lower half. Even if the original composition is weak, the background cluttered or the subject small, actively rescue it through **subtraction, rearrangement, cropping, scale changes and whitespace**, genuinely granting the model the authority to redirect the picture.
+
+Use **geometric planarisation** as the core structural language. Instead of continuous natural light-and-shade modelling, simplify the subject into clearly bounded polygons, rectangles, trapezoids, angular planes and facets. Allow hard edges, right angles, diagonal cuts, broken lines and local geometric interpenetration, reorganising organic forms with deliberate geometric order. Focus on **planar abstraction / faceted construction / hard-edge geometric collage**, not soft, naturalistic illustration tracing.
+
+Attach material language to the planes as a secondary layer. **Halftone, dithering, Riso and Xerox** dots, photocopy grain, slight registration offsets and print noise may be added, but must serve the geometric plane structure rather than dominate it or replace composition itself.
+
+Use a **tiny subject plus extensive open space**. The transformed graphic is a carefully placed visual point, possibly off-centre, near an edge, suspended or partially cropped. Retain generous intentional whitespace so that the open field, subject, geometric planes and a few supporting elements jointly create breathing room, space, pauses and asymmetric balance. Prefer subtraction to filling the canvas.
+
+Distil the photograph’s most distinctive colours and compress the palette. Let high-contrast neutrals such as **black, white and grey** dominate, adding **1–2 distilled accent-colour planes** as interjections and visual anchors. Colour must be restrained, forceful and clear, never chaotic, muddy, overly rich or cheaply decorative.
+
+Use only a minimal editorial text intervention, with no language restriction. Generate a few words or short phrases from the subject, place, emotion or metaphor. Use **small, restrained, firm modern-editorial sans-serif or serif text**, quietly placed in the whitespace at a distance from the image to create a refined graphic-layout relationship, not a stack of commercial headlines.
+
+The overall effect combines **faceted geometric reconstruction, hard-edge planar order, halftone and photocopy texture, a tiny subject, extensive open space and editorial typography**. Avoid object-by-object redraws, excessive background retention, filled canvases, dominant soft natural curves, cartoon or 3D effects, poster templates and excessive decoration.

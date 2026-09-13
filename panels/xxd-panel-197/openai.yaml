@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 197"
+  short_description: "Folk-art World Inside a Cage"
+  default_prompt: "Use $xxd-panel-197 to transform my photograph following the complete canonical source brief."

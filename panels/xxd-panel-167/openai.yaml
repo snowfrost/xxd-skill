@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 167"
+  short_description: "Centred Wave-form Raised-ink Relief"
+  default_prompt: "Use $xxd-panel-167 to transform my photograph following the complete canonical source brief."

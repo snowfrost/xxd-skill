@@ -1,0 +1,15 @@
+Turn each uploaded photograph into a separate, sophisticated design poster. Do not combine multiple photographs; output each one individually. Use a 3:4 portrait composition, with the upper and lower regions strictly equal in height, each occupying 50% of the canvas.
+
+Keep the original photograph in the upper half, preserving the subject’s identity, structure, pose, realistic texture, natural light and shade, and original colour atmosphere. Apply only subtle, refined colour grading for an art-magazine, independent-publication and exhibition-image finish. The surrounding environment may be extended naturally to fit the canvas, but never stretch, distort or change the subject.
+
+In the lower half, **extract only the photograph’s most recognisable subject, silhouette, structure, pose and narrative relationships**, reconstructing them as **vintage etched linework + modern textured colour-block collage**. Do not retain the full scene or redraw every object. As a rule, remove all background, environment, decoration and secondary objects. Keep only a very few supporting forms when the narrative relationship truly requires them, so the original remains instantly recognisable with minimal information.
+
+Render the subject in fine etching-style line art, using a small amount of parallel hatching, crosshatching and stippling to describe key structures. Locally overlay one or two rough modern colour blocks with roller- or screen-print textures, forming a **classical linework × contemporary graphic design** relationship. Do not add detail merely to enrich the image.
+
+Make fresh art-direction decisions for the lower half; actively changing the original composition is allowed. Through **subtraction, rearrangement, cropping, shrinking and repositioning**, compress the subject into a tiny but powerful visual focus. Keep **an exceptionally large, continuous and clean open field**. The subject may be off-centre, at an edge, suspended or partially cropped. Whitespace itself is a main compositional element, creating positive–negative shapes, distance, direction and asymmetric balance with the subject. Prefer one tiny subject to filling empty space.
+
+Extract and remix a few of the photograph’s most distinctive and lively colours, moderately brightening and purifying them to create a clean relationship with warm white, ivory or very pale paper colour. Avoid muddy greys, gloom, aged brown and chaotic palettes.
+
+Text is an extremely small editorial intervention, with no language restriction. Freely distil a few words or short phrases from the subject, mood or metaphor, and place them quietly in the extensive whitespace as small, refined, spacious art-book typography. Do not compete with the subject.
+
+The refined Art Print character combines **a tiny subject, exceptionally abundant artistic whitespace, vintage etched lines, modern textured colour blocks, asymmetric composition and poetic typography**. Avoid complete backgrounds, information accumulation, filled canvases, object-by-object replication, realistic rendering, cartoon styling, a 3D look and template-like posters.

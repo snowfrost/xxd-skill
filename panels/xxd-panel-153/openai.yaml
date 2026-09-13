@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 153"
+  short_description: "Monochrome Journal Doodles"
+  default_prompt: "Use $xxd-panel-153 to transform my photograph using the complete canonical source brief."

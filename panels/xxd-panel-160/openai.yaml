@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 160"
+  short_description: "Expressive Pen-and-wash Illustration"
+  default_prompt: "Use $xxd-panel-160 to transform my photograph following the complete canonical source brief."

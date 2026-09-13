@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 139"
+  short_description: "Text-encoded Linear Fields"
+  default_prompt: "Use $xxd-panel-139 to transform my photograph using the complete canonical source brief."

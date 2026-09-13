@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 145"
+  short_description: "Vintage Spot-colour Printmaking"
+  default_prompt: "Use $xxd-panel-145 to transform my photograph using the complete canonical source brief."

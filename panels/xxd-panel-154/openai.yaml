@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 154"
+  short_description: "Retro Pixel Whitespace"
+  default_prompt: "Use $xxd-panel-154 to transform my photograph using the complete canonical source brief."

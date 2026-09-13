@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 189"
+  short_description: "Double-frame Matchbox Label Vignette"
+  default_prompt: "Use $xxd-panel-189 to transform my photograph following the complete canonical source brief."

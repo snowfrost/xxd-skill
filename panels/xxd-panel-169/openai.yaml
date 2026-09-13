@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 169"
+  short_description: "Warm Ochre Ink-line Spot Illustration"
+  default_prompt: "Use $xxd-panel-169 to transform my photograph following the complete canonical source brief."

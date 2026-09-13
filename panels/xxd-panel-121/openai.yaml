@@ -1,0 +1,7 @@
+interface:
+  display_name: "/xxd-panel-121"
+  short_description: "Naïve lifestyle doodles with mature image–text composition and abundant whitespace."
+  default_prompt: "Use $xxd-panel-121 on one image or image directory. Read its complete Chinese original, preserve its lifestyle marker-doodle aesthetic, resolve delivery settings, isolate each source, and produce fresh PNG artwork with exact 50:50 splits in comparison modes."
+
+policy:
+  allow_implicit_invocation: true

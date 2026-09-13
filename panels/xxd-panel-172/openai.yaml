@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 172"
+  short_description: "Centred Subject with Translucent Geometry"
+  default_prompt: "Use $xxd-panel-172 to transform my photograph following the complete canonical source brief."

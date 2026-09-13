@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 149"
+  short_description: "Textured Hand-drawn Flat Art"
+  default_prompt: "Use $xxd-panel-149 to transform my photograph using the complete canonical source brief."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 124"
+  short_description: "Fabric Collage Whitespace"
+  default_prompt: "Use $xxd-panel-124 to transform my photograph using the complete canonical source brief."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 123"
+  short_description: "Red–Blue Angular Pencil"
+  default_prompt: "Use $xxd-panel-123 to transform my photograph using the complete canonical source brief."

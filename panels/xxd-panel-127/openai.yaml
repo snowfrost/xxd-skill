@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 127"
+  short_description: "Mixed-media Architectural Collage"
+  default_prompt: "Use $xxd-panel-127 to transform my photograph using the complete canonical source brief."

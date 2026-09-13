@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 180"
+  short_description: "Vintage Circular Travel Stamp"
+  default_prompt: "Use $xxd-panel-180 to transform my photograph following the complete canonical source brief."

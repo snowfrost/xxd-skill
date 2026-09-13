@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 130"
+  short_description: "Hard-edge Faceted Collage"
+  default_prompt: "Use $xxd-panel-130 to transform my photograph using the complete canonical source brief."

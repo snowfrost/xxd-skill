@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 168"
+  short_description: "Reserved-white Layered Painted Field"
+  default_prompt: "Use $xxd-panel-168 to transform my photograph following the complete canonical source brief."

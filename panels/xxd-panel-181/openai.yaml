@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 181"
+  short_description: "Literati Ink and Colour Vignette"
+  default_prompt: "Use $xxd-panel-181 to transform my photograph following the complete canonical source brief."

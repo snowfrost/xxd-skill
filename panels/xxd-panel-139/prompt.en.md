@@ -1,0 +1,15 @@
+Create a separate premium poster for each uploaded photograph, never a multi-photo collage. Use a 3:4 portrait canvas split into two regions of exactly equal height, each occupying 50%.
+
+Keep the original photograph above, preserving the subject’s identity, structure, pose, realistic texture, natural light and original colour atmosphere. Apply only subtle refined grading for an art-magazine, independent-publication or exhibition finish. Extend the environmental background naturally if needed to fit; never stretch, distort or alter the subject.
+
+Below, extract only the most recognisable subject, contour, structure, pose and narrative relationships, translating them into generative linear abstraction based on text encoding and an orthogonal grid. Do not trace the photograph or preserve the whole scene. Remove almost all figurative detail; let essential contours, directions, proportions and spatial relationships gradually emerge through many extremely fine horizontal and vertical lines, repeated sequences and occasional angular lines. From afar it should appear rational and abstract; only close inspection should reveal the original object faintly.
+
+Organise lines through orthogonal grids, regular repetition, warp-and-weft interweaving and Plotter Drawing. Establish rhythm through spacing, length, density, breaks, displacement and overlap. Where appropriate, extract a few genuine letterforms from the photograph’s name, location, cultural context or theme, then dismantle, extend and interweave them into the linear system so text becomes visual structure rather than reading information. Without suitable textual context, encode the subject’s contour directly; do not force text.
+
+Make fresh artistic decisions below instead of inheriting the photograph’s compositional flaws. The subject becomes a tiny, refined linear focal point, possibly off-centre, edge-aligned, suspended or partly cropped, surrounded by vast clean emptiness. Whitespace is active negative space: lines surround, avoid, interrupt and point toward it, giving emptiness shape, distance, pauses and spatial tension. Prefer partial disappearance of the subject to filling the canvas.
+
+Extract a few distinctive source colours and translate them into a restrained, clear linear colour system. Use different colours only to distinguish linear levels, directions or encoding relationships. Let pale paper supply the principal breathing space; avoid broad colour blocks, gradients and decorative fills.
+
+Keep typography extremely sparse and light: coordinates within the line field, marginal annotations or letterform motifs, never a conventional title strip. Aim for Text-based Generative Geometric Abstraction / Parametric Linear Composition / Plotter Art: rational, quiet, precise, abstract and ordered, retaining a faintly recognisable spirit and structure of the photograph.
+
+Avoid full redrawing, figurative backgrounds, dense coverage, thick lines, random scribbles, decorative grids, technological UI, cyber aesthetics, 3D effects, ordinary infographics and formulaic generative art.

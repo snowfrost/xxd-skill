@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 200"
+  short_description: "Blue-grey Monochrome Line Vignette"
+  default_prompt: "Use $xxd-panel-200 to transform my photograph following the complete canonical source brief."

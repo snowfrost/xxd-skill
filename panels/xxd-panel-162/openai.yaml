@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 162"
+  short_description: "Storybook Illustration on White Cutout"
+  default_prompt: "Use $xxd-panel-162 to transform my photograph following the complete canonical source brief."

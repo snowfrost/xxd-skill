@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 125"
+  short_description: "Naïve Crayon Whitespace"
+  default_prompt: "Use $xxd-panel-125 to transform my photograph using the complete canonical source brief."

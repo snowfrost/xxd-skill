@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 198"
+  short_description: "Limited-palette Floating Fashion Collage"
+  default_prompt: "Use $xxd-panel-198 to transform my photograph following the complete canonical source brief."

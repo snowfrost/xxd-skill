@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 215"
+  short_description: "Grayscale Axonometric with Ochre Accent"
+  default_prompt: "Use $xxd-panel-215 to transform my photograph following the complete canonical source brief."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 140"
+  short_description: "Dry-media Visual Island"
+  default_prompt: "Use $xxd-panel-140 to transform my photograph using the complete canonical source brief."

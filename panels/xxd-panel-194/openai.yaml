@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 194"
+  short_description: "Bright Axonometric Site-base Model"
+  default_prompt: "Use $xxd-panel-194 to transform my photograph following the complete canonical source brief."

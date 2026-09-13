@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 155"
+  short_description: "One-point Perspective Light Wash"
+  default_prompt: "Use $xxd-panel-155 to transform my photograph using the complete canonical source brief."

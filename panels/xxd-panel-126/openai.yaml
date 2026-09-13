@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 126"
+  short_description: "Poetic Miniature Collage"
+  default_prompt: "Use $xxd-panel-126 to transform my photograph using the complete canonical source brief."

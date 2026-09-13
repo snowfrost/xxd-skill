@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 174"
+  short_description: "Naive Hand-drawn Sticker Assemblage"
+  default_prompt: "Use $xxd-panel-174 to transform my photograph following the complete canonical source brief."

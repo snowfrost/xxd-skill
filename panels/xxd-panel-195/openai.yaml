@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 195"
+  short_description: "Archival Montage with One Bright Accent"
+  default_prompt: "Use $xxd-panel-195 to transform my photograph following the complete canonical source brief."

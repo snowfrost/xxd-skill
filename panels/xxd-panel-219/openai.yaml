@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 219"
+  short_description: "Doodle Travel Sketch with Pencil Accents"
+  default_prompt: "Use $xxd-panel-219 to transform my photograph following the complete canonical source brief."

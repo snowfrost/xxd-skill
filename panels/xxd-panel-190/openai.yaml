@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 190"
+  short_description: "Naive Cool Pastel with Warm Accents"
+  default_prompt: "Use $xxd-panel-190 to transform my photograph following the complete canonical source brief."

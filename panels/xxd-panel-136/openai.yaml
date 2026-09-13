@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 136"
+  short_description: "Poetic Surrealist Whitespace"
+  default_prompt: "Use $xxd-panel-136 to transform my photograph using the complete canonical source brief."

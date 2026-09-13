@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 217"
+  short_description: "Bright Digital Mixed-Media Collage"
+  default_prompt: "Use $xxd-panel-217 to transform my photograph following the complete canonical source brief."

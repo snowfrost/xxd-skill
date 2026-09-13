@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 176"
+  short_description: "Hand-drawn Ritual Diagram in Shallow Relief"
+  default_prompt: "Use $xxd-panel-176 to transform my photograph following the complete canonical source brief."

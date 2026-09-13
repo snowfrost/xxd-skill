@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 141"
+  short_description: "Minimal Hand-drawn Lines"
+  default_prompt: "Use $xxd-panel-141 to transform my photograph using the complete canonical source brief."

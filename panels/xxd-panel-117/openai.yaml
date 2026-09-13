@@ -1,0 +1,7 @@
+interface:
+  display_name: "/xxd-panel-117"
+  short_description: "Fine lines, pale flat colour, light collage and stamp-scale subjects in generous whitespace."
+  default_prompt: "Use $xxd-panel-117 on one image or image directory. Read its complete Chinese brief as the sole aesthetic authority, isolate every source, map the chosen delivery mode explicitly and create fresh complete-canvas PNGs with strict 50:50 comparison regions."
+
+policy:
+  allow_implicit_invocation: true

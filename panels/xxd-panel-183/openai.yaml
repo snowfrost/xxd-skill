@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 183"
+  short_description: "Dark Green Organic Corner Vignette"
+  default_prompt: "Use $xxd-panel-183 to transform my photograph following the complete canonical source brief."

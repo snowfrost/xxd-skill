@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 192"
+  short_description: "Limited-colour Vintage Graphic Spot"
+  default_prompt: "Use $xxd-panel-192 to transform my photograph following the complete canonical source brief."

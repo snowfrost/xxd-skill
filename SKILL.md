@@ -1,90 +1,131 @@
 ---
 name: xxd-skill
-description: "小小东（@xiaoxiaodong01）GPT-Image-2 美学提示词整合库。整合 37 个开源 xxd-panel 风格 + 6 个 X 帖子独有风格（矢量旅行海报/包装MOCKUP/词义视觉化/局部破框/手撕纸荧光/东方编辑美学知识卡片）。核心方法论：上下分割双联法（3:4 竖版、上下 1:1、上保真摄影+下风格化重构）+ 上层建筑五件套 + 批量出图咒语。当用户需要：①把照片转成高级设计海报/插画/包装提案；②写 GPT-Image-2 风格转换提示词；③批量生成 10 张风格统一的视觉作品；④词/概念视觉化海报；⑤知识卡片/课件排版。触发词：xxd、小小东、GPT2 提示词、美学提示词、上下分割、双联海报、纸雕、版画、旅行海报、包装灵感、大字海报。"
+description: 小小东（xxd，小红书号 biyiyiyibi / X @xiaoxiaodong01）AI 出图提示词与风格的完整库：小红书 139 条图文笔记的提示词原文（含 21 个笔记附件的完整版）+ 223 期开源 xxd-panel 风格工程 + 6 个帖独有风格 + 方法论总纲。当用户要把一张普通照片重构成高审美海报/插画/平面视觉（纸雕、剪纸拼贴、厚墨浮雕、限色版画、线描淡彩、水彩解构、水墨建筑、像素栅格、等距微缩、极简色块章印、厚涂微缩、排版海报等），或提出「照片转风格化」「生成出图提示词」「提升照片审美」「一天解锁一个提示词」「把这个风格套到我的图上」「xxd panel N」「小小东的提示词」「xxd 风格」「上下分割双联」这类需求时使用。提供风格检索、完整可复制提示词、五段式骨架与双联法模板、禁忌词表、笔记附件查取、panel 源码回源。不生成图片（默认只交付提示词，由用户自行投喂模型），不冒充原作者，不公开分发原作者图片与附件本体，不涉及付费内容。
 ---
 
-# XXD Skill · 小小东 GPT-Image-2 美学提示词整合库
+# xxd-skill · 小小东提示词与风格全库
 
-> 整合来源：@xiaoxiaodong01（小小东）X 帖子 + 开源 xxd-panel 体系（github.com/nevertoday）
-> 知识库存档：ima「提示词工程」（标题 `xiaoxiaodong01-GPT2 x XX x XX x 美学提示词 x VOL.xxx`）
+把**任意一张普通照片**重构成**「上原图 / 下风格化」的编辑感审美海报**——这是 @小小东
+（小红书号 `biyiyiyibi`，X [@xiaoxiaodong01](https://x.com/xiaoxiaodong01)，个人站 vip.xiaoxiaodong.ai）
+反复拆解、逐期发布的一整套方法。
 
-## 结构
+本库把作者散在**三个地方**的东西合并到一处：
+
+| 层 | 来源 | 规模 | 目录 |
+| --- | --- | --- | --- |
+| **A · 小红书提示词库** | 小红书 139 条图文笔记 | 139 条提示词，其中 21 条带附件完整版 | `data/styles.json` + `references/` |
+| **B · 方法论与帖子独有风格** | X 帖子蒸馏（2025.11 起） | 方法论总纲 + 6 个 panel 未覆盖的风格 | `references/xxd-methodology.md` + `styles-extra/` |
+| **C · 开源 panel 风格工程** | GitHub [nevertoday/xxd-panel-*](https://github.com/nevertoday) | **223 期**，每期一份原版风格 brief | `panels/` |
+
+## 先看这张图
 
 ```
-xxd-skill/
-├── SKILL.md                    ← 本文件：方法论 + 风格路由
-├── styles/                     ← 37 个开源 panel 风格（完整 SKILL.md）
-│   └── xxd-panel-001/ ... xxd-panel-046/
-├── styles-extra/               ← 6 个 X 帖子独有风格（panel 未覆盖）
-│   ├── xxd-vector-travel-poster/      矢量旅行海报（VOL.050）
-│   ├── xxd-packaging-mockup/          包装 MOCKUP 系统（VOL.001）
-│   ├── xxd-word-visualization/        词义视觉化大字海报
-│   ├── xxd-broken-frame-portrait/     局部破框人像编辑海报
-│   ├── xxd-torn-paper-fluorescent/    手撕纸荧光活动海报
-│   └── xxd-eastern-editorial-cards/   东方编辑美学知识卡片
-└── references/
-    └── xxd-methodology.md      ← 方法论总纲（五件套/批量咒语/双语转换）
+照片 ──► ①提取主体（不做减法就出不来）──► ②构图留白（小主体 + 超大量留白）
+      ──► ③换风格零件（纸雕／浮雕／版画／像素…）──► ④提色去灰 ──► ⑤极少量文字
 ```
 
-## 使用流程
-
-1. **接需求**：用户提供照片/主题/目标风格
-2. **路由**（按需求关键词选风格）：
-   - 剪纸/纸艺/微缩 → `styles/xxd-panel-014` `xxd-panel-018` `xxd-panel-028`
-   - 版画/木刻/丝网 → `styles/xxd-panel-005` `xxd-panel-009` `xxd-panel-016` `xxd-panel-025`
-   - 水彩 → `styles-extra/xxd-word-visualization` 无；水彩用 `styles/xxd-panel-013`
-   - 旅行/矢量 → `styles-extra/xxd-vector-travel-poster`
-   - 包装/品牌 → `styles-extra/xxd-packaging-mockup`
-   - 词/概念/大字 → `styles-extra/xxd-word-visualization`
-   - 人像/杂志编辑 → `styles-extra/xxd-broken-frame-portrait`
-   - 活动海报/荧光/贴纸 → `styles-extra/xxd-torn-paper-fluorescent`
-   - 知识卡片/课件/PPT → `styles-extra/xxd-eastern-editorial-cards`
-   - 其他 → 按 `references/xxd-methodology.md` 的六种风格插槽组装
-3. **组装提示词**：使用对应 SKILL.md 中的完整提示词（可直接复制），按需追加批量咒语
-4. **交付**：整段可复制提示词，标注风格标签与使用建议
-
-## 核心方法论速览（详见 references/xxd-methodology.md）
-
-### 上下分割双联法（母模板）
+对应作者的**上下分割双联法**母模板：
 
 ```
 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。
 整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
-上半部分：保留原始照片 + 轻微高级摄影调色（艺术杂志/独立出版物/展览摄影质感）
+上半部分：保留原始照片 + 仅轻微高级摄影调色（艺术杂志／独立出版物／展览摄影质感）
 下半部分：提取主体、轮廓、姿态与叙事关系，重构为【风格插槽】
 ```
 
-### 风格插槽（六选一）
+两套讲的是同一件事的两个角度：双联法是**版式骨架**，五段式是**下半部分怎么写**。
+完整拆解见 `references/xxd-methodology.md`（总纲）与 `references/prompt-anatomy.md`（逐句解剖）。
 
-| 插槽 | 关键词 | 出处 |
-|---|---|---|
-| 剪纸/纸雕 diorama | miniature 3D paper-craft | VOL.051/052 |
-| 木刻版画 | 限色版画、刀刻不规则 | VOL.049 |
-| 矢量旅行海报 | flat-vector travel poster | VOL.050 |
-| 包装系统 | 5-8 种载体品牌物料 | VOL.001 |
-| 水彩编辑插画 | 包豪斯+稚拙+时尚速写 | Topview 版 |
-| 厚涂微景观 | impasto miniature | panel-046 |
+## 编号体系：P### / №### / xxd-panel-###
 
-### 上层建筑五件套（每篇必备）
+**已实测确认：小红书的 `P###` 就是 GitHub 的 `xxd-panel-###`，一一对应。**
+（抽查 P047：小红书正文与 `panels/xxd-panel-047/prompt.zh-CN.md` 除一个标题行外逐字一致。）
 
-1. **构图**：单一视觉锚点 + 大面积留白 + 明确前后层次，可居中/偏置/轻微裁切
-2. **配色**：浅粉蓝/雾蓝/天空蓝空气感主氛围 + 象牙白/奶油白/浅米色平衡 + 少量 dusty rose/muted blush 点缀；柔和通透略微去饱和
-3. **材质**：真实手工触感（纸纤维/折边/切口/颗粒/毛边）；柔和自然漫射光 + macro 质感
-4. **文字**：从照片提炼 1-3 词简短标题，克制优雅排版，像艺术家签名；不固定年份
-5. **禁忌**：塑料3D、玩具感、儿童手工、过度可爱、电商展示感、模板感、灰脏陈旧
+| 形式 | 含义 | 数量 |
+| --- | --- | --- |
+| `P###` | 小红书笔记标题里的系列号，如「异形微岛版画风｜小小东P177」 | 70 条（编号 30–177） |
+| `№###` | 作者在**正文里自报**的解锁序号（「解锁序号130」／「xd-panel-107」／「本期为：P085」），存 `unlock_no` | 39 条 |
+| `xxd-panel-###` | GitHub 开源仓库名，1–223 连续 | 223 期 |
 
-### 批量出图咒语
+- 小红书发过的 70 个 P 号，GitHub 上**都有**；另外 153 期是小红书没发的。
+- 全量对照表见 **`references/panels-index.md`**（含每期的风格名、原文首句、与 P 号是否互见）。
+- ⚠️ `№` 与 `P` **区间重叠**（130/131/133/135/136/139 两边都有），所以 `№` 只作溯源，
+  **不能**拿来做 `--no` 检索；`--no` 只认 `P###`。
+
+## 三种用法
+
+### 1. 要某个具体风格 → 直接取原文
+
+```bash
+python scripts/build_prompt.py --no 165                    # 按系列号取
+python scripts/build_prompt.py --school 中央撕纸揭景风       # 按风格名取
+python scripts/build_prompt.py --keyword 纸雕 --pick 1       # 关键词找，取第 1 条
+python scripts/build_prompt.py --no 165 --text "SHANGHAI"    # 顺手指定画面文字
+```
+
+输出一段**完整可整段复制**的提示词（原文逐字保留，不精简不改写），外加使用说明与来源标注。
+默认只给提示词，不生成图片。
+
+**先确认你拿的是哪一版**：`prompt_source` 为 `attachment` 时用的是作者附件的完整原文
+（20 条，平均 1129 字）；为 `caption` 时是笔记正文（119 条，平均 719 字）。
+
+### 2. 不知道要哪个风格 → 先检索
+
+```bash
+python scripts/search_style.py 纸雕           # 关键词检索（风格名／提示词全文／标签）
+python scripts/search_style.py --tag 像素栅格   # 按归纳类别筛
+python scripts/search_style.py --top 20       # 收藏数最高的 20 个（社区验证过的）
+python scripts/search_style.py --list         # 全部风格一览
+python scripts/search_style.py --no 165 --full   # 看某条的完整提示词
+python scripts/search_style.py --attachments  # 只看「提示词来自附件」的那 20 条
+```
+
+归纳类别共 10 类：`纸艺`、`浮雕`、`线描`、`淡彩`、`水墨`、`像素栅格`、`极简构成`、
+`绘本插画`、`透视场景`、`实验海报`。
+
+### 3. 想自己写一条新风格 → 套骨架 + 翻 panel 源码
+
+- 读 `references/prompt-anatomy.md` 的「自己写一条的模板」，把第 3 段换成新风格的媒介词。
+- 想找更偏门的风格，直接翻 `panels/`：223 期每期一份原版 brief，按 `prompt.zh-CN.md` 逐字复刻。
+- **必须保留**「赋予模型重新导演画面的权力」那句授权句，否则模型会老实复刻原图，效果退化成滤镜。
+
+## 三层目录说明
 
 ```
-连续生成10张图片,每张都是不同的角色逻辑,还有金句逻辑,还有配色和排版逻辑,类似于ppt,生成10张确保彼此的排版差异
+xxd-skill/
+├── SKILL.md                        本文件：三层总控 + 风格路由
+├── README.md                       GitHub 首页说明
+├── data/styles.json                139 条结构化数据（编号/风格名/prompt/附件元信息/互动数）
+├── references/
+│   ├── xxd-methodology.md          方法论总纲：双联法母模板 + 六种风格插槽 + 五件套 + 批量咒语
+│   ├── prompt-anatomy.md           五段式骨架逐句解剖 + 句型模板 + 材质词表 + 禁忌词表
+│   ├── styles-index.md             139 条风格索引表（编号/风格名/核心语言/字数/收藏/原帖）
+│   ├── panels-index.md             **223 期 panel 全索引 + 与 P 号对照**
+│   ├── attachments.md              笔记附件层：21 条清单 + 抓取配方（widgets + file/preview 签名）
+│   └── usage-guide.md              落地细节：画布比例、原图怎么给、取色替换、常见失败与修法
+├── scripts/
+│   ├── build_prompt.py             生成可直接复制的提示词
+│   ├── search_style.py             检索风格库
+│   └── find_attachment.py          查作者附件（doc_id、页数、下载量、完整正文）
+├── panels/                         **223 期开源 panel 的文字部分**
+│   ├── _shared/                    223 期共用的运行期文件（只存一份）＋「如何撰写 panel 提示词」指南
+│   └── xxd-panel-001/ … 223/       每期：prompt.zh-CN.md（风格本体）/ SKILL.md / README / 示例清单
+├── styles/                         2026-08 早期整合版（37 期，已被 panels/ 取代，保留备查）
+└── styles-extra/                   6 个 panel 未覆盖的帖子独有风格
 ```
 
-## 与上游关系
+## 出提示词时的三条铁律
 
-- `styles/` 下的 37 个 panel 为上游 nevertoday/xxd-panel-* 的 SKILL.md 完整副本（开源 Codex Skill），完整可运行版（含 scripts/assets/references）见上游仓库
-- `styles-extra/` 为 X 帖子蒸馏的独有风格（panel 体系未覆盖），为本库独有内容
-- 去重结论：X 帖子的剪纸（VOL.051/052）、版画（VOL.049）、水彩与 panel 体系重叠，以 panel 工程化版本为准；其余 6 风格为独有
+1. **提取 ≠ 复制。** 原文每条都在禁止「完整复制 / 逐物转绘 / 保留所有对象」。
+2. **留白是主角。** 主体只占 15%–25%，「留白不是空背景，而是画面的一部分」。139 条里 **91%** 都写到留白。
+3. **提亮、提纯、去灰。** 从原图取 2–4 色，绝不让灰脏原样进成品；同时堵死「廉价高饱和」。
 
-## 维护记录
+## 边界
 
-- 2026-08-23：创建。整合 37 panel + 6 独有风格 + 方法论总纲；上传 github.com/snowfrost/xxd-skill
+- 提示词、图片与附件版权归原作者 @小小东。
+- 本库仅供**个人学习与检索**；转载、商用、二次分发请回原帖并获授权。
+- 默认**不生成图片**，只交付提示词；用户要求出图时走用户自己的生图通道。
+- 不公开分发原作者图片与附件本体。
+- `panels/` 是从作者**公开开源仓库**同步的文字部分（示例图 PNG 未随附，体积原因）；上游完整可运行版见原仓库。
+- 不涉及作者的付费内容（vip.xiaoxiaodong.ai 提示词库 / 知识星球 / 会员 Skills）。
+- 数据为公开页面的一次性快照，不含已删除、私密或受限内容。

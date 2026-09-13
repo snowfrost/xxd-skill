@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 202"
+  short_description: "Geometric Line Diagram with Guide Axes"
+  default_prompt: "Use $xxd-panel-202 to transform my photograph following the complete canonical source brief."

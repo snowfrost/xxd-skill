@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 205"
+  short_description: "Warm Organic Photo and Line Collage"
+  default_prompt: "Use $xxd-panel-205 to transform my photograph following the complete canonical source brief."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 203"
+  short_description: "Impasto Vignette Art Postcard"
+  default_prompt: "Use $xxd-panel-203 to transform my photograph following the complete canonical source brief."
