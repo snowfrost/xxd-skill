@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 228"
+  short_description: "独立纸艺对象：上半保留原照，下半把主体重做成一件书店里的手作纸品"
+  default_prompt: "Use $xxd-panel-228 to transform my photograph following the complete canonical source brief."

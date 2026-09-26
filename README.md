@@ -10,7 +10,7 @@
 | --- | --- | --- |
 | **A · 小红书提示词库** | 小红书 139 条图文笔记 | 139 条提示词，其中 **21 条带附件完整版** |
 | **B · 方法论与帖子独有风格** | X 帖子蒸馏 | 方法论总纲 + 6 个 panel 未覆盖的风格 |
-| **C · 开源 panel 风格工程** | GitHub [nevertoday/xxd-panel-*](https://github.com/nevertoday) | **223 期**，每期一份原版风格 brief |
+| **C · 开源 panel 风格工程** | GitHub [nevertoday/xxd-panel-*](https://github.com/nevertoday) | **228 期**，每期一份原版风格 brief |
 
 ---
 
@@ -48,7 +48,7 @@
 | --- | --- | --- |
 | `P###` | 小红书笔记标题里的系列号 | 70 条（编号 30–177） |
 | `№###` | 作者正文里自报的解锁序号（`unlock_no`） | 39 条 |
-| `xxd-panel-###` | GitHub 开源仓库名，1–223 连续 | 223 期 |
+| `xxd-panel-###` | GitHub 开源仓库名，1–228 连续 | 228 期 |
 
 - 小红书发过的 70 个 P 号，GitHub 上**都有**；另外 **153 期**是小红书没发的。
 - 全量对照见 [`references/panels-index.md`](references/panels-index.md)。
@@ -66,16 +66,16 @@ xxd-skill/
 │   ├── xxd-methodology.md          方法论总纲
 │   ├── prompt-anatomy.md           五段式骨架逐句解剖
 │   ├── styles-index.md             139 条风格索引表
-│   ├── panels-index.md             223 期 panel 全索引 + 与 P 号对照
+│   ├── panels-index.md             228 期 panel 全索引 + 与 P 号对照
 │   ├── attachments.md              笔记附件层（21 条清单 + 抓取配方）
 │   └── usage-guide.md              落地细节与常见失败修法
 ├── scripts/
 │   ├── build_prompt.py             生成可直接复制的提示词
 │   ├── search_style.py             检索风格库
 │   └── find_attachment.py          查作者附件
-├── panels/                         223 期开源 panel 的文字部分
+├── panels/                         228 期开源 panel 的文字部分
 │   ├── _shared/                    共用运行期文件 + panel 提示词撰写指南
-│   └── xxd-panel-001/ … 223/
+│   └── xxd-panel-001/ … 228/
 └── styles-extra/                   6 个 panel 未覆盖的帖子独有风格
 ```
 
@@ -97,19 +97,19 @@ python scripts/search_style.py --attachments     # 只看附件完整版那 20 �
 python scripts/find_attachment.py --list
 ```
 
-或者直接翻 [`panels/`](panels/)：223 期每期一份 `prompt.zh-CN.md`，逐字可复制。
+或者直接翻 [`panels/`](panels/)：228 期每期一份 `prompt.zh-CN.md`，逐字可复制。
 
 ---
 
 ## 五、panels/ 层说明
 
-`panels/` 是从作者 223 个公开开源仓库同步下来的**文字部分**：
+`panels/` 是从作者 228 个公开开源仓库同步下来的**文字部分**：
 
 - **保留**：`prompt.zh-CN.md` / `prompt.en.md`（风格本体）、`SKILL.md`、中英 README、
   `samples.json`、`openai.yaml`、示例清单
 - **省略**：`assets/examples/sample-*.png`（每仓约 18 MB，是本仓库体积的绝对主体，
-  223 期合计 8.6 GB，故不随附）、`README.{ja,ko,ar}.md`（按要求只保留中英）、仓库基建文件
-- **共用**：223 期完全一致的文件只存一份，放在 `panels/_shared/`（`soldier-runtime.md`、
+  228 期合计约 8.8 GB，故不随附）、`README.{ja,ko,ar}.md`（按要求只保留中英）、仓库基建文件
+- **共用**：228 期完全一致的文件只存一份，放在 `panels/_shared/`（`soldier-runtime.md`、
   运行期脚本、「如何撰写 panel 提示词」指南等）
 
 每期目录里另有一份 `SOURCE.md`，记着上游仓库地址与文件映射，方便回源。

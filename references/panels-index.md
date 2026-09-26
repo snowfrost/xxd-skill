@@ -1,6 +1,6 @@
-# xxd-panel 全索引（223 期）
+# xxd-panel 全索引（228 期）
 
-> 上游：[github.com/nevertoday](https://github.com/nevertoday)　同步时间：2026-09-13
+> 上游：[github.com/nevertoday](https://github.com/nevertoday)　同步时间：2026-09-26（新增 224–228 期）
 
 每期目录 `panels/xxd-panel-NNN/` 里的 **`prompt.zh-CN.md` 就是风格本体**，逐字可复制。
 示例图未随附，点「图」列的链接在线看。
@@ -232,3 +232,8 @@
 | [221](../panels/xxd-panel-221/prompt.zh-CN.md) | XXD Panel 221｜摄影与数码混合媒介拼贴海报 | 1,015 | [8张](https://github.com/nevertoday/xxd-panel-221/tree/main/assets/examples) | — | [repo](https://github.com/nevertoday/xxd-panel-221) |
 | [222](../panels/xxd-panel-222/prompt.zh-CN.md) | XXD Panel 222｜摄影与数码混合媒介拼贴海报 | 1,091 | [8张](https://github.com/nevertoday/xxd-panel-222/tree/main/assets/examples) | — | [repo](https://github.com/nevertoday/xxd-panel-222) |
 | [223](../panels/xxd-panel-223/prompt.zh-CN.md) | XXD Panel 223｜摄影与数码混合媒介拼贴海报 | 1,238 | [8张](https://github.com/nevertoday/xxd-panel-223/tree/main/assets/examples) | — | [repo](https://github.com/nevertoday/xxd-panel-223) |
+| [224](../panels/xxd-panel-224/prompt.zh-CN.md) | XXD Panel 224｜瓷器碎片拼合重构 | 1,012 | [8张](https://github.com/nevertoday/xxd-panel-224/tree/main/assets/examples) | — | [repo](https://github.com/nevertoday/xxd-panel-224) |
+| [225](../panels/xxd-panel-225/prompt.zh-CN.md) | XXD Panel 225｜办公物件手绘拼贴 | 1,140 | [8张](https://github.com/nevertoday/xxd-panel-225/tree/main/assets/examples) | — | [repo](https://github.com/nevertoday/xxd-panel-225) |
+| [226](../panels/xxd-panel-226/prompt.zh-CN.md) | XXD Panel 226｜糖霜曲奇浅浮雕 | 842 | [8张](https://github.com/nevertoday/xxd-panel-226/tree/main/assets/examples) | — | [repo](https://github.com/nevertoday/xxd-panel-226) |
+| [227](../panels/xxd-panel-227/prompt.zh-CN.md) | XXD Panel 227｜刺绣任务章 | 1,446 | [8张](https://github.com/nevertoday/xxd-panel-227/tree/main/assets/examples) | — | [repo](https://github.com/nevertoday/xxd-panel-227) |
+| [228](../panels/xxd-panel-228/prompt.zh-CN.md) | XXD Panel 228｜独立纸艺对象 | 1,199 | [8张](https://github.com/nevertoday/xxd-panel-228/tree/main/assets/examples) | — | [repo](https://github.com/nevertoday/xxd-panel-228) |

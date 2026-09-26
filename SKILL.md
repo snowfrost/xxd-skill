@@ -1,6 +1,6 @@
 ---
 name: xxd-skill
-description: 小小东（xxd，小红书号 biyiyiyibi / X @xiaoxiaodong01）AI 出图提示词与风格的完整库：小红书 139 条图文笔记的提示词原文（含 21 个笔记附件的完整版）+ 223 期开源 xxd-panel 风格工程 + 6 个帖独有风格 + 方法论总纲。当用户要把一张普通照片重构成高审美海报/插画/平面视觉（纸雕、剪纸拼贴、厚墨浮雕、限色版画、线描淡彩、水彩解构、水墨建筑、像素栅格、等距微缩、极简色块章印、厚涂微缩、排版海报等），或提出「照片转风格化」「生成出图提示词」「提升照片审美」「一天解锁一个提示词」「把这个风格套到我的图上」「xxd panel N」「小小东的提示词」「xxd 风格」「上下分割双联」这类需求时使用。提供风格检索、完整可复制提示词、五段式骨架与双联法模板、禁忌词表、笔记附件查取、panel 源码回源。不生成图片（默认只交付提示词，由用户自行投喂模型），不冒充原作者，不公开分发原作者图片与附件本体，不涉及付费内容。
+description: 小小东（xxd，小红书号 biyiyiyibi / X @xiaoxiaodong01）AI 出图提示词与风格的完整库：小红书 139 条图文笔记的提示词原文（含 21 个笔记附件的完整版）+ 228 期开源 xxd-panel 风格工程 + 6 个帖独有风格 + 方法论总纲。当用户要把一张普通照片重构成高审美海报/插画/平面视觉（纸雕、剪纸拼贴、厚墨浮雕、限色版画、线描淡彩、水彩解构、水墨建筑、像素栅格、等距微缩、极简色块章印、厚涂微缩、排版海报等），或提出「照片转风格化」「生成出图提示词」「提升照片审美」「一天解锁一个提示词」「把这个风格套到我的图上」「xxd panel N」「小小东的提示词」「xxd 风格」「上下分割双联」这类需求时使用。提供风格检索、完整可复制提示词、五段式骨架与双联法模板、禁忌词表、笔记附件查取、panel 源码回源。不生成图片（默认只交付提示词，由用户自行投喂模型），不冒充原作者，不公开分发原作者图片与附件本体，不涉及付费内容。
 ---
 
 # xxd-skill · 小小东提示词与风格全库
@@ -15,7 +15,7 @@ description: 小小东（xxd，小红书号 biyiyiyibi / X @xiaoxiaodong01）AI 
 | --- | --- | --- | --- |
 | **A · 小红书提示词库** | 小红书 139 条图文笔记 | 139 条提示词，其中 21 条带附件完整版 | `data/styles.json` + `references/` |
 | **B · 方法论与帖子独有风格** | X 帖子蒸馏（2025.11 起） | 方法论总纲 + 6 个 panel 未覆盖的风格 | `references/xxd-methodology.md` + `styles-extra/` |
-| **C · 开源 panel 风格工程** | GitHub [nevertoday/xxd-panel-*](https://github.com/nevertoday) | **223 期**，每期一份原版风格 brief | `panels/` |
+| **C · 开源 panel 风格工程** | GitHub [nevertoday/xxd-panel-*](https://github.com/nevertoday) | **228 期**，每期一份原版风格 brief | `panels/` |
 
 ## 先看这张图
 
@@ -45,7 +45,7 @@ description: 小小东（xxd，小红书号 biyiyiyibi / X @xiaoxiaodong01）AI 
 | --- | --- | --- |
 | `P###` | 小红书笔记标题里的系列号，如「异形微岛版画风｜小小东P177」 | 70 条（编号 30–177） |
 | `№###` | 作者在**正文里自报**的解锁序号（「解锁序号130」／「xd-panel-107」／「本期为：P085」），存 `unlock_no` | 39 条 |
-| `xxd-panel-###` | GitHub 开源仓库名，1–223 连续 | 223 期 |
+| `xxd-panel-###` | GitHub 开源仓库名，1–228 连续 | 228 期 |
 
 - 小红书发过的 70 个 P 号，GitHub 上**都有**；另外 153 期是小红书没发的。
 - 全量对照表见 **`references/panels-index.md`**（含每期的风格名、原文首句、与 P 号是否互见）。
@@ -86,7 +86,7 @@ python scripts/search_style.py --attachments  # 只看「提示词来自附件�
 ### 3. 想自己写一条新风格 → 套骨架 + 翻 panel 源码
 
 - 读 `references/prompt-anatomy.md` 的「自己写一条的模板」，把第 3 段换成新风格的媒介词。
-- 想找更偏门的风格，直接翻 `panels/`：223 期每期一份原版 brief，按 `prompt.zh-CN.md` 逐字复刻。
+- 想找更偏门的风格，直接翻 `panels/`：228 期每期一份原版 brief，按 `prompt.zh-CN.md` 逐字复刻。
 - **必须保留**「赋予模型重新导演画面的权力」那句授权句，否则模型会老实复刻原图，效果退化成滤镜。
 
 ## 三层目录说明
@@ -100,16 +100,16 @@ xxd-skill/
 │   ├── xxd-methodology.md          方法论总纲：双联法母模板 + 六种风格插槽 + 五件套 + 批量咒语
 │   ├── prompt-anatomy.md           五段式骨架逐句解剖 + 句型模板 + 材质词表 + 禁忌词表
 │   ├── styles-index.md             139 条风格索引表（编号/风格名/核心语言/字数/收藏/原帖）
-│   ├── panels-index.md             **223 期 panel 全索引 + 与 P 号对照**
+│   ├── panels-index.md             **228 期 panel 全索引 + 与 P 号对照**
 │   ├── attachments.md              笔记附件层：21 条清单 + 抓取配方（widgets + file/preview 签名）
 │   └── usage-guide.md              落地细节：画布比例、原图怎么给、取色替换、常见失败与修法
 ├── scripts/
 │   ├── build_prompt.py             生成可直接复制的提示词
 │   ├── search_style.py             检索风格库
 │   └── find_attachment.py          查作者附件（doc_id、页数、下载量、完整正文）
-├── panels/                         **223 期开源 panel 的文字部分**
-│   ├── _shared/                    223 期共用的运行期文件（只存一份）＋「如何撰写 panel 提示词」指南
-│   └── xxd-panel-001/ … 223/       每期：prompt.zh-CN.md（风格本体）/ SKILL.md / README / 示例清单
+├── panels/                         **228 期开源 panel 的文字部分**
+│   ├── _shared/                    228 期共用的运行期文件（只存一份）＋「如何撰写 panel 提示词」指南
+│   └── xxd-panel-001/ … 228/       每期：prompt.zh-CN.md（风格本体）/ SKILL.md / README / 示例清单
 └── styles-extra/                   6 个 panel 未覆盖的帖子独有风格
 ```
 
