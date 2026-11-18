@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-203
-description: "Create Panel 203 raster artwork: Impasto Vignette Art Postcard. Use when the user invokes xxd-panel-203 or requests this specific visual language."
+description: "XXD Panel 203｜Impasto Vignette Art Postcard: reduces a photo to a small vignette scene, placed like a stamp in generous whitespace, off-centre, touching an edge or cropped, and paints it as a painterly impasto miniature — clear but restrained block strokes, palette-knife marks and slight paint build-up, with leaves, walls, water, clouds and ground organised as simplified patches of thick paint. Cream, off-white and pale grey-white grounds are balanced by light grey-blue, misty blue and soft sky blue, with one or two bright colours from the photo such as golden yellow, apricot, grass green or lake blue as the focus. The layout reads like an art postcard, with a small title, note or number in a corner. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-203 or asks for impasto, palette-knife or painterly postcard vignettes from a photo."
 ---
 
 # XXD Panel 203

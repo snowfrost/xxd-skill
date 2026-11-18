@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-086
-description: "Create XXD Panel 086 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-086 or requests the exact Panel 086 style."
+description: "XXD Panel 086｜Negative-Space Print Journal: keeps only the three to five visual facts that make a photo work and rebuilds them as a mid-century modernist limited-colour screen print — silhouettes, geometric shapes and simple colour blocks, with dry-brush, brayer texture, dragged ink, broken ink and uneven coverage — in two to four spot colours drawn from the photo; the subject is placed by its direction and weight rather than centred, often small or off to one side against a large, meaningful blank, with one focus and one main direction, and a few words in narrow, modernist letterpress-style type. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-086 or asks for mid-century screen print, limited-ink risograph or whitespace-led printmaking poster art from a photo."
 ---
 
 # XXD Panel 086

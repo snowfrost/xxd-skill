@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 207"
-  short_description: "Airy Blue Mixed-media Collage Insert"
-  default_prompt: "Use $xxd-panel-207 to transform my photograph following the complete canonical source brief."
+  short_description: "浅蓝白混合媒介插页：把照片做成居中的一小块照片加线稿拼贴，浅蓝白底，配手写式注记"
+  default_prompt: "Use $xxd-panel-207 to turn my photo into Airy Blue Mixed-media Collage Insert artwork."

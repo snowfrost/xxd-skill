@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-035
-description: "Create XXD Panel 035 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-035 or requests the exact Panel 035 style."
+description: "XXD Panel 035｜Building-Block Reconstruction: rebuilds the photo's subject as a single LEGO / Minecraft-style voxel-block collectible — blocky proportions, a clean silhouette and visible module layers in matte ABS plastic with seams and soft contact shadows, in bright saturated brick colours (red, yellow, blue, green, orange, purple) drawn from the photo — set on a plain, much lighter background with only a small base or shadow. A short title and a few tags in pixel or instruction-manual style type. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-035 or asks for LEGO, voxel, pixel-block or toy-collectible reconstruction from a photo."
 ---
 
 # XXD Panel 035

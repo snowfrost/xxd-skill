@@ -1,7 +1,7 @@
 interface:
   display_name: "/xxd-panel-118"
-  short_description: "Graphite thematic sketches with active whitespace."
-  default_prompt: "Use $xxd-panel-118 on an image or directory. Read its complete Chinese original brief, isolate each source, and generate fresh graphite thematic sketch PNGs in the selected mode, with strict 50:50 pairs and no third band."
+  short_description: "石墨留白素描志：用石墨铅笔排线重新构图照片主体，灰调为主，留白极多"
+  default_prompt: "Use $xxd-panel-118 to turn my photo into Graphite Whitespace Sketch Chronicle artwork."
 
 policy:
   allow_implicit_invocation: true

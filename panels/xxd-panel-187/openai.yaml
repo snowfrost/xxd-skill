@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 187"
-  short_description: "Archival Collage with Oversized Type"
-  default_prompt: "Use $xxd-panel-187 to transform my photograph following the complete canonical source brief."
+  short_description: "巨型字体档案拼贴：把照片主体做成摄影切片与制图线稿的档案拼贴，背后压一组超大字体"
+  default_prompt: "Use $xxd-panel-187 to turn my photo into Archival Collage with Oversized Type artwork."

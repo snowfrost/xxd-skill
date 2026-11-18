@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-127
-description: "Create XXD Panel 127 raster artwork from photographs using mixed-media architectural collage, tiny photographic cutouts, paper and material swatches, sparse research annotations and vast asymmetric whitespace. Use when the user invokes xxd-panel-127 or requests this style. Supports individual images, isolated directory batches, strict 50:50 comparisons, design-only outputs, and wallpapers."
+description: "XXD Panel 127｜Mixed-media Architectural Collage: turns the key subject of a photo into a small conceptual collage like an architect's study sheet, built from photo cut-outs, old-magazine fragments, muted paper blocks, translucent paper and material swatches with a few structural lines, arrows, circles and handwritten notes, on warm white paper with grain and cut edges, in 2–4 muted colours from the photo, a tiny focal point in a large empty field and small note-like text. Non-photorealistic, not a render. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-127 or asks for architectural collage, photomontage, design-research or interior mood-board style images from a photo."
 ---
 
 # XXD Panel 127

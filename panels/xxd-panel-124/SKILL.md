@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-124
-description: "Create XXD Panel 124 raster artwork from photographs using fabric collage and applique, large cloth pieces, textile grain, frayed edges, restrained hand stitches and abundant whitespace. Use when the user invokes xxd-panel-124 or requests this style. Supports individual images, isolated directory batches, strict 50:50 comparisons, design-only outputs, and wallpapers."
+description: "XXD Panel 124｜Fabric Collage Whitespace: rebuilds the key subject of a photo as a fabric-collage and appliqué illustration made of a few large cloth pieces, simple silhouettes and flat patches with irregular cut edges, cotton, linen and woven textures, frayed threads and a few visible stitches or embroidery lines, in 2–4 warm, soft colours taken from the photo, with a small subject in deliberate whitespace and a few words in any language. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-124 or asks for fabric collage, appliqué, patchwork or stitched textile illustration from a photo."
 ---
 
 # XXD Panel 124

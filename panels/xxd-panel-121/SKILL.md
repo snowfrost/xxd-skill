@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-121
-description: "Create XXD Panel 121 raster artwork from photographs using naïve lifestyle doodles, relaxed marker drawing, mature invisible-grid composition, intelligent handwritten text relationships, and exceptionally abundant whitespace. Use when the user invokes xxd-panel-121 or requests this restrained lifestyle editorial style. Supports individual images, isolated directory batches, strict 50:50 comparisons, design-only outputs, and wallpapers."
+description: "XXD Panel 121｜Lifestyle Doodle Editorial: re-stages the key subject, pose and story of a photo as a naive hand-drawn lifestyle doodle with a mature editorial layout — simplified, characterful shapes in shaky, broken marker lines with crayon or oil-pastel fill that overruns and leaves white, the drawing small inside very large whitespace, and words composed with the picture on a hidden grid: a short line plus tiny supporting text in light handwriting that hugs an outline, follows a gesture or sits in negative space instead of a centred caption, in soft bright colours from the photo. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-121 or asks for marker doodle, naive lifestyle illustration or editorial image-and-text layout from a photo."
 ---
 
 # XXD Panel 121

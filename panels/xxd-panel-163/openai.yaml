@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 163"
-  short_description: "Centred Flat-colour Stamp Composition"
-  default_prompt: "Use $xxd-panel-163 to transform my photograph following the complete canonical source brief."
+  short_description: "居中纯色章印志：用几块干净的纯色色块把照片主体压成一枚居中的小图章"
+  default_prompt: "Use $xxd-panel-163 to turn my photo into Centred Flat-colour Stamp Composition artwork."

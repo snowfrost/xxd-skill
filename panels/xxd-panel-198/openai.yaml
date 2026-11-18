@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 198"
-  short_description: "Limited-palette Floating Fashion Collage"
-  default_prompt: "Use $xxd-panel-198 to transform my photograph following the complete canonical source brief."
+  short_description: "限色失重时装拼贴：把照片主体画成漂浮失重的概念时装插画，数字拼贴加半调网点，限定色"
+  default_prompt: "Use $xxd-panel-198 to turn my photo into Limited-palette Floating Fashion Collage artwork."

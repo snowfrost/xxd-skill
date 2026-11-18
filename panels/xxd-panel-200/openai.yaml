@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 200"
-  short_description: "Blue-grey Monochrome Line Vignette"
-  default_prompt: "Use $xxd-panel-200 to transform my photograph following the complete canonical source brief."
+  short_description: "蓝灰单色手绘线描：只用一种蓝灰色松弛线条，把照片画成一个带草图痕迹的小线描"
+  default_prompt: "Use $xxd-panel-200 to turn my photo into Blue-grey Monochrome Line Vignette artwork."

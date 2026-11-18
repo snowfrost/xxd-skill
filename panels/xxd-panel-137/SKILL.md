@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-137
-description: "Create XXD Panel 137 raster artwork from photographs using fine vintage etching linework, sparse hatching and stippling, one or two rough modern print colour blocks, a tiny focal subject and exceptionally clean whitespace. Use when the user invokes xxd-panel-137 or requests this style. Supports individual images, isolated directory batches, strict 50:50 comparisons, design-only outputs, and wallpapers."
+description: "XXD Panel 137｜Etching Texture Collage: strips a photo down to its key subject, deleting background and secondary objects, and redraws it in fine vintage etching-style line art with a little parallel hatching, cross-hatching and stippling, overlaid with one or two rough modern colour blocks that look roller- or screen-printed, in a few brightened colours from the photo on warm white or ivory, as a very small focal point inside vast, continuous clean whitespace with small art-book typography. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-137 or asks for etching, engraving line art with modern textured colour blocks, or minimalist art print posters from a photo."
 ---
 
 # XXD Panel 137

@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-215
-description: "Create Panel 215 raster artwork: Grayscale Axonometric with Ochre Accent. Use when the user invokes xxd-panel-215 or requests this specific visual language."
+description: "XXD Panel 215｜Grayscale Axonometric with Ochre Accent: rebuilds a photo's subject as a small, precise axonometric diagram vignette — three to five key parts organised through axonometric projection, sections and layering, with people, animals, plants or objects also drawn as diagrammatic specimens — in white, light and mid grey with darker profile lines on the key edges, faint thin lines for any surroundings, about ninety percent white and pale cool grey, and a single ochre or warm-orange accent on a figure or focal point, plus a few slim architectural-publication captions in open white space. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-215 or asks for minimal architectural axonometric, grayscale diagram illustration with one warm accent from a photo."
 ---
 
 # XXD Panel 215

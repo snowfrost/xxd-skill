@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 188"
-  short_description: "Warm Gold Architectural Archive"
-  default_prompt: "Use $xxd-panel-188 to transform my photograph following the complete canonical source brief."
+  short_description: "米金留白建筑档案：把照片主体缩成小小的建筑标本，旧纸米白底配沙金标题，像博物馆图录"
+  default_prompt: "Use $xxd-panel-188 to turn my photo into Warm Gold Architectural Archive artwork."

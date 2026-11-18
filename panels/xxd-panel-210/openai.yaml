@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 210"
-  short_description: "Cool Minimal Conceptual Photo Collage"
-  default_prompt: "Use $xxd-panel-210 to transform my photograph following the complete canonical source brief."
+  short_description: "冷调轻量概念拼贴：把照片主体缩小成摄影拼贴，配冷蓝手绘线条、小气泡和符号，大片留白"
+  default_prompt: "Use $xxd-panel-210 to turn my photo into Cool Minimal Conceptual Photo Collage artwork."

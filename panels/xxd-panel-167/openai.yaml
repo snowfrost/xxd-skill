@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 167"
-  short_description: "Centred Wave-form Raised-ink Relief"
-  default_prompt: "Use $xxd-panel-167 to transform my photograph following the complete canonical source brief."
+  short_description: "波形厚墨浮雕志：让照片主角落在一道居中的抽象波浪上，整体像厚油墨压印的浮雕"
+  default_prompt: "Use $xxd-panel-167 to turn my photo into Centred Wave-form Raised-ink Relief artwork."

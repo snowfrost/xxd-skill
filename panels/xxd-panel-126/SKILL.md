@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-126
-description: "Create XXD Panel 126 raster artwork from photographs using poetic miniature mixed-media collage, a postmark-sized subject, thin watercolour, torn handmade paper and distant bookish typography. Use when the user invokes xxd-panel-126 or requests this style. Supports individual images, isolated directory batches, strict 50:50 comparisons, design-only outputs, and wallpapers."
+description: "XXD Panel 126｜Poetic Miniature Collage: shrinks the key subject of a photo to a postage-stamp-sized collage made of thin watercolour, flat colour, hand marks, translucent and torn paper, placed off-centre in a vast asymmetric field of warm ivory handmade paper with visible fibres, in 2–4 soft colours from the photo, with small, bookish poetic typography set far from the image. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-126 or asks for minimalist poetic collage, tiny-subject art-book layouts or torn-paper watercolour collage from a photo."
 ---
 
 # XXD Panel 126

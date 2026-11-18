@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-132
-description: "Create XXD Panel 132 raster artwork from photographs using miniature urban pen-and-wash illustration, wobbly ink lines, limited warm washes, paper grain and distant poetic typography. Use when the user invokes xxd-panel-132 or requests this style. Supports individual images, isolated directory batches, strict 50:50 comparisons, design-only outputs, and wallpapers."
+description: "XXD Panel 132｜Pen-and-Wash Travel: redraws the key building, street or scene of a photo as a small urban-sketch pen-and-wash illustration, with black pen or fineliner lines that wobble naturally, slightly flattened and simplified perspective, and a few flat washes in a warm limited palette of brick red, orange-brown, ochre, black and white with tiny red or yellow accents, placed like a postage stamp in wide whitespace on visible paper grain, with small, bookish poetic text in any language. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-132 or asks for urban sketch, line-and-wash, ink-and-watercolour travel or architecture illustration from a photo."
 ---
 
 # XXD Panel 132

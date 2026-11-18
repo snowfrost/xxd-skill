@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-167
-description: "Create Panel 167 raster artwork: Centred Wave-form Raised-ink Relief. Use when the user invokes xxd-panel-167 or requests this specific visual language."
+description: "XXD Panel 167｜Centred Wave-form Raised-ink Relief: builds a centred, abstract wave-like flowing form — a rising, curling curve or band of colour that carries the photo's most recognisable subject on its crest or bend (it need not be real sea water) — and renders both in thick raised-ink, embossed screen-print texture: stacked ink with slightly raised edges, layered height, ink grain and a very light side light. Two to four bright, lively colours from the photo with a small warm accent, a near-white ground, very large whitespace and a few quiet words. Not plastic 3D or CG. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-167 or asks for raised-ink, embossed screen-print or centred wave-composition poster from a photo."
 ---
 
 # XXD Panel 167

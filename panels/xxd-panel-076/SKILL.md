@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-076
-description: "Create XXD Panel 076 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-076 or requests the exact Panel 076 style."
+description: "XXD Panel 076｜Macaron Crayon: reinterprets the key subject, pose and story of a photo as a rough dark-crayon sketch with Eastern-style whitespace — charcoal- and coloured-pencil-like lines that break, repeat and shift, with accurate proportion, direction and pose — plus a few matte gouache or acrylic patches showing paper tooth, waxy drag and bare paper, in bright, clear macaron colours drawn from the warmest, liveliest hints in the photo such as apricot, peach, coral, butter yellow, mint and sky blue; the subject sits in one area, at least about 45% of the image is one continuous calm blank, and small typewriter-style notes follow the subject's movement or the edge of the blank. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-076 or asks for crayon travel sketch, macaron-colour crayon or warm humanist travel-journal illustration from a photo."
 ---
 
 # XXD Panel 076

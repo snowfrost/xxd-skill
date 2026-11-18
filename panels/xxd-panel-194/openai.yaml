@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 194"
-  short_description: "Bright Axonometric Site-base Model"
-  default_prompt: "Use $xxd-panel-194 to transform my photograph following the complete canonical source brief."
+  short_description: "明快基座轴测体量：把照片主体做成从一块平面基座上长出来的等轴测体块模型，配色明亮"
+  default_prompt: "Use $xxd-panel-194 to turn my photo into Bright Axonometric Site-base Model artwork."

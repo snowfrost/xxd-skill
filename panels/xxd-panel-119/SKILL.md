@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-119
-description: "Create XXD Panel 119 raster artwork by translating a source photograph into a hand-sewn textile collage with simplified fabric silhouettes, cotton-linen fibres, raw-edge appliqué, sparse embroidery, 2–4 vivid source-derived colours, and exceptionally generous negative space. Supports isolated image or directory inputs and strict 50:50 top-bottom or left-right comparisons, design-only work, and wallpapers. Use when the user invokes xxd-panel-119 or asks for this hand-sewn textile collage editorial style."
+description: "XXD Panel 119｜Hand-Sewn Textile & Negative Space Chronicle: cuts a photo down to its most recognisable subject, outline and pose and re-stages it as a hand-sewn textile collage with extreme whitespace — most of the background removed, the subject compressed into one smaller, refined focal point made of a few large fabric pieces, simple silhouettes, layered cloth, raw-edged appliqué and a little embroidery, with cotton and linen fibres, irregular cuts, slight misalignment and visible hand stitches, placed off-centre, against an edge or floating so the open space does most of the work, two to four warm, lively colours from the photo brightened and cleaned, and a few quiet words in any language. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-119 or asks for minimal appliqué, stitched fabric collage with lots of negative space or textile art from a photo."
 ---
 
 # XXD Panel 119

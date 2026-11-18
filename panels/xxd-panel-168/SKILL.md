@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-168
-description: "Create Panel 168 raster artwork: Reserved-white Layered Painted Field. Use when the user invokes xxd-panel-168 or requests this specific visual language."
+description: "XXD Panel 168｜Reserved-white Layered Painted Field: brushes an irregular rectangle of colour onto wide near-white paper and lets the photo's most recognisable subject emerge as reserved paper white, a negative shape left unpainted rather than pasted on. The field is built from thin washes, broken layered strokes, half-dry scrubbing and a few darker accents, with brush marks and gaps visible; a few leaves, lines or dots break past its edge. Warm cream yellow, ochre, apricot and coral with small cool accents from the photo, and a few short words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-168 or asks for reserved-white, negative-shape or layered brushed colour-field painting from a photo."
 ---
 
 # XXD Panel 168

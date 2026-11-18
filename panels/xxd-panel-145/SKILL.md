@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-145
-description: "Create XXD Panel 145 raster artwork from photographs using vintage limited-colour printmaking, engraved hatching and stippling, halftone dots, subtle screen-print or Riso grain and a tiny vignette amid vast whitespace. Use when the user invokes xxd-panel-145 or requests this style. Supports individual images, isolated directory batches, strict 50:50 comparisons, design-only outputs, and wallpapers."
+description: "XXD Panel 145｜Vintage Spot-colour Printmaking: redraws the key subject of a photo as a small vintage printmaking vignette, using engraved fine lines, hatching, cross-hatching, stippling and halftone dots with screen-print or riso grain, slight ink texture and old-paper print surface, overprinted in 2–4 limited spot colours from the photo such as forest green, lake blue, navy, warm yellow, ochre-orange or soft red on warm off-white paper, set small in very large whitespace with widely spaced letterpress or typewriter-style serif text. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-145 or asks for vintage engraving, retro screen-print, riso spot-colour or vignette spot illustration from a photo."
 ---
 
 # XXD Panel 145

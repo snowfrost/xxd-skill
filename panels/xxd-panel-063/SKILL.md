@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-063
-description: "Create XXD Panel 063 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-063 or requests the exact Panel 063 style."
+description: "XXD Panel 063｜Pixel Metaphor Journal: rebuilds the subject, pose and story of a photo as an editorial pixel collage — one large pixel mask cut from the photo's most memorable outline or negative shape, with a few stepped-edge, square-module figures nested inside and around it, a soft, slightly desaturated limited palette from the photo with one or two vivid accents, light pixel offsets used only as rhythm, a near-white tinted ground with faint paper grain, wide whitespace and a few words set along or inside the pixel shapes. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-063 or asks for pixel mask, soft pixel collage or pixel metaphor poster art from a photo."
 ---
 
 # XXD Panel 063

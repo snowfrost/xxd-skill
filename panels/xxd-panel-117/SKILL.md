@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-117
-description: "Create XXD Panel 117 raster artwork from a photograph by extracting one core theme, visual anchor and emotional relationship, then recomposing a small stamp-like subject with fine hand-drawn lines, pale flat pastel colours, paper texture, light collage and intentional whitespace. Use when the user invokes xxd-panel-117 or requests this fine-line pale-colour editorial style. Supports isolated image and directory inputs, strict 50:50 comparisons, design-only and wallpapers."
+description: "XXD Panel 117｜Fine-Line Pastel Whitespace Chronicle: picks one theme, one visual anchor and one mood from a photo, drops the rest and re-stages even an ordinary shot as a standalone picture — fine hand-drawn lines with few inner strokes, thin, calm flat pastel washes, paper texture, an optional very pale colour block that the subject breaks out of, a small subject that may be moved, recropped or turned, whitespace clearly larger than the drawn area, two to four high-key pastels from the photo on near-white paper, one or two tiny symbols and a few thin handwritten-feeling words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-117 or asks for fine-line pastel, light editorial collage or minimal whitespace illustration from a photo."
 ---
 
 # XXD Panel 117

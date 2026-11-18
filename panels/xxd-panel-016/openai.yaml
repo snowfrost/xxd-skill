@@ -1,7 +1,7 @@
 interface:
   display_name: "/xxd-panel-016"
-  short_description: "Create Panel 016 from images or a directory batch."
-  default_prompt: "Use $xxd-panel-016; accept one image or an image directory, keep the body of its bundled original style brief as the sole aesthetic authority, resolve shared batch settings once, isolate every source, send exactly one mode-specific delivery contract per asset, keep one flat task directory, make design-only and wallpaper outputs fully transformed, and ground factual-looking copy in supplied or verified facts."
+  short_description: "动势版画：把照片压缩成一个极小锚点和一场由细线、网点组成的运动"
+  default_prompt: "Use $xxd-panel-016 to turn my photo into Kinetic Woodblock Print artwork."
 
 policy:
   allow_implicit_invocation: true

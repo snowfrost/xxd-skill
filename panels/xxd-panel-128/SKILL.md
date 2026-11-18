@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-128
-description: "Create XXD Panel 128 raster artwork from photographs using miniature enamel medallions, cloisonne-inspired bas-relief, subtle metal rims, elegant travel typography and generous whitespace. Use when the user invokes xxd-panel-128 or requests this style. Supports individual images, isolated directory batches, strict 50:50 comparisons, design-only outputs, and wallpapers."
+description: "XXD Panel 128｜Enamel Medallion Travel: compresses the key subject of a photo into a round enamel medallion like a travel souvenir badge, with a metal rim, coloured cloisonné-style fills, soft highlights and shallow bas-relief layers holding a miniature scene, placed in a large off-white or ivory field with refined serif titles, small notes or numbers like a minimalist travel poster, in 2–4 softened colours from the photo. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-128 or asks for enamel pin, cloisonné, medallion badge or minimalist travel poster images from a photo."
 ---
 
 # XXD Panel 128

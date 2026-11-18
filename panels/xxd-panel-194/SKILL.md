@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-194
-description: "Create Panel 194 raster artwork: Bright Axonometric Site-base Model. Use when the user invokes xxd-panel-194 or requests this specific visual language."
+description: "XXD Panel 194｜Bright Axonometric Site-base Model: cuts a flat site base — square, rectangular, an irregular slice or a section — and grows the photo's subject and a few essential surroundings out of it as simplified massing blocks in an even axonometric view, showing volume, levels, paths and terrain without vanishing-point perspective; people, animals, objects and vehicles become conceptual volume models on a miniature site. The palette lifts the brightest colours of the photo — clear sky blue, lake teal, fresh green, warm yellow, coral orange, peach pink — over plenty of clean warm white, and minimal titles and small notes run along the base edge or the axonometric axes. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-194 or asks for axonometric, massing-diagram or site-model illustrations from a photo."
 ---
 
 # XXD Panel 194

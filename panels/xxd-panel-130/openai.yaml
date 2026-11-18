@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 130"
-  short_description: "Hard-edge Faceted Collage"
-  default_prompt: "Use $xxd-panel-130 to transform my photograph using the complete canonical source brief."
+  short_description: "硬边几何切面志：把照片切成黑白灰硬边几何块面，加一两块强调色和复印网点"
+  default_prompt: "Use $xxd-panel-130 to turn my photo into Hard-edge Faceted Collage artwork."

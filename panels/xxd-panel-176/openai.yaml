@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 176"
-  short_description: "Hand-drawn Ritual Diagram in Shallow Relief"
-  default_prompt: "Use $xxd-panel-176 to transform my photograph following the complete canonical source brief."
+  short_description: "工笔阵盘微立体志：让照片主体坐镇一座工笔细线画的精密阵盘中心，层层浮起又向外疏开"
+  default_prompt: "Use $xxd-panel-176 to turn my photo into Hand-drawn Ritual Diagram in Shallow Relief artwork."

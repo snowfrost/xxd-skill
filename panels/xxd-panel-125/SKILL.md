@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-125
-description: "Create XXD Panel 125 raster artwork from photographs using naive digital crayon and oil-pastel drawing, broken dry-media lines, a small stamp-like subject and natural limited colours with one bright accent. Use when the user invokes xxd-panel-125 or requests this style. Supports individual images, isolated directory batches, strict 50:50 comparisons, design-only outputs, and wallpapers."
+description: "XXD Panel 125｜Naïve Crayon Whitespace: redraws the key subject of a photo as a naive, childlike crayon and oil-pastel drawing with loose, rough, broken outlines, simplified proportions and visible paper gaps, grain and scuffs, in 2–4 soft natural colours from the photo on warm off-white paper plus one bright orange, coral, warm red or yellow accent, set as a small stamp-like figure in large whitespace with a few words in any language. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-125 or asks for crayon, oil pastel, naive picture-book illustration from a photo."
 ---
 
 # XXD Panel 125

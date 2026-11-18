@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-054
-description: "Create XXD Panel 054 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-054 or requests the exact Panel 054 style."
+description: "XXD Panel 054｜Memory Sticker Album: compresses a photo into one large main image of three to six flat shapes plus six die-cut memory stickers of different sizes — details picked from the photo such as a feature, a gesture, a plant, an object, food, a pattern or a patch of light — each with a thick pale cut border, loosely scattered and slightly rotated around the main image, never a grid. Everything is matte gouache, cut paper and Risograph or screen-print flat colour with powdery edges, paper grain and slight misregistration, in airy pale blues balanced by ivory, cream and soft grey-green with a touch of dusty rose. A few small free words, not labels for each sticker. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-054 or asks for a sticker-sheet memory collage, scrapbook page or travel-journal stickers from a photo."
 ---
 
 # XXD Panel 054

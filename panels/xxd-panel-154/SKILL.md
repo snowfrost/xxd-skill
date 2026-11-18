@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-154
-description: "Create XXD Panel 154 raster artwork from photographs using true low-resolution 16-bit pixel art, deliberate hard-edged pixel clusters without anti-aliasing, a 2–4-colour palette, a small stamp-like subject, bitmap text and vast whitespace. Use when the user invokes xxd-panel-154 or requests this style. Supports individual images, isolated directory batches, strict 50:50 comparisons, design-only outputs, and wallpapers."
+description: "XXD Panel 154｜Retro Pixel Whitespace: rebuilds the most recognisable subject of a photo as true low-resolution 16-bit-style pixel art — hard-edged square pixels with no anti-aliasing, clear stepped outlines, a few large pixel clusters, light dithering and a limited palette of 2–4 brightened colours from the photo — set as a small stamp-like figure in a huge field of whitespace, with a few words in a small bitmap font. Not a mosaic filter or game screenshot. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-154 or asks for retro pixel art, 16-bit sprite or minimalist pixel poster from a photo."
 ---
 
 # XXD Panel 154

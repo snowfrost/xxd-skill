@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-141
-description: "Create XXD Panel 141 raster artwork from photographs using minimal hand-drawn fine line illustration, searching and broken pen strokes, tiny recognisable subjects, sparse colour accents and exceptionally abundant whitespace. Use when the user invokes xxd-panel-141 or requests this style. Supports individual images, isolated directory batches, strict 50:50 comparisons, design-only outputs, and wallpapers."
+description: "XXD Panel 141｜Minimal Hand-drawn Lines: reduces a photo to its key subject and redraws it as a minimal hand-drawn line illustration in fineliner, pen or thin marker, with slim, loose, slightly shaky lines of varying weight, searching and broken strokes, light corrections and a touch of naive doodle charm while keeping structure and recognisable features accurate, in black, dark grey or soft dark lines on clean warm white, with at most a few small dabs of colour from the photo, a small subject in very large whitespace and a few words in any language. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-141 or asks for minimal line art, fineliner doodle or single-line style sketches from a photo."
 ---
 
 # XXD Panel 141

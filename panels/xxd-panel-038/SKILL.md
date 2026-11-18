@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-038
-description: "Create XXD Panel 038 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-038 or requests the exact Panel 038 style."
+description: "XXD Panel 038｜Textile Life Journal: re-sews the photo's subject and the quiet feeling behind it as a warm hand-made patchwork appliqué — gingham cotton, linen, washed burlap and patch scraps cut into simple shapes, with frayed edges, visible running and cross stitches and slightly irregular seams, arranged with generous whitespace and pieces that grow past the patchwork area. Soft fabric colours are adapted from each photo, with one stronger accent. A very short phrase about the unspoken mood is embroidered or hand-stitched along the shapes. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-038 or asks for patchwork, quilt, fabric appliqué or stitched textile illustration from a photo."
 ---
 
 # XXD Panel 038

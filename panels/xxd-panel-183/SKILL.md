@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-183
-description: "Create Panel 183 raster artwork: Dark Green Organic Corner Vignette. Use when the user invokes xxd-panel-183 or requests this specific visual language."
+description: "XXD Panel 183｜Dark Green Organic Corner Vignette: distils a photo's subject, outline and direction of movement into a small, asymmetric group of natural organic shapes — a few outlines, flat masses and flowing lines, sometimes supported by a sprig of leaves or flowers — gathered in one corner or along one edge, off-centre or slightly bleeding off, with the rest left as calm empty space. Cream, ivory and pale oat grounds are anchored by deep pine, ink and grey-green in the corner, with at most a touch of olive or a soft colour from the photo, and only a few thin serif or light sans words in charcoal. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-183 or asks for minimal botanical, corner-weighted, asymmetric whitespace graphics from a photo."
 ---
 
 # XXD Panel 183

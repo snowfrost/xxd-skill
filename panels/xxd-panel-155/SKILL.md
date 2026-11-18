@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-155
-description: "Create XXD Panel 155 raster artwork from photographs using one-point-perspective architectural interior line-and-wash rendering, restrained fine pen lines, 2–4 very pale gentle colours, a small focal subject and vast intentional whitespace. Use when the user invokes xxd-panel-155 or requests this style. Supports individual images, isolated directory batches, strict 50:50 comparisons, design-only outputs, and wallpapers."
+description: "XXD Panel 155｜One-point Perspective Light Wash: redraws the key structure of a photo as a one-point-perspective interior or architectural hand rendering — fine, restrained pen line work for walls, furniture, doors, windows, plants and the main subject, then a very pale, transparent watercolour wash in 2–4 softened colours from the photo (off-white, light grey, wood, pale green, gentle warm tones) — kept small within a large quiet whitespace, with a few small titles, notes or numbers. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-155 or asks for interior line-and-wash, architectural sketch or one-point perspective drawing from a photo."
 ---
 
 # XXD Panel 155

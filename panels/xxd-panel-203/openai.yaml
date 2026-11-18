@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 203"
-  short_description: "Impasto Vignette Art Postcard"
-  default_prompt: "Use $xxd-panel-203 to transform my photograph following the complete canonical source brief."
+  short_description: "留白厚涂明信片：把照片画成一枚厚涂油画小景，落在大片留白里，像一张艺术明信片"
+  default_prompt: "Use $xxd-panel-203 to turn my photo into Impasto Vignette Art Postcard artwork."

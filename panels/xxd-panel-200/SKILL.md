@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-200
-description: "Create Panel 200 raster artwork: Blue-grey Monochrome Line Vignette. Use when the user invokes xxd-panel-200 or requests this specific visual language."
+description: "XXD Panel 200｜Blue-grey Monochrome Line Vignette: draws only the key structures and features of a photo's subject as a small, single-colour hand-drawn line vignette in light blue-grey on pure white or very pale paper — thin, relaxed, sketchy lines with repeated strokes, searching lines, broken edges and a little sparse hatching, no full facial features, dense texture or realistic detail. The line colour can shift slightly between misty blue-grey, cool grey and soft graphite but stays one colour, with no fills, pure black, high contrast or gradients. Wide deliberate whitespace surrounds it, with a few small, thin, slightly hand-wavering words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-200 or asks for a monochrome line-art spot illustration or minimal blue-grey sketch from a photo."
 ---
 
 # XXD Panel 200

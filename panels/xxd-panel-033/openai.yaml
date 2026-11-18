@@ -1,7 +1,7 @@
 interface:
   display_name: "/xxd-panel-033"
-  short_description: "Create Panel 033 from images or a directory batch."
-  default_prompt: "Use $xxd-panel-033; accept one image or an image directory, keep the body of its bundled original style brief as the sole aesthetic authority, resolve shared batch settings once, isolate every source, send exactly one mode-specific delivery contract per asset, keep one flat task directory, make design-only and wallpaper outputs fully transformed, and ground factual-looking copy in supplied or verified facts."
+  short_description: "鲜彩拼贴志：把照片做成鲜明浓郁、层次分明、大字排版的现代杂志封面拼贴"
+  default_prompt: "Use $xxd-panel-033 to turn my photo into Vivid Collage Journal artwork."
 
 policy:
   allow_implicit_invocation: true

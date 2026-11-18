@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-205
-description: "Create Panel 205 raster artwork: Warm Organic Photo and Line Collage. Use when the user invokes xxd-panel-205 or requests this specific visual language."
+description: "XXD Panel 205｜Warm Organic Photo and Line Collage: crops a photo's subject into one small rounded, irregular organic shape that keeps some real photographic texture, then overlays fine, light hand-drawn line work or outline illustration that can cross the subject, run into the whitespace or break past the crop edge, with only a few tiny hand-drawn symbols, colour patches or everyday details as echoes. Warm white, cream, oat, light camel and sand set a calm base, coffee brown, deep olive or ink grey add a little weight, and one terracotta, salmon or muted coral accent lifts it; the subject stays small in generous whitespace with a few thin, magazine-style words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-205 or asks for warm lifestyle editorial collage, organic-shape photo crops with line drawing, or mixed photo-and-illustration layouts from a photo."
 ---
 
 # XXD Panel 205

@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 141"
-  short_description: "Minimal Hand-drawn Lines"
-  default_prompt: "Use $xxd-panel-141 to transform my photograph using the complete canonical source brief."
+  short_description: "极简手绘线描志：用纤细、略带抖动的手绘细线勾出照片主体，偶尔一点点色，留白极大"
+  default_prompt: "Use $xxd-panel-141 to turn my photo into Minimal Hand-drawn Lines artwork."

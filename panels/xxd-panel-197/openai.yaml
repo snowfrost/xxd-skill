@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 197"
-  short_description: "Folk-art World Inside a Cage"
-  default_prompt: "Use $xxd-panel-197 to transform my photograph following the complete canonical source brief."
+  short_description: "笼中世界新民艺：把照片的主题装进一只笼子里，用扁平稚拙的新民艺手绘和鲜活配色画出来"
+  default_prompt: "Use $xxd-panel-197 to turn my photo into Folk-art World Inside a Cage artwork."

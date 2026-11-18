@@ -1,7 +1,7 @@
 interface:
   display_name: "/xxd-panel-075"
-  short_description: "Create Panel 075 from images or a directory batch."
-  default_prompt: "Use $xxd-panel-075; accept one image or an image directory, keep the body of its bundled original style brief as the sole aesthetic authority, resolve shared batch settings once, isolate every source, send exactly one mode-specific delivery contract per asset, keep one flat task directory, make design-only and wallpaper outputs fully transformed, and ground factual-looking copy in supplied or verified facts."
+  short_description: "深色蜡笔稿：在米白手工纸和一块柔和色域上，用深色蜡笔留下照片最值得记住的一笔"
+  default_prompt: "Use $xxd-panel-075 to turn my photo into Dark Crayon Sketch artwork."
 
 policy:
   allow_implicit_invocation: true

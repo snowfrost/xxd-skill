@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-135
-description: "Create XXD Panel 135 raster artwork from photographs using experimental street zine illustration, rough hand-drawn lines, 2-4 source-derived spot colours, Riso and screen-print grain, collage typography and vast whitespace. Use when the user invokes xxd-panel-135 or requests this style. Supports individual images, isolated directory batches, strict 50:50 comparisons, design-only outputs, and wallpapers."
+description: "XXD Panel 135｜Street Spot-colour Zine: redraws the key subject of a photo as an experimental street-zine illustration with rough, direct hand-drawn lines, slight exaggeration, flat spot-colour fills, hatching, riso and screen-print grain and small misregistration, plus a few grids, arrows, symbols, numbers or sticker-like labels in a skate-magazine, Y2K collage layout, in 2–4 bold colours from the photo such as cold blue, teal, grey and acid yellow-green, a small subject in large empty space and uneven hand-made lettering. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-135 or asks for zine, skate poster, riso street illustration or Y2K spot-colour graphics from a photo."
 ---
 
 # XXD Panel 135

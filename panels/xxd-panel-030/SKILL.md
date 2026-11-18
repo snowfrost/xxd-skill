@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-030
-description: "Create XXD Panel 030 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-030 or requests the exact Panel 030 style."
+description: "XXD Panel 030｜Nature Unbound: rebuilds the subject of a photo as an editorial illustration assembled from real, clearly recognisable natural materials — leaves, petals, twigs, fruit, seeds, grass stems, bark and dried leaves — using their own shapes, textures and irregular edges rather than cutting them into neat geometry or outlining them, set mostly inside a simple rectangular colour field or paper area (no drawn frame) with a few directional parts growing naturally past its edge, wide whitespace on a pale ground, only a few thin, loose black hand-drawn marks for eyes, mouth, small gestures or links, and a short title with a few tiny notes aligned to a twig or leaf. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-030 or asks for botanical collage illustration, pressed-leaf and petal art or natural-material assemblage from a photo."
 ---
 
 # XXD Panel 030

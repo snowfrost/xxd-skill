@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-193
-description: "Create Panel 193 raster artwork: Muted Watercolour on a Low Base. Use when the user invokes xxd-panel-193 or requests this specific visual language."
+description: "XXD Panel 193｜Muted Watercolour on a Low Base: sums up a photo's subject as a small group of answering shapes and colour patches set low in the frame on a pale, low, horizontal base, so it rests on the paper rather than floating. Painted in thin watercolour with a little gouache, dry brush, broken strokes and dabs, with loose, bleeding or broken edges and white paper showing, and marks that look casually placed by hand. Low-purity warm beige, pale ochre, grey-pink and earth tones meet blue-grey, violet-grey and indigo-grey for shadow and base, with only a touch of blue-black; wide unpainted paper and a few thin, quiet words surround it. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-193 or asks for muted graphic watercolour vignettes or travel-sketchbook watercolours from a photo."
 ---
 
 # XXD Panel 193

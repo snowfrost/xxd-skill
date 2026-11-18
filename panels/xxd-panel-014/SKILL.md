@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-014
-description: "Create XXD Panel 014 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-014 or requests the exact Panel 014 style."
+description: "XXD Panel 014｜Paper Relief Journal: rebuilds the subject of a photo as a tactile contemporary folded-paper sculpture and paper-cut collage — folds, facets, layers, nesting and joined paper pieces that keep it instantly recognisable — composed off-centre around its own weight and direction with wide whitespace, in a vivid but harmonious set of paper colours drawn from the photo on a cream, light grey or soft pastel ground, lit by soft diffused light that shows paper fibre, creases, cut edges, thickness and natural shadows, with a short title built from folded paper strips that arcs, runs along an axis or hugs the form, plus a few tiny editorial notes. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-014 or asks for folded-paper sculpture, origami relief or paper-cut collage from a photo."
 ---
 
 # XXD Panel 014

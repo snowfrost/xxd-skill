@@ -1,7 +1,7 @@
 interface:
   display_name: "/xxd-panel-111"
-  short_description: "Hand-sewn textile collage with visible stitches and warm editorial whitespace."
-  default_prompt: "Use $xxd-panel-111 on one image or image directory. Treat its Chinese original brief as the sole aesthetic authority, keep paired modes strict 50:50 with no third band, isolate every source, and create fresh complete-canvas PNG outputs."
+  short_description: "纺织拼贴志：把照片缝成一枚小小的贴布拼贴，布片鲜活、针迹清楚、留白很多"
+  default_prompt: "Use $xxd-panel-111 to turn my photo into Textile Collage Chronicle artwork."
 
 policy:
   allow_implicit_invocation: true

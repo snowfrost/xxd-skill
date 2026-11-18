@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-048
-description: "Create XXD Panel 048 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-048 or requests the exact Panel 048 style."
+description: "XXD Panel 048｜Transparent Structure Journal: keeps the photo subject's recognisable outline but turns parts of its surface semi-transparent, cut away or layered to reveal its inner logic — components and joints for objects, space and construction for buildings, drive and frame for vehicles, veins and growth for plants, pose skeletons and motion paths for people and animals (never anatomy) — as a clear single-colour blueprint on a light background, with fine axis lines, dimension lines, numbered nodes, call-outs, close-up boxes and wide whitespace. The line colour comes from the photo and is not always blue. A short title with part names and tiny notes, no years. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-048 or asks for a transparent blueprint, X-ray cutaway or scientific diagram look from a photo."
 ---
 
 # XXD Panel 048

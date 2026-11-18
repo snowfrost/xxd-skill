@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-153
-description: "Create XXD Panel 153 raster artwork from photographs using monochrome journal doodles on light grid paper or off-white, bold continuous contours, a single source-derived ink, a tiny stamp-like focal subject and sparse handwritten notes. Use when the user invokes xxd-panel-153 or requests this style. Supports individual images, isolated directory batches, strict 50:50 comparisons, design-only outputs, and wallpapers."
+description: "XXD Panel 153｜Monochrome Journal Doodles: redraws the most recognisable subject of a photo as a small, childlike one-colour doodle, as if drawn with a green felt-tip or marker on grid paper — bold outlines, continuous lines, flat single-colour fills and a few stars, dots and short strokes — placed like a little stamp in a huge expanse of pale grid or near-white paper, with a few handwritten journal-style notes. Single colour, soft green by default or one friendly colour from the photo. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-153 or asks for monochrome doodle, bullet-journal or childlike marker illustration from a photo."
 ---
 
 # XXD Panel 153

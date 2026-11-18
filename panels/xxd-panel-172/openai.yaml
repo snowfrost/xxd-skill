@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 172"
-  short_description: "Centred Subject with Translucent Geometry"
-  default_prompt: "Use $xxd-panel-172 to transform my photograph following the complete canonical source brief."
+  short_description: "居中透明几何志：小小的主体放在正中，身后浮着几块淡淡的半透明几何色片"
+  default_prompt: "Use $xxd-panel-172 to turn my photo into Centred Subject with Translucent Geometry artwork."

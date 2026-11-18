@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-176
-description: "Create Panel 176 raster artwork: Hand-drawn Ritual Diagram in Shallow Relief. Use when the user invokes xxd-panel-176 or requests this specific visual language."
+description: "XXD Panel 176｜Hand-drawn Ritual Diagram in Shallow Relief: places the photo's most recognisable subject at the heart of an intricate, strictly ordered hand-drawn ritual diagram — concentric rings, radial axes, orbits, polygons, arcs, broken rings, nodes, fine patterns and repeated emblems, dense at the centre and thinning outward — in fine gongbi-like lines with slight hand error and a light isometric shallow relief. Bright colours from the photo (sky blue, lake teal, fresh green, warm yellow, coral) on a near-white ground, very large whitespace, a few quiet words; no sci-fi glow or game skill circle. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-176 or asks for a mandala-like ritual diagram or intricate fine-line circle from a photo."
 ---
 
 # XXD Panel 176

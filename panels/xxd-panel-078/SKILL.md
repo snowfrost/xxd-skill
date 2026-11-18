@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-078
-description: "Create XXD Panel 078 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-078 or requests the exact Panel 078 style."
+description: "XXD Panel 078｜Gold-Leaf Embossed Journal: reduces the key outline, structure and pose of a photo to a fine, restrained line drawing in the manner of a botanical illustration, then presses it deep into warm ivory cotton art paper as recessed champagne-gold foil — the gold sits inside real grooves with crushed paper fibre, subtle edge highlights and pressure shadows, sometimes joined by a second, inkless blind deboss layer — in a minimal, balanced layout with generous whitespace and a short title or tiny note in fine, classically engraved-looking editorial type pressed in the same gold. No raised foil, bright yellow metal, mirror gold or plastic relief. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-078 or asks for gold foil deboss, letterpress, champagne-gold line emblem or luxury stationery art from a photo."
 ---
 
 # XXD Panel 078

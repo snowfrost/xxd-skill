@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-184
-description: "Create Panel 184 raster artwork: Hand-drawn Square Everyday Vignette. Use when the user invokes xxd-panel-184 or requests this specific visual language."
+description: "XXD Panel 184｜Hand-drawn Square Everyday Vignette: picks the five to eight most memorable details of a photo and arranges them inside one small square scene box — like a shop window, a kitchen corner or a desk — built from tiles, grids, shelves or a tabletop and broken up by cups, flowers, food and objects. Drawn in naive line and wash: loose, slightly wobbly ink lines, coloured-pencil grain and thin watercolour or gouache that drifts over the lines, in two to four lively colours lifted from the photo against near-white paper, with generous whitespace around the box and a few small hand-set words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-184 or asks for boxed square vignettes, naive line-and-wash still life or cosy everyday illustration from a photo."
 ---
 
 # XXD Panel 184

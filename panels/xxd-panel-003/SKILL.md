@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-003
-description: "Create XXD Panel 003 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-003 or requests the exact Panel 003 style."
+description: "XXD Panel 003｜Taut Line Language: compresses the direction, connection, pressure and release in a photo into one quiet but tense conceptual drawing made of continuous black hand-drawn line — like pulled wire, a path, a binding or a wound — that enters from the edge, coils, crosses, tightens and rises until a symbolic outline of the subject appears, with small thorns or knots only where the line is under strain, the subject placed low or off to one side on wide cool-white or off-white space, no colour fills, and at most a tiny keyword, number or short line. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-003 or asks for conceptual black line, social-issue or modernist idea-poster drawing from a photo."
 ---
 
 # XXD Panel 003

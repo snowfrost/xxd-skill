@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 168"
-  short_description: "Reserved-white Layered Painted Field"
-  default_prompt: "Use $xxd-panel-168 to transform my photograph following the complete canonical source brief."
+  short_description: "留纸白叠刷色场志：在白纸上刷一块层层叠叠的色场，主体是刷色时留出来的纸白"
+  default_prompt: "Use $xxd-panel-168 to turn my photo into Reserved-white Layered Painted Field artwork."

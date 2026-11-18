@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-018
-description: "Create XXD Panel 018 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-018 or requests the exact Panel 018 style."
+description: "XXD Panel 018｜Handcut Paper Journal: rebuilds a photo as a minimal layered hand-cut paper collage: one core subject cut, folded and overlapped as the visual anchor, a few elements of the setting turned into foreground, middle and background paper layers with clear scale and overlap, on warm ivory or pale paper in a limited set of paper colours from the photo (a main colour, a dark structural colour, light layers and a tiny accent), with fine matte card, visible fibre, crisp cut edges and soft contact shadows, plus a precise editorial micro-typography system — a short title that may itself be cut from paper and two to four tiny groups of labels, numbers or notes, never a year. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-018 or asks for layered paper-cut collage, handcut paper relief or paper-layer editorial posters from a photo."
 ---
 
 # XXD Panel 018

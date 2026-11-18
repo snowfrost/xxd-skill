@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-069
-description: "Create XXD Panel 069 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-069 or requests the exact Panel 069 style."
+description: "XXD Panel 069｜Vivid Smear Window: places the key subject and relationship of a photo inside an irregular painted window made of a few bold, wide flat-brush strokes with visible bristle marks, dry-brush breaks, ragged edges and bare paper showing through, then draws the subject with fine, slightly searching hand-drawn contours over bright watercolour or gouache colour with a few thicker oil-like dabs, letting spires, leaves, limbs or other key parts break out past the brushed edge; colours are the brightest, most alive hues in the photo lifted into clear sky blue, lake teal, fresh green, warm yellow, coral and peach on a large warm-white ground, with a few words in fine, loose editorial type. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-069 or asks for broad brush-stroke window, vivid painterly editorial or bright gouache-and-line illustration from a photo."
 ---
 
 # XXD Panel 069

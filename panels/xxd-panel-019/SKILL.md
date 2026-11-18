@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-019
-description: "Create XXD Panel 019 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-019 or requests the exact Panel 019 style."
+description: "XXD Panel 019｜Retro Graphic Journal: reconstructs a specific photographed subject and relationship as a retro modernist flat illustration that stays recognisable: clear silhouettes, geometric colour blocks, hard-edged facets and simple curves that keep its key proportions, outline, action and structure, composed with scale contrast, layering, positive-negative shapes and bold cropping or offsets, in a three-to-five colour retro palette drawn from the photo with a warm old-print feel, and a modernist editorial type system in the user's language — a short title and two to four tiny groups of labels, numbers or notes, never a year — aligned to a strict grid. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-019 or asks for retro modernist poster illustration, mid-century flat graphic art or geometric silhouette posters from a photo."
 ---
 
 # XXD Panel 019

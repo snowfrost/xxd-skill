@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-190
-description: "Create Panel 190 raster artwork: Naive Cool Pastel with Warm Accents. Use when the user invokes xxd-panel-190 or requests this specific visual language."
+description: "XXD Panel 190｜Naive Cool Pastel with Warm Accents: keeps only a few visual clues from a photo and draws them as a small naive pastel vignette — simple shapes, soft loose edges, simplified perspective and proportions — in oil pastel, dry pastel, crayon and a little gouache with visible grain, smudging, bare paper and layered strokes. Cool grey pastels (grey-blue, misty blue, misty violet, grey-green) set the mood, often in horizontal bands, with a small warm note of brick red, pink-brown, apricot or soft orange. The vignette floats in wide deliberate whitespace that reads as sky, air or silence, with a few light, literary words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-190 or asks for naive oil-pastel or chalk-pastel poetic vignettes with cool tones and warm accents from a photo."
 ---
 
 # XXD Panel 190

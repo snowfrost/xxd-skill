@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 183"
-  short_description: "Dark Green Organic Corner Vignette"
-  default_prompt: "Use $xxd-panel-183 to transform my photograph following the complete canonical source brief."
+  short_description: "深绿角隅自然图形：把照片主体概括成角落里一小组有机图形，奶油底色配深绿压角，大片留白"
+  default_prompt: "Use $xxd-panel-183 to turn my photo into Dark Green Organic Corner Vignette artwork."

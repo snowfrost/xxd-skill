@@ -1,7 +1,7 @@
 interface:
   display_name: "/xxd-panel-114"
-  short_description: "Pastel scrapbook doodles with retro paper and active whitespace."
-  default_prompt: "Use $xxd-panel-114 on one image or image directory. Treat its Chinese original brief as the sole aesthetic authority, keep paired modes strict 50:50 with no third band, and create fresh complete-canvas PNG outputs."
+  short_description: "复古粉彩手账涂鸦：把照片画成牛皮纸上的粉彩蜡笔涂鸦拼贴，配打字机小字"
+  default_prompt: "Use $xxd-panel-114 to turn my photo into Retro Pastel Scrapbook Doodles artwork."
 
 policy:
   allow_implicit_invocation: true

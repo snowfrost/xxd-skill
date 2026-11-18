@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-178
-description: "Create Panel 178 raster artwork: Irregular Silhouette Woodcut Micro-island. Use when the user invokes xxd-panel-178 or requests this specific visual language."
+description: "XXD Panel 178｜Diary Ink Mark: distils a photo into one tiny, private, logo-like memory mark — only a few shapes that keep the key outline, pose, direction or relationship — drawn as a naive diary doodle with wobbly hand-drawn contours, uneven pressure, repeated strokes and accidental gaps, in a single olive, moss or grey-green old-ink colour on warm white or paper beige. The mark stays very small in vast empty space, with at most a tiny frame or a few related marks and one light handwritten note, date or margin line. Not a polished icon, emoji, mascot or full illustration. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-178 or asks for a tiny diary doodle, lo-fi ink mark, heta-uma or zine-style memory symbol from a photo."
 ---
 
 # XXD Panel 178
@@ -11,7 +11,7 @@ Read `references/soldier-runtime.md` completely immediately before building ever
 
 ## Panel-specific overlay
 
-Compress the recognisable subject into one irregular silhouette container with nested, layered graphic isomorphism, occupying only 15–25% of the design region. Keep 75–85% clean warm-ivory negative space; allow directional off-centre placement and very few controlled boundary breaks, never dispersed elements. Combine modern Eastern minimalism, fine woodcut lines, symbolic flat shapes and light print grain. Preserve the fixed palette: deep ink navy, layered grey olive/sage greens, tiny vermilion or terracotta accents. Avoid pure black, bright green, large red fields, festival styling, cartoons and 3D. The canonical source is byte-identical to Panel 177; these are equivalent numbered entries, not different styles.
+The transformed design is one tiny diary mark, not a finished illustration or a logo. Keep the subject very small in a large field of breathing whitespace. Draw it with wobbly hand-drawn contours, uneven pressure, repeated strokes and accidental gaps, like a private notebook. Use a quiet single ink, preferably olive, moss or grey-green, on warm paper white. A few handwritten words may sit beside the mark, and they stay lighter than the symbol. Reject a complete scene, a polished icon, bright full colour, smooth vectors and a commercial mascot.
 
 These overlay rules add to `references/soldier-runtime.md`. They never replace the source brief or the family runtime contract.
 

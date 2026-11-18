@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-024
-description: "Create XXD Panel 024 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-024 or requests the exact Panel 024 style."
+description: "XXD Panel 024｜Mood Window: turns a photo into a minimal commercial-editorial poster built on one idea, a real subject passing through a geometric mood window: a narrow, restrained, low-saturation colour block — horizontal, vertical or diagonal, chosen by the subject's weight and direction — that the subject, still rendered photographically or in refined realism, enters and partly breaks out of, on a white or pale ground with wide whitespace and faint patterns or water lines, in a pale palette from the photo (misty blue, beige, warm grey, pale gold), with a short title, subtitle, place or state words set horizontally or vertically in small, airy type. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-024 or asks for geometric colour-window posters, luxury editorial key visuals or real-object-through-frame designs from a photo."
 ---
 
 # XXD Panel 024

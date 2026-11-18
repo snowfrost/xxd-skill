@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-219
-description: "Create Panel 219 raster artwork: Doodle Travel Sketch with Pencil Accents. Use when the user invokes xxd-panel-219 or requests this specific visual language."
+description: "XXD Panel 219｜Doodle Travel Sketch with Pencil Accents: redraws a photo's subject as a loose black hand-drawn doodle sketch — wobbly, repeated, hesitant lines, dense hatching for hair, clothes, plants and shadow, slightly naive proportions — mostly black line on white with only two to four memorable colours from the photo dabbed in coloured pencil on clothes, faces, plants or key objects, a small subject with just a horizon, street or building outline as setting, generous white space and a few journal-style notes. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-219 or asks for travel-journal doodles, sketchbook line drawing with coloured-pencil accents from a photo."
 ---
 
 # XXD Panel 219

@@ -1,7 +1,7 @@
 interface:
   display_name: "/xxd-panel-081"
-  short_description: "Create Panel 081 from images or a directory batch."
-  default_prompt: "Use $xxd-panel-081; accept one image or an image directory, keep the body of its bundled original style brief as the sole aesthetic authority, resolve shared batch settings once, isolate every source, send exactly one mode-specific delivery contract per asset, keep one flat task directory, make design-only and wallpaper outputs fully transformed, and ground factual-looking copy in supplied or verified facts."
+  short_description: "彩线纪念册：用两到四种照片色的等粗单线，把照片画成限色专印的私人纪念海报"
+  default_prompt: "Use $xxd-panel-081 to turn my photo into Colored-Thread Keepsake Album artwork."
 
 policy:
   allow_implicit_invocation: true

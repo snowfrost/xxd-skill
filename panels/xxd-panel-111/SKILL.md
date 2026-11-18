@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-111
-description: "Create XXD Panel 111 raster artwork by translating a source photograph into hand-sewn textile appliqué with visible stitches, selective memory, vivid source-derived fabric colour, and generous editorial whitespace. Supports isolated image or directory inputs and strict 50:50 top-bottom or left-right comparisons, design-only work, and wallpapers. Use when the user invokes xxd-panel-111 or asks for this textile-collage style."
+description: "XXD Panel 111｜Textile Collage Chronicle: remakes the core subject and mood of a photo as a hand-sewn textile collage — a few large fabric pieces, appliqué with raw edges, layered cut cloth and a little embroidery, simple silhouettes and positive and negative shapes, visible hand stitching, cotton and linen fibres, fraying and slight misalignment, the subject kept small like a stitched seal, set off-centre, against an edge or floating within a large pale base cloth, two to four lively colours from the photo (sky blue, lake teal, leaf green, cream yellow, apricot, coral, soft pink), and a few quiet words in any language. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-111 or asks for appliqué, fabric collage, stitched textile or embroidery-style art from a photo."
 ---
 
 # XXD Panel 111

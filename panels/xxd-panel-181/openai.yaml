@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 181"
-  short_description: "Literati Ink and Colour Vignette"
-  default_prompt: "Use $xxd-panel-181 to transform my photograph following the complete canonical source brief."
+  short_description: "文人彩墨写意小品：以墨为骨、淡彩为辅，把照片画成一小幅留白很多的文人画小品"
+  default_prompt: "Use $xxd-panel-181 to turn my photo into Literati Ink and Colour Vignette artwork."

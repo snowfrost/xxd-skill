@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-065
-description: "Create XXD Panel 065 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-065 or requests the exact Panel 065 style."
+description: "XXD Panel 065｜Two-Line Editorial Journal: redraws a few key objects and the main relationship of a photo as a minimal hand-drawn line drawing with a thin, slightly clumsy black pen skeleton plus two coloured lines picked from the photo (usually one warm and one cool, or one dark and one light) that run beside, overlap or slip off the black line like hand-pulled two-colour printing, with no large colour fills, a near-white paper ground with faint fibres, wide whitespace and small, narrow, slightly uneven letterpress-style text. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-065 or asks for black-and-two-colour line drawing, off-register line art or letterpress-style editorial sketches from a photo."
 ---
 
 # XXD Panel 065

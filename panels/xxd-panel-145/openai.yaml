@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 145"
-  short_description: "Vintage Spot-colour Printmaking"
-  default_prompt: "Use $xxd-panel-145 to transform my photograph using the complete canonical source brief."
+  short_description: "复古限色版画志：用雕版排线、点描和网点，把照片印成几种专色套印的小景版画"
+  default_prompt: "Use $xxd-panel-145 to turn my photo into Vintage Spot-colour Printmaking artwork."

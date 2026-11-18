@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-021
-description: "Create XXD Panel 021 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-021 or requests the exact Panel 021 style."
+description: "XXD Panel 021｜Crossing the Black Field: redraws the subject of a photo as a minimal black-and-white hand-drawn editorial illustration in which one pure-black horizontal or vertical rectangle is the main field: the subject sits mostly inside it while its most recognisable part — a head, roofline, branch, limb or edge — breaks out across the border as if leaning or growing out of the dark, drawn with slightly shaky, broken, re-traced ink or photocopy-like lines, white negative shapes and a little grey, framed by wide white paper, with a short title and one to three tiny handwritten or thin-type notes; no colour, solid silhouettes or smooth vector lines. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-021 or asks for black-rectangle break-out illustration, black-and-white ink editorial drawing or photocopy-line art from a photo."
 ---
 
 # XXD Panel 021

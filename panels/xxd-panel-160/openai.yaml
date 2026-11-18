@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 160"
-  short_description: "Expressive Pen-and-wash Illustration"
-  default_prompt: "Use $xxd-panel-160 to transform my photograph following the complete canonical source brief."
+  short_description: "松线淡彩留白志：用松散的速写墨线和几笔透明水彩，把照片主角画成一小幅钢笔淡彩"
+  default_prompt: "Use $xxd-panel-160 to turn my photo into Expressive Pen-and-wash Illustration artwork."

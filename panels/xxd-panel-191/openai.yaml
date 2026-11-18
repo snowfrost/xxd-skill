@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 191"
-  short_description: "Soft-edged Rectangular Pastel Field"
-  default_prompt: "Use $xxd-panel-191 to transform my photograph following the complete canonical source brief."
+  short_description: "毛边矩形粉彩色域：把照片画进一块毛边小矩形色域，横向粉彩色层擦染，悬浮在大片留白里"
+  default_prompt: "Use $xxd-panel-191 to turn my photo into Soft-edged Rectangular Pastel Field artwork."

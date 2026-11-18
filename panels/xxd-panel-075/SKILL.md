@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-075
-description: "Create XXD Panel 075 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-075 or requests the exact Panel 075 style."
+description: "XXD Panel 075｜Dark Crayon Sketch: redraws only the key identifying features of a photo as a loose, simple dark-crayon sketch with imperfect, lightly repeated and corrected strokes that still keep proportion, direction, structure and pose accurate, set on textured off-white handmade paper over one soft, irregular, low-saturation colour patch matched to the photo's overall tone, with faint Risograph grain, a quiet muted Morandi-like feel, large whitespace and a few short English words or phrases in small, slightly misprinted typewriter type like private notes. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Text in the design is short English. Use when the user invokes xxd-panel-075 or asks for dark crayon sketch, muted risograph or quiet handmade-paper illustration from a photo."
 ---
 
 # XXD Panel 075

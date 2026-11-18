@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-192
-description: "Create Panel 192 raster artwork: Limited-colour Vintage Graphic Spot. Use when the user invokes xxd-panel-192 or requests this specific visual language."
+description: "XXD Panel 192｜Limited-colour Vintage Graphic Spot: reduces a photo to a few of its most recognisable structures and redraws them as one small graphic spot — simple silhouettes, geometric colour blocks, a few carved lines and slight overlaps — placed low, off-centre or against an edge in wide negative space with almost no surrounding scene. A kraft, oat or warm off-white paper ground carries a muted, slightly vintage main colour taken from the photo plus one small warmer accent, two to four colour families in all, with light paper fibre, screen-print and printmaking grain and slight mis-registration. Text is tiny, widely spaced and placed in the whitespace or a corner. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-192 or asks for limited-palette, screen-print style minimal graphic posters from a photo."
 ---
 
 # XXD Panel 192

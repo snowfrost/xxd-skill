@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-071
-description: "Create XXD Panel 071 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-071 or requests the exact Panel 071 style."
+description: "XXD Panel 071｜Pastel Poetry Notebook: recomposes the subject, pose and story of a photo as a few soft, slightly naive shapes and colour patches that float like memory fragments across near-white paper — soft pastel, oil pastel, water-soluble coloured pencil and thin gouache with blurred, rubbed, powdery edges, paper showing through and uneven layering, a few deliberate fine lines, the brightest colours of the photo softened into clear pastels such as lake teal, mint, butter yellow, apricot, coral pink, soft violet and mist blue, generous whitespace, and short poetic phrases in thin, loose handwriting with changing pressure and a drifting baseline. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-071 or asks for soft pastel, crayon-and-coloured-pencil, poetic picture-book or dreamy memory illustration from a photo."
 ---
 
 # XXD Panel 071

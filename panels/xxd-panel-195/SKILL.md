@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-195
-description: "Create Panel 195 raster artwork: Archival Montage with One Bright Accent. Use when the user invokes xxd-panel-195 or requests this specific visual language."
+description: "XXD Panel 195｜Archival Montage with One Bright Accent: picks a few key people, objects, buildings or details from a photo and re-edits them around one central anchor into an archival montage of crops, overlays, see-through layers and shifts of scale, with double-exposure imagery inside the subject's outline. Map outlines, routes, coordinates, place names, archive marks and captions are added only where they help the story. Everything is black and white, warm grey, smoky brown and faded cream with old-photo grain, light scratches and halftone, except one bright colour lifted from the photo and placed on a garment, object, route node or title detail. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-195 or asks for archival photomontage, double-exposure history collage or single-accent monochrome montage from a photo."
 ---
 
 # XXD Panel 195

@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-174
-description: "Create Panel 174 raster artwork: Naive Hand-drawn Sticker Assemblage. Use when the user invokes xxd-panel-174 or requests this specific visual language."
+description: "XXD Panel 174｜Naive Hand-drawn Sticker Assemblage: breaks the most recognisable features of a photo's subject into several small, separate hand-drawn sticker pieces — chunky, naive, slightly clumsy shapes with clear cut-out outlines and crayon, gouache or rough-brush texture — and clusters them in the centre, overlapping and shifting in size and direction so together they form one readable subject, not a tidy grid or a random sticker pack. Soft, bright, warm palette from the photo (cream yellow, peach, coral, mint, lake teal, misty blue, soft lilac), large whitespace and a few short words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-174 or asks for naive sticker collage, hand-drawn sticker cluster or chunky childlike illustration from a photo."
 ---
 
 # XXD Panel 174

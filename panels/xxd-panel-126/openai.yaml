@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 126"
-  short_description: "Poetic Miniature Collage"
-  default_prompt: "Use $xxd-panel-126 to transform my photograph using the complete canonical source brief."
+  short_description: "诗意微缩拼贴志：把照片缩成邮戳大小的水彩撕纸拼贴，放进大片手工纸留白"
+  default_prompt: "Use $xxd-panel-126 to turn my photo into Poetic Miniature Collage artwork."

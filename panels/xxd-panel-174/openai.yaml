@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 174"
-  short_description: "Naive Hand-drawn Sticker Assemblage"
-  default_prompt: "Use $xxd-panel-174 to transform my photograph following the complete canonical source brief."
+  short_description: "稚拙贴纸聚合志：把照片主体拆成一枚枚粗笔手绘贴纸，在画面中心重新拼成一个整体"
+  default_prompt: "Use $xxd-panel-174 to turn my photo into Naive Hand-drawn Sticker Assemblage artwork."

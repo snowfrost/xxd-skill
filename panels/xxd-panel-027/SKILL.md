@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-027
-description: "Create XXD Panel 027 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-027 or requests the exact Panel 027 style."
+description: "XXD Panel 027｜Relief on Paper: presses the subject of a photo into a quiet Eastern museum-style bas-relief on thick ivory paper: the subject and a little related setting are rebuilt as shallow embossed and debossed forms in the paper's own colour, with fine shadows, minimal incised lines and calm layering, seen from above, straight on or along an axis like an exhibit, with large warm-white whitespace, a few touches of matte gold and soft warm light only on the key detail, and short text — a title, keywords, a number, place or brief line — in restrained gold or dark-grey serif aligned with the relief. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-027 or asks for embossed paper relief, Chinese museum-style bas-relief posters or ivory deboss art with matte gold from a photo."
 ---
 
 # XXD Panel 027

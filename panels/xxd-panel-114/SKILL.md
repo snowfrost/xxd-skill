@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-114
-description: "Create XXD Panel 114 raster artwork by translating a source photograph into a retro paper-texture pastel hand-drawn doodle illustration with material collage, crayon grain, a small seal-like subject, intentional whitespace, and restrained typewriter-style editorial text. Supports isolated image or directory inputs, strict 50:50 top-bottom or left-right comparisons, design-only work, and wallpapers. Use when the user invokes xxd-panel-114 or asks for this scrapbook-editorial pastel collage style."
+description: "XXD Panel 114｜Retro Pastel Scrapbook Doodles: rebuilds the core subject and mood of a photo as a pastel hand-drawn doodle collage on vintage paper — deliberately irregular, slightly clumsy doodle lines, crayon, chalk and coloured-pencil colour with dry grainy edges, the subject and a few helpers recombined like stickers, paper scraps and quick symbols, kraft, recycled or handmade paper texture, a small seal-like focal point inside large, deliberate whitespace, two to four colours from the photo turned into soft pastels (peach pink, pale blue, cream yellow, apricot, fresh green), and a few small, slightly misaligned retro typewriter words, like a page from an independent scrapbook or visual diary. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-114 or asks for pastel scrapbook, journal doodle, crayon collage or vintage-paper diary art from a photo."
 ---
 
 # XXD Panel 114

@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-130
-description: "Create XXD Panel 130 raster artwork from photographs using hard-edge faceted planar reconstruction, tiny polygonal subjects, secondary halftone and photocopy texture, and vast whitespace. Use when the user invokes xxd-panel-130 or requests this style. Supports individual images, isolated directory batches, strict 50:50 comparisons, design-only outputs, and wallpapers."
+description: "XXD Panel 130｜Hard-edge Faceted Collage: rebuilds the key subject of a photo as a hard-edge geometric collage of clearly bounded rectangles, trapezoids, polygons and folded planes with straight cuts and slight offsets instead of continuous shading, mostly in high-contrast black, white and grey with one or two strong accent colours from the photo, a secondary layer of halftone, dither, riso or photocopy grain, a tiny subject in a large empty field and small crisp editorial text. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-130 or asks for hard-edge, faceted, planar geometric abstraction or riso/xerox geometric collage from a photo."
 ---
 
 # XXD Panel 130

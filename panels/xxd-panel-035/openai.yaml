@@ -1,7 +1,7 @@
 interface:
   display_name: "/xxd-panel-035"
-  short_description: "Create Panel 035 from images or a directory batch."
-  default_prompt: "Use $xxd-panel-035; accept one image or an image directory, keep the body of its bundled original style brief as the sole aesthetic authority, resolve shared batch settings once, isolate every source, send exactly one mode-specific delivery contract per asset, keep one flat task directory, make design-only and wallpaper outputs fully transformed, and ground factual-looking copy in supplied or verified facts."
+  short_description: "积木重构：把照片主体搭成一件明艳、可识别的哑光像素积木收藏品"
+  default_prompt: "Use $xxd-panel-035 to turn my photo into Building-Block Reconstruction artwork."
 
 policy:
   allow_implicit_invocation: true

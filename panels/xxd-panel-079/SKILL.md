@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-079
-description: "Create XXD Panel 079 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-079 or requests the exact Panel 079 style."
+description: "XXD Panel 079｜Pen-and-Wash Journal: turns the structure, space and action of a photo into an unfinished pen-and-wash sketch where long straight perspective lines, folded contours and horizontal, vertical and diagonal axes build a geometric skeleton, while free organic curves from people, plants, animals, clouds or water break it up; lines are thin, loose and uneven with searching, repeated and broken strokes, a few transparent watercolour touches from the photo's most recognisable colours appear only where needed, the subject sits off-centre on large near-white paper, and a few words in fine editorial type run along perspective lines or open space. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-079 or asks for pen-and-wash, ink and watercolour travel sketch or architectural urban sketch from a photo."
 ---
 
 # XXD Panel 079

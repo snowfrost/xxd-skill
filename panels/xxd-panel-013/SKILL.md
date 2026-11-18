@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-013
-description: "Create XXD Panel 013 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-013 or requests the exact Panel 013 style."
+description: "XXD Panel 013｜Travel Ticket Album: keeps the subject of a photo, with the bit of setting that makes the memory, inside one horizontal watercolour ticket that floats on wide ivory space: a strict split of about three-quarters soft, light watercolour scene and one-quarter information stub, divided by a perforated tear line, on thick matte watercolour card with fine serrated edges and a faint shadow, in a gentle palette of sage, mist blue, pale teal-grey, cream yellow, warm sand and light terracotta, with a gridded stub of short fields such as DATE, PLACE, SUBJECT, MOMENT and NO., dates, numbers, dotted rules and one round postmark. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-013 or asks for watercolour travel tickets, postcard-and-ticket stubs or travel-journal keepsakes from a photo."
 ---
 
 # XXD Panel 013

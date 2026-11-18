@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-162
-description: "Create Panel 162 raster artwork: Storybook Illustration on White Cutout. Use when the user invokes xxd-panel-162 or requests this specific visual language."
+description: "XXD Panel 162｜Storybook Illustration on White Cutout: redraws the most recognisable subject of a photo as a childlike, textured picture-book illustration — naive shapes, flat colour blocks with oil-pastel, crayon or coloured-pencil grain, slightly wobbly hand-drawn lines — set on one irregular hand-cut white paper backing of uneven width (not a uniform white outline), like a sticker or paper puppet. Warm, soft palette of 2–4 colours from the photo, a small stamp-sized subject in very large whitespace and a few short words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-162 or asks for picture-book, crayon-textured sticker or white cut-out illustration from a photo."
 ---
 
 # XXD Panel 162

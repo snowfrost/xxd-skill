@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-051
-description: "Create XXD Panel 051 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-051 or requests the exact Panel 051 style."
+description: "XXD Panel 051｜Handmade Miniature Island: rebuilds the photo's subject as a handmade miniature 3D paper-craft model of paper, card, soft clay and thin wood, set with a few related small details on a narrow, floating horizontal landscape base, with visible paper fibres, folds, cut edges, layered thickness and small handmade flaws, soft diffused light and macro-photo closeness, on a soft white background with wide whitespace. Airy pale blues, mist blue and sky blue balanced by ivory, cream, sage and a little dusty rose. The title is always a short English title in small, slightly handwritten lettering under the base, like an artist's signature. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-051 or asks for paper-craft miniatures, handmade diorama or floating paper island from a photo."
 ---
 
 # XXD Panel 051

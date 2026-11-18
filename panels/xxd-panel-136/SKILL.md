@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-136
-description: "Create XXD Panel 136 raster artwork from photographs using naive poetic surrealism, absurd yet source-grounded narrative relationships, thin acrylic-on-canvas texture, tiny subjects and enormous quiet negative space. Use when the user invokes xxd-panel-136 or requests this style. Supports individual images, isolated directory batches, strict 50:50 comparisons, design-only outputs, and wallpapers."
+description: "XXD Panel 136｜Poetic Surrealist Whitespace: rereads a photo's mood and relationships and repaints a few key figures as a naive, poetic-surrealist scene, allowing shifts of scale, swapped objects, floating, pulling or impossible pairings, painted clumsily in thin acrylic on canvas with visible weave and brush marks, in soft vintage naturals such as warm off-white, sage, ochre, terracotta, old red and misty blue, with a tiny subject in vast empty space and a few words in fine serif or handwriting. Deliberately not a faithful redraw. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-136 or asks for naive art, poetic surrealism, whimsical surreal canvas painting from a photo."
 ---
 
 # XXD Panel 136

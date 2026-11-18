@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-172
-description: "Create Panel 172 raster artwork: Centred Subject with Translucent Geometry. Use when the user invokes xxd-panel-172 or requests this specific visual language."
+description: "XXD Panel 172｜Centred Subject with Translucent Geometry: places a small version of the photo's most recognisable subject in the centre of a large, clean ivory or rice-paper-white space, with a few soft, low-contrast translucent geometric shapes behind it — circles, ovals, arcs, rectangles or thin overlapping layers whose overlaps make gentle mixed colours — and an optional few thin vertical lines, all staying in the background so they never form a second focus. High-key Eastern palette from the photo (grey-teal, grey-green, soft ochre, earth gold, soft blue, pale orange) with tiny vermilion or ink accents and a few quiet words above or below the subject. Centred layout. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-172 or asks for a centred minimal poster with translucent geometric shapes from a photo."
 ---
 
 # XXD Panel 172

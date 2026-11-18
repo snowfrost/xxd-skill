@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-099
-description: "Create XXD Panel 099 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-099 or requests the exact Panel 099 style."
+description: "XXD Panel 099｜Typeface Mascot: redesigns the subject of a photo as a flat vector brand mascot — three to five stable identity traits kept, rounded geometric shapes, exaggerated proportions, thick clean black outlines, large flat colour fields with very little inner detail, a limited palette of two to four colours purified from the photo plus black and white, set in front of oversized bold rounded display lettering that the character overlaps or crops, with an occasional comic speech bubble and a touch of halftone in the background type. Buildings, plants or objects can become mascots too, without forced faces. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-099 or asks for mascot, brand character, flat vector character with big typography or sticker-style campaign visuals from a photo."
 ---
 
 # XXD Panel 099

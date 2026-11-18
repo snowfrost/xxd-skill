@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 124"
-  short_description: "Fabric Collage Whitespace"
-  default_prompt: "Use $xxd-panel-124 to transform my photograph using the complete canonical source brief."
+  short_description: "布艺拼贴留白志：用几块大布片、织纹和少量针脚，把照片拼成温暖的贴布小画"
+  default_prompt: "Use $xxd-panel-124 to turn my photo into Fabric Collage Whitespace artwork."

@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-067
-description: "Create XXD Panel 067 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-067 or requests the exact Panel 067 style."
+description: "XXD Panel 067｜Everyday Humor Drawing: turns the funniest or most touching moment of a photo into a private observation-notebook page drawn in only two fixed hand-drawn inks, a crisp crayon- or ballpoint-like blue and a warm vermilion-to-tomato red, regardless of the photo's colours — thin, loose, slightly crooked lines, small partial fills, arrows and marks, one narrative centre placed off-centre on a near-white paper ground with wide whitespace, and short words, exclamations or onomatopoeia in small, childlike handwriting. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-067 or asks for red-and-blue ink doodles, humorous daily-life sketches or two-colour notebook drawings from a photo."
 ---
 
 # XXD Panel 067

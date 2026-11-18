@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 127"
-  short_description: "Mixed-media Architectural Collage"
-  default_prompt: "Use $xxd-panel-127 to transform my photograph using the complete canonical source brief."
+  short_description: "建筑混媒拼贴志：把照片做成建筑师研究笔记般的微缩拼贴，带结构线和手写批注"
+  default_prompt: "Use $xxd-panel-127 to turn my photo into Mixed-media Architectural Collage artwork."

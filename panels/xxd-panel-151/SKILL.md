@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-151
-description: "Create XXD Panel 151 raster artwork from photographs using naive flat character illustration and doodle drawing, intentionally imperfect lines, organic flat shapes, 3–6 fresh colours, relaxed rounded handwriting and a small subject with vast whitespace. Use when the user invokes xxd-panel-151 or requests this style. Supports individual images, isolated directory batches, strict 50:50 comparisons, design-only outputs, and wallpapers."
+description: "XXD Panel 151｜Naive Flat Hand Drawing: rethinks a photo and keeps only its most characterful part, redrawn as a naive flat character illustration with simplified geometric shapes, irregular organic colour blocks and a few hand-drawn doodle lines, slightly crooked, hesitant outlines and no perspective, gradients or shading, in a bright limited palette of 3–6 colours from the photo such as cream, sky blue, lake teal, fresh green, warm yellow, coral, soft pink or coffee brown, as a small focal point in very large whitespace with relaxed, rounded hand lettering. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-151 or asks for naive flat illustration, flat character drawing or playful hand-drawn doodle art from a photo."
 ---
 
 # XXD Panel 151

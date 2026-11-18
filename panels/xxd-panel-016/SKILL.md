@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-016
-description: "Create XXD Panel 016 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-016 or requests the exact Panel 016 style."
+description: "XXD Panel 016｜Kinetic Woodblock Print: compresses what truly happens in a photo into one small, restrained visual anchor in wide paper space surrounded by a single field of motion — falling, rising, flowing, radiating or rippling — drawn with many fine lines, broken trails, coarse halftone dots and grain that are densest near the subject and break up into the empty space, in a strict two-to-three colour print of one vivid main colour from the photo, warm white or ivory paper and a little black, with screenprint and Risograph grain, uneven ink and slight misregistration, plus a very short title and two to four tiny groups of notes or numbers that follow the motion. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-016 or asks for kinetic minimal prints, Risograph motion posters or tiny-subject surreal screenprints from a photo."
 ---
 
 # XXD Panel 016

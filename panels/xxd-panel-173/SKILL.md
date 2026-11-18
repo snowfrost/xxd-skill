@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-173
-description: "Create Panel 173 raster artwork: Ivory Paper-text Miniature Landscape. Use when the user invokes xxd-panel-173 or requests this specific visual language."
+description: "XXD Panel 173｜Ivory Paper-text Miniature Landscape: compresses a photo into one tiny paper-and-text miniature scene floating in large warm-white space — a small slice built from old book paper, written characters, upright paper strips, layered sheets, a tiny figure or a few structural pieces, like a little paper installation with soft paper layers and a very light paper shadow. The subject fills only about 10–20% and whitespace 80–90%. Warm ivory tonal palette: about 95% ivory, beige-grey and paper brown, with a few warm ink-brown accents and no red, gold, teal or blue. A few words that feel part of the paper piece. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-173 or asks for ivory paper miniature, text-landscape or minimal Eastern paper installation from a photo."
 ---
 
 # XXD Panel 173

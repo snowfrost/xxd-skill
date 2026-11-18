@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-077
-description: "Create XXD Panel 077 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-077 or requests the exact Panel 077 style."
+description: "XXD Panel 077｜Travel Magazine Illustration: rebuilds the subject, action, outline and scene of a photo as a minimal paper-sculpture collage — simplified shapes, crisp cut-paper edges, stacked front-to-back layers, light paper grain and soft shadows — with background trimmed away, generous whitespace, warm humanist macaron colours drawn from the photo (cream, oat, misty pink, peach, apricot, lemon cream, pale lake blue, misty violet, soft sage) instead of forest greens and sky blues, and a simple English magazine layout in small, slightly misprinted typewriter type with one short title and a few tiny lines. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Text in the design is English. Use when the user invokes xxd-panel-077 or asks for paper-cut collage, layered paper travel illustration or pastel travel-magazine poster art from a photo."
 ---
 
 # XXD Panel 077

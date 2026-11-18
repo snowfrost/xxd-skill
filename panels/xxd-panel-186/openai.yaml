@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 186"
-  short_description: "Nine-cell Geometric Memory Grid"
-  default_prompt: "Use $xxd-panel-186 to transform my photograph following the complete canonical source brief."
+  short_description: "柔色九宫格几何记忆：把照片拆成九个片段，用扁平几何色块排成 3×3 九宫格"
+  default_prompt: "Use $xxd-panel-186 to turn my photo into Nine-cell Geometric Memory Grid artwork."

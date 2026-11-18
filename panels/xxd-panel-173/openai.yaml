@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 173"
-  short_description: "Ivory Paper-text Miniature Landscape"
-  default_prompt: "Use $xxd-panel-173 to transform my photograph following the complete canonical source brief."
+  short_description: "象牙纸本文字微景志：把照片压成一小块旧书页与文字搭成的纸上微景，悬在大片暖白里"
+  default_prompt: "Use $xxd-panel-173 to turn my photo into Ivory Paper-text Miniature Landscape artwork."

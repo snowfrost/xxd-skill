@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-089
-description: "Create XXD Panel 089 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-089 or requests the exact Panel 089 style."
+description: "XXD Panel 089｜Everyday Vignette Notebook: breaks a photo into a page of separate hand-drawn lifestyle spot illustrations — one main vignette carrying the story, plus a few floating fragments such as a gesture, a plant, a cup or a chance object, with no full background or shared perspective — drawn in loose, slightly shaky lines with watercolour, coloured pencil and a little oil pastel that cross lines and let paper show, in the photo's brightest colours softened on bright warm-white paper, scattered at varied sizes with generous whitespace and short handwritten notes. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-089 or asks for journal spot illustrations, scattered lifestyle doodles or watercolour planner-page art from a photo."
 ---
 
 # XXD Panel 089

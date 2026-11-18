@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 192"
-  short_description: "Limited-colour Vintage Graphic Spot"
-  default_prompt: "Use $xxd-panel-192 to transform my photograph following the complete canonical source brief."
+  short_description: "复古限色图形小品：把照片压成一枚剪影色块小图形，二到四色复古限色，纸感丝网印刷，大片留白"
+  default_prompt: "Use $xxd-panel-192 to turn my photo into Limited-colour Vintage Graphic Spot artwork."

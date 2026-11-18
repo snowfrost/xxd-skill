@@ -1,7 +1,7 @@
 interface:
   display_name: "/xxd-panel-014"
-  short_description: "Create Panel 014 from images or a directory batch."
-  default_prompt: "Use $xxd-panel-014; accept one image or an image directory, keep the body of its bundled original style brief as the sole aesthetic authority, resolve shared batch settings once, isolate every source, send exactly one mode-specific delivery contract per asset, keep one flat task directory, make design-only and wallpaper outputs fully transformed, and ground factual-looking copy in supplied or verified facts."
+  short_description: "纸艺浮雕志：把照片重构成看得见折痕、切边和纸纤维的当代折纸雕塑"
+  default_prompt: "Use $xxd-panel-014 to turn my photo into Paper Relief Journal artwork."
 
 policy:
   allow_implicit_invocation: true

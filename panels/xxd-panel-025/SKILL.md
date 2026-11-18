@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-025
-description: "Create XXD Panel 025 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-025 or requests the exact Panel 025 style."
+description: "XXD Panel 025｜Invisible Imagery: turns a photo into a minimal Gestalt figure-ground screenprint read twice: the subject's most recognisable outline locks together with a closely related setting, object or symbol from the photo through shared edges, cut-out negative space and figure-ground reversal, so you see the subject first and the hidden image on a second look, with one clear silhouette, wide whitespace, a soft two-to-four colour Morandi pastel palette re-mixed from the photo on pale paper, flat colour with clean edges, light paper fibre, screenprint grain and slight misregistration, and a short title with a few tiny words that follow or are cut by the outline. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-025 or asks for Gestalt negative-space posters, hidden-image screenprints or Morandi-colour figure-ground illustration from a photo."
 ---
 
 # XXD Panel 025

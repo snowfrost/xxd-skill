@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 193"
-  short_description: "Muted Watercolour on a Low Base"
-  default_prompt: "Use $xxd-panel-193 to transform my photograph following the complete canonical source brief."
+  short_description: "基座承托灰调水彩：把照片画成一组放在浅色低基座上的灰调水彩小形体，四周大片空白纸面"
+  default_prompt: "Use $xxd-panel-193 to turn my photo into Muted Watercolour on a Low Base artwork."

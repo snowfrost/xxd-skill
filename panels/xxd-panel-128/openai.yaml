@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 128"
-  short_description: "Enamel Medallion Travel"
-  default_prompt: "Use $xxd-panel-128 to transform my photograph using the complete canonical source brief."
+  short_description: "珐琅徽章旅行志：把照片压进一枚圆形珐琅纪念章，配优雅衬线字做成极简旅行海报"
+  default_prompt: "Use $xxd-panel-128 to turn my photo into Enamel Medallion Travel artwork."

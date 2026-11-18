@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-210
-description: "Create Panel 210 raster artwork: Cool Minimal Conceptual Photo Collage. Use when the user invokes xxd-panel-210 or requests this specific visual language."
+description: "XXD Panel 210｜Cool Minimal Conceptual Photo Collage: shrinks a photo's subject into a small photographic collage element, surrounded by a few fine outlines, free hand-drawn lines, minimal geometric shapes, small speech bubbles or symbolic marks like passing thoughts or notes, with the rest left open. On a pale grey-white or misty white ground, one low-saturation cool blue or grey-blue taken from the photo unifies lines, text and small shapes, the subject keeps a little soft natural colour, and a tiny touch of peach-orange or apricot adds warmth. A few words, short phrases or bubble-like fragments in a thin, slightly irregular type sit among the lines and whitespace. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-210 or asks for minimal conceptual collage, visual-note or cool-toned photo-and-doodle illustration from a photo."
 ---
 
 # XXD Panel 210

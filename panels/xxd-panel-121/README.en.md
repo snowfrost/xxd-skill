@@ -2,166 +2,204 @@
 
 # XXD Panel 121｜Lifestyle Doodle Editorial
 
-Turn a small everyday emotion into a spacious lifestyle illustration with thoughtful image–text composition.
+**Turns a small everyday emotion into a spacious lifestyle illustration where picture and words work together.**
 
-<a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
+<a href="README.md">简体中文</a> · <strong>English</strong> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
 
 </div>
 
-## 16:9 Left–Right Samples
-
-Four independent sources on complete 16:9 canvases: reality left, this Panel's design right, exact 50:50. English copy is generated from each photograph.
-
 <table>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 121 Sample 5"></td>
-    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 121 Sample 6"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 121 Sample 7"></td>
-    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 121 Sample 8"></td>
+    <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 121"></td>
+    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 121"></td>
   </tr>
 </table>
 
-## 3:4 Top–Bottom Samples
+<p align="center"><sub>Top: the original photo. Bottom: the same photo in this style.</sub></p>
 
-Four further independent sources, different from the 16:9 set, regenerated as complete 3:4 top–bottom canvases. The original photograph remains above; the lower design follows this Panel's original brief.
+## What it is
 
-<table>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 121 additional top-bottom sample 1"></td>
-    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 121 additional top-bottom sample 2"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 121 additional top-bottom sample 3"></td>
-    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 121 additional top-bottom sample 4"></td>
-  </tr>
-</table>
+A Skill for AI agents such as Claude Code and Codex. Give it a photo and it paints a finished PNG following the original Panel 121 prompt.
 
+- **What it looks like:** Only the most recognisable subject, pose and little story stay, simplified into symbolic shapes with personality, drawn in slightly shaky, broken marker lines and coloured naturally in marker, crayon or oil pastel that may run over the line and leave white. The drawing takes up only a small part of the frame; the rest is wide, deliberate whitespace. Words and picture are laid out as one: a hidden grid and reading path come first, then a slightly larger short line and a few tiny words hug the subject's outline, follow its movement, align with the head or shoulders or drop into a big open space, rather than a centred line above a centred figure. The lettering is a light, natural handwriting with some variation in pressure. Colours from the photo become soft, bright shades like cream yellow, peach, coral, sky blue, fresh green and lavender.
+- **Keywords:** Naive marker and crayon · Shaky broken lines · Hidden grid · Integrated image and text · Mature editorial layout · Lively soft colours and space
+- **What you can make:** A top–bottom comparison (photo above, design below), a left–right comparison, the design alone, or a wallpaper set for phone, tablet, desktop and watch. Pick several at once, at any ratio or exact pixel size.
+- **What it is not:** Not a filter and not a template: every image is redrawn from your photo, and each photo is its own job.
 
-## Best-fit situations and problems solved
+## Get started in three steps
 
-An everyday photograph can hold a compelling pose or relationship yet lose its focus to an ordinary composition and a busy background. **Panel 121** preserves photographic identity, extracts the most recognisable subject, and rebuilds it through relaxed marker-like doodles, edited handwriting, and exceptionally abundant whitespace.
-
-### Best for
-
-- Turning people, everyday objects, and lifestyle scenes into independent-magazine or lifestyle editorial illustrations.
-- Preserving contour, pose, and narrative relationships while removing most background and secondary objects.
-- Combining the ease of naïve drawing with mature control of graphics, text, and empty space.
-- Consistent top-bottom, left-right, design-only, multi-ratio, wallpaper, or directory-batch delivery.
-
-### What it solves
-
-- Subtraction, rearrangement, cropping, and scale changes give ordinary photographs a new visual focus.
-- Graphics and text share an invisible grid, visual axes, and reading path instead of a sentence stacked over a person.
-- Small graphic forms let whitespace create distance, pauses, and breathing room without scattered filler icons.
-- Comparisons keep exactly two 50:50 regions and generate directly from the current original, preventing third bands and second stylisation passes.
-
-## Usage tips
-
-- **Start with one clear photo:** choose a source whose subject, action, and relationships are easy to recognize before choosing the delivery format.
-- **Join the parameters in one sentence:** say “top-bottom / left-right / design-only + 16:9 / 3:4 / phone wallpaper”; you can also name desktop, tablet, or smartwatch sizes.
-- **State what must stay:** identify the people, objects, actions, relationships, and copy to preserve, while leaving room for the style to design the layout.
-- **Choose a text mode:** let the model write from the image, lock exact wording with `--text exact --copy`, or remove text completely with `--text none`.
-- **Clarify reality and design regions:** for top-bottom or left-right, say which region keeps the photograph and which region is redesigned; for design-only and wallpapers, say that the whole canvas is redesigned.
-- **Test one image before batching:** confirm mode, ratio, text, and language on one source, then reuse the settings for a folder; change one variable per iteration.
-
-## Getting started
+**1. Install.** Works with Claude Code, Codex and other agents that support Skills:
 
 ```bash
-git clone https://github.com/nevertoday/xxd-panel-121.git
 npx skills add https://github.com/nevertoday/xxd-panel-121 --skill xxd-panel-121
 ```
 
-Restart the agent session after installation, then invoke `$xxd-panel-121`. Add `--global --agent codex --yes` when a user-level Codex installation is wanted.
+Then restart your agent session. You can also `git clone` this repository and link the folder to `~/.claude/skills/xxd-panel-121` or `~/.codex/skills/xxd-panel-121`.
 
-Common examples:
+**2. Make sure your agent can generate images.** This Skill has no image model of its own; it uses your agent's image generation, preferably GPT Image 2.
+
+- Codex works as is when its built-in image generation is on.
+- Claude Code and other agents without built-in image generation need an OpenAI-compatible image API. It takes about five minutes: see [Setting up image generation](#setting-up-image-generation).
+
+Not sure? Just try it. If images can't be generated, the Skill stops and tells you before doing any work.
+
+**3. Send a photo and say one sentence:**
+
+> Use xxd-panel-121 to turn this photo into a 3:4 top–bottom poster with an English title.
+
+If your request is complete, it starts right away; anything you left out (layout, ratio, text) it asks about, usually in one or two questions. Results are PNGs in a new folder under `~/Desktop/xxd/xxd-panel-121/`.
+
+## Which photos work best
+
+**Works well**
+
+- Photos of a person or animal with a bit of mood and movement: someone stretching, hands holding a coffee, a dog mid-jump
+- Everyday lifestyle moments: a morning run, cooking, reading, cycling to work
+- Photos you want as a magazine illustration, social media image or poster with one line of text
+
+**Not a good fit**
+
+- Photos where every object and the background must stay: large group shots, panoramic street views
+- Jobs that need realistic proportion or fine rendering: product shots, ID photos
+- Requests for a fixed centred-figure, centred-caption template, wall-to-wall text or a children's journal look
+
+## Samples
+
+Each image below is a finished result this Skill made from one photo. The top–bottom and left–right sets use different photos.
+
+### Top–bottom: photo above, design below
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 121"></td>
+    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 121"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 121"></td>
+    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 121"></td>
+  </tr>
+</table>
+
+### Left–right: photo left, design right
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 121"></td>
+    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 121"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 121"></td>
+    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 121"></td>
+  </tr>
+</table>
+
+## Just say it
+
+No parameters to memorise. Say what you want:
+
+| You want | Say |
+|---|---|
+| Top–bottom comparison | Make a 3:4 top–bottom comparison |
+| Left–right comparison | Make a 16:9 left–right comparison, photo on the left |
+| Design only | Just the design, no photo, 9:16 portrait |
+| A wallpaper set | Make matching wallpapers for phone, tablet, desktop and watch |
+| Several ratios | Make this one at 1:1, 3:4 and 16:9 |
+| Your own text | Use the title “Let the wind pass through” exactly as written |
+| No text | No text at all |
+| Text language | Write the text in Japanese |
+| A whole folder | Turn every photo in this folder into a top–bottom comparison |
+| Same as last time | Use my settings from last time |
+
+Prefer the command line? The flags map one to one:
 
 ```text
 /xxd-panel-121 photo.jpg --mode top-bottom --size 3:4 --text prompt --locale en-US
-/xxd-panel-121 photo.jpg --mode left-right --size 16:9 --text prompt --locale en-US
 /xxd-panel-121 photo.jpg --mode design-only --size 9:16 --text none
-/xxd-panel-121 ./photos --mode design-only --size auto,3:4 --text prompt --locale ja-JP
+/xxd-panel-121 ./photos --mode left-right --size 16:9 --text prompt --locale ja-JP
 ```
 
-See [SKILL.md](SKILL.md) for the full runtime contract and the [English](references/xxd-panel-121-prompt.en.md) or [Chinese](references/xxd-panel-121-prompt.zh-CN.md) runtime adapter.
+All flags are listed under [Parameters](#parameters).
 
-## Original prompt · five languages
+## FAQ
 
-[简体中文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
+**Does the original photo have to appear?** No. Ask for “design only” or a wallpaper set and the whole canvas is design.
 
-The Chinese file preserves the user's original prompt verbatim and is the sole runtime creative and aesthetic authority. The other four files are complete, faithful reading translations and never rewrite the generation instructions.
+**Who writes the text?** By default the image model writes it from your photo; you only choose the language. Give your own words and they are used exactly; or ask for no text. Anything that looks factual (places, dates, numbers) comes only from you or from what is visible in the photo, never invented.
 
-**Signature:** naïve lifestyle illustration · marker/crayon/oil-pastel texture · invisible grid · integrated image–text composition · light natural handwriting · source-derived limited palette · exceptionally abundant whitespace
+**What if I don't like the result?** Say “one more”. It redraws from the original photo instead of editing the last result, so every attempt is different.
 
-## Quick fit check
+**Do photos in a batch mix together?** No. Each photo is generated on its own and never borrows another photo's colours, text or layout. Settings are asked once for the whole batch.
 
-| What you need to know | What Panel 121 gives you |
+**Where do my photos go?** Only to the image model your agent uses. The Skill uploads nothing elsewhere and never prints endpoints or keys.
+
+**How does this relate to other Panels?** XXD Panels are a family of styles, one per number, fully independent; install only the ones you like. To have AI recommend a style for a photo, or compare several at once, use the catalog [xxd-panel-all](https://github.com/nevertoday/xxd-panel-all).
+
+## Original prompt
+
+This style is defined entirely by Xiaoxiaodong's [original prompt](references/original-prompt/zh-CN.md) (in Chinese). The Skill only appends the layout, size and text settings you choose; it never summarises, translates or rewrites the prompt.
+
+Reading translations (for reading only; never sent to the image model): [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
+
+## Setting up image generation
+
+You need an OpenAI-compatible API that serves `gpt-image-2` (or a compatible model) and its API key. This creates a separate config and leaves your Codex settings alone:
+
+```bash
+mkdir -p ~/.xxd-imagegen
+cat > ~/.xxd-imagegen/config.toml <<'EOF'
+model_provider = "image"
+
+[model_providers.image]
+base_url = "https://api.openai.com/v1"   # or your compatible endpoint
+env_key = "XXD_IMAGE_API_KEY"
+EOF
+
+# add to ~/.zshrc or ~/.bashrc so your agent can read them
+echo 'export XXD_IMAGEGEN_CODEX_DIR=~/.xxd-imagegen' >> ~/.zshrc
+echo 'export XXD_IMAGE_API_KEY=your-key' >> ~/.zshrc
+```
+
+Reopen your terminal and agent, then check once from this Skill's folder:
+
+```bash
+python3 scripts/configured_imagegen.py probe
+```
+
+`"ok":true` means it works. The check only reports readiness; it never prints the endpoint or key. If your Codex already generates images through a compatible API, skip this step.
+
+## Parameters
+
+| Flag | Values |
 |---|---|
-| An ordinary photographic composition? | Redirects position, cropping, and scale while keeping the most recognisable relationships. |
-| Will doodles feel childish? | Pairs naïve drawing with mature composition, avoiding children's scrapbooks, cheap cartoons, and templates. |
-| Is text always centred? | Uses contours, movement, shoulder lines, and negative space to create asymmetric relationships. |
-| Flexible delivery? | Four modes, common ratios, exact pixels, and isolated directory batches. |
+| `--mode` | `top-bottom` · `left-right` · `design-only` · `wallpaper-pack` (phone, tablet, desktop, watch); combine freely |
+| `--size` | `auto` recommended · `source` match the photo · `1:1` `3:4` `4:3` `4:5` `5:4` `2:3` `3:2` `9:16` `16:9` `21:9` `5:7` `7:5` · exact pixels such as `2160x3840`; combine freely |
+| `--text` | `prompt` written from the photo · `exact` your words (with `--copy "…"`) · `none` no text |
+| `--locale` | text language, e.g. `zh-CN` `en-US` `ja-JP` `ko-KR` `ar` |
+| `--wallpaper` | `linked` a matching set · `independent` four separate designs |
+| `--wallpaper-size` | device pixels, e.g. `phone=1440x3200,desktop=3840x2160` |
+| `--out` | another output root (default `~/Desktop/xxd/xxd-panel-121/`) |
+| `--prefs` | `last` reuse · `edit` start from last time · `new` choose again · `off` don't remember this time · `clear` forget |
 
-## Four output modes
+- With every value given, nothing is asked; otherwise only the missing values are. Pass a folder instead of `photo.jpg` to batch.
+- Combinations are generated one by one: 2 modes × 3 sizes = 6 images, each composed for its own canvas rather than cropped.
+- Comparisons are exactly 50:50. Usually the model paints only the design half and a script places the untouched photo beside it, so the split is centred and the photo is unchanged.
+- Files are named like `source-001-street-top-bottom-3x4-1152x1536.png`, all in one flat task folder.
+- Only layout, size, text mode and language are remembered, never photos, copy or keys.
 
-- `top-bottom`: exactly two full-width regions, reality above and design below, 50% each.
-- `left-right`: exactly two full-height regions, reality left and design right, 50% each; it never rotates into a top-bottom layout.
-- `design-only`: the full canvas contains only Panel 121's designed translation; the photograph remains a non-visible reference.
-- `wallpaper-pack`: creates complete artworks for phone, iPad, desktop, and watch, either `linked` as a coherent family or `independent` as four separate works.
-
-Modes and sizes may be combined. Supported sizes include `1:1`, `3:4`, `4:3`, `4:5`, `5:4`, `2:3`, `3:2`, `9:16`, `16:9`, `21:9`, `5:7`, `7:5`, and exact pixels. Text can be prompt-generated, user-exact, or absent. A directory is inventoried recursively and every source is isolated while sharing one set of delivery settings; final PNG files remain flat in one fresh task directory.
-
-<!-- xxd-readme-ads:start -->
 ## About XXD
 
 XXD is Xiaoxiaodong's abbreviated brand name. This project is created and maintained by [@xiaoxiaodong01](https://x.com/xiaoxiaodong01).
 
-## Xiaoxiaodong multi-platform membership · CNY 699/year
 
-> **Advertising disclosure:** The QR code, membership, and paid-service links below are XXD promotional information. Scanning or purchasing is entirely optional and does not affect access to this open-source project.
-
-One annual membership unlocks three benefits together: **Knowledge Planet + the XXD Member Prompt Library + membership for all General Skills**. They are included in one membership; no separate purchase is required.
-
-<!-- xxd-panel-command-system:start -->
-
-### How the Skills work together
-
-| Level | Included | What it does |
-|---|---|---|
-| **General** | [`xxd-panel-all`](https://github.com/xiaoxiaodong-ai/xxd-panel-all) | Detects available numbered Skills, recommends them by image, theme, or use, and organizes multi-style and batch tasks. |
-| **Soldier** | `xxd-panel-NNN` | Each numbered Skill follows its own original brief and aesthetic to complete the specific task assigned by the General. |
-
-<!-- xxd-panel-command-system:end -->
-
-### What you receive
-
-1. **One-to-one WeChat AI learning and project support**
-   Add Xiaoxiaodong on WeChat via the QR code below to discuss AI learning, tools, and real projects one to one, with practical guidance and answers. Representative questions may be organized into member resources.
-2. **A growing member prompt library**
-   The [XXD Member Prompt Library](https://vip.xiaoxiaodong.ai/) currently contains about 32,000 prompts and will keep expanding, with a goal of exceeding 100,000.
-3. **All General Skills and usage support**
-   One membership covers every General Skill, with usage guidance and Q&A when you need help.
-4. **Priority for high-need requests**
-   Frequently requested, high-need prompts and Skills are reviewed and developed first where appropriate.
-
-### How to join
-
-- [Activate membership on the member website](https://vip.xiaoxiaodong.ai/).
-- Or scan the QR code below to add Xiaoxiaodong on WeChat for one-to-one activation support.
-
-<p align="center"><a href="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png"><img src="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png" alt="Contact Xiaoxiaodong" width="280"></a></p>
-<!-- xxd-readme-ads:end -->
 
 ## License
 
-This project—including the Skill, prompts, scripts, documentation, and accompanying sample images—is licensed under the **PolyForm Noncommercial License 1.0.0**. See [LICENSE](LICENSE) for the full legal text and <https://polyformproject.org/licenses/noncommercial/1.0.0> for the official page.
+**Free for noncommercial use; commercial use needs separate permission.** This project (Skill, original prompts, scripts and documentation) is licensed under [PolyForm Noncommercial 1.0.0](LICENSE). The source is public, but it is not open source as the OSI defines it.
 
-In plain language:
+- **Free:** personal study and hobby work; making images from your own photos to keep or share on your personal accounts (not ads, sponsored posts or product promotion); noncommercial changes and redistribution with the LICENSE included.
+- **Commercial use by individuals needs permission:** paid client work, ads and product promotion, small-batch merchandise, paid courses or communities. Usually granted, as the author confirms in writing.
+- **Organisations must sign an agreement:** any commercial use by a company, studio, MCN or brand, internal use included, and any integration into an app, website, SaaS or API.
+- **Not licensed:** reselling, renaming or repackaging the Skills, prompts or samples.
+- The Xiaoxiaodong membership does not include a commercial licence. The original photos in the samples belong to their photographers and are shown for demonstration only.
 
-- Individuals may use it for study, research, experimentation, testing, hobby projects, and private entertainment. Charities, educational institutions, public research, safety or health organisations, environmental organisations, and government institutions may also use it.
-- For **noncommercial purposes**, you may use, copy, modify, create derivative works, and share it. When sharing, you must also provide this license (or the link above) and every `Required Notice:` statement supplied by the author.
-- It may not be used in commercial products or services, paid delivery, sale of access or licences, or any use expected to lead to commercial application. Obtain separate written permission from the copyright holder before commercial use.
-- The agreement grants only the copyright licence and limited patent licence expressly stated. It grants no trademarks, brand names, or other unstated rights, and you may not sublicense your licence to others.
-- After written notice of a violation, you must return to compliance and take practical remedial steps within 32 days, or the licences terminate immediately. A written patent-infringement claim also terminates the patent licence.
-- The material is provided “as is”, without warranty to the extent permitted by law. Users bear the risks and potential losses arising from its use.
+To apply, add Xiaoxiaodong on WeChat and write "commercial licence". Full terms and the QR code: [Commercial licensing](COMMERCIAL.md).

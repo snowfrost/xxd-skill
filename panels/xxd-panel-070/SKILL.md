@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-070
-description: "Create XXD Panel 070 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-070 or requests the exact Panel 070 style."
+description: "XXD Panel 070｜Impasto Cozy Island: distils the key subject, pose and relationship of a photo into a small or mid-sized hand-drawn figure set in a large field of bright warm white — clear but slightly imperfect hand-drawn outlines with bright opaque or translucent gouache, watercolour and pastel colour with light grain and speckle, plus only a few quiet extras such as colour dots, fine grids, soft halos or tiny geometric marks; colours are the brightest hues of the photo lifted into sky blue, lake teal, fresh green, warm yellow, coral and peach, with a short title plus a tiny caption, number or note in small typewriter-style editorial type. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-070 or asks for bright gouache miniature, cheerful hand-drawn editorial or warm-white publication-style illustration from a photo."
 ---
 
 # XXD Panel 070

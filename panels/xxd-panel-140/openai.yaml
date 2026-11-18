@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 140"
-  short_description: "Dry-media Visual Island"
-  default_prompt: "Use $xxd-panel-140 to transform my photograph using the complete canonical source brief."
+  short_description: "干性手绘视觉岛：把照片画成白纸中央一小块水粉油画棒视觉岛，配一句纤细手写"
+  default_prompt: "Use $xxd-panel-140 to turn my photo into Dry-media Visual Island artwork."

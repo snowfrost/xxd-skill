@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-187
-description: "Create Panel 187 raster artwork: Archival Collage with Oversized Type. Use when the user invokes xxd-panel-187 or requests this specific visual language."
+description: "XXD Panel 187｜Archival Collage with Oversized Type: rebuilds a photo's subject as an archival collage poster — photo slices, semi-transparent layers, line outlines and structural diagrams — surrounded by drafting marks generated from the subject's own form (datum lines, dimension lines, arcs, axes, scales, coordinates). Behind it runs a set of oversized, restrained modern sans-serif letters partly hidden or cropped by the subject, paired with tiny archive notes and coordinates. Colours are cream paper, sand gold, bronze, smoky brown and ink black with old-paper grain, slight fading and translucent overlaps; the subject stays small in generous whitespace. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-187 or asks for archival, blueprint, photomontage or oversized-typography posters from a photo."
 ---
 
 # XXD Panel 187

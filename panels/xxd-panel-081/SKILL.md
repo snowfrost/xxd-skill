@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-081
-description: "Create XXD Panel 081 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-081 or requests the exact Panel 081 style."
+description: "XXD Panel 081｜Colored-Thread Keepsake Album: turns the people, places, objects and relationships in a photo into a few memory symbols drawn in even-weight monoline with open, broken outlines and a slight wobble — geometric structural lines for buildings and objects, softer organic curves for people, plants and animals — where two to four coloured lines from the photo (no black outline, no colour fill) encode the layers through colour, line density and value, with light grain, off-register and uneven ink like Risograph or screen print, an asymmetric layout on generous warm-white paper and a few words in thin, slightly drifting linear handwriting. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-081 or asks for coloured monoline, limited-colour risograph line drawing or keepsake travel-map style illustration from a photo."
 ---
 
 # XXD Panel 081

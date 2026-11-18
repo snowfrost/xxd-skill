@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-139
-description: "Create XXD Panel 139 raster artwork from photographs using text-encoded generative linear abstraction, extremely fine orthogonal grids, plotter line rhythms, source-derived colour and vast active negative space. Use when the user invokes xxd-panel-139 or requests this style. Supports individual images, isolated directory batches, strict 50:50 comparisons, design-only outputs, and wallpapers."
+description: "XXD Panel 139｜Text-encoded Linear Fields: translates the key outline, direction and proportions of a photo into a generative linear abstraction of many hairline horizontal and vertical lines, repeated sequences and occasional bends on an orthogonal grid, like plotter art, so it reads as a rational abstract structure from afar and only faintly reveals the subject up close; real letterforms from the subject's name, place or theme may be broken up and woven into the lines. A few colours from the photo separate line layers on pale paper, the motif stays small in large clean whitespace, and text is minimal coordinates or edge notes. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-139 or asks for plotter art, parametric line composition, text-based generative abstraction from a photo."
 ---
 
 # XXD Panel 139

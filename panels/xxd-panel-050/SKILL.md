@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-050
-description: "Create XXD Panel 050 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-050 or requests the exact Panel 050 style."
+description: "XXD Panel 050｜Travel Postcard: turns a photo into a premium minimalist flat-vector travel poster made for that place or subject — one clear focal point with two to four supporting details of local life, simple geometric shapes, soft outlines, even line weight and flat colour with no texture, gradients or heavy shadows, in airy pale blues, mist blue and sky blue balanced by ivory, cream, soft grey-green and a touch of dusty rose. If people appear, only three to six small figures. A short title top-left or in open space with one understated tagline and a few tiny notes. Each result gets its own layout. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-050 or asks for a minimalist flat travel poster, vector postcard or airy-blue travel branding from a photo."
 ---
 
 # XXD Panel 050

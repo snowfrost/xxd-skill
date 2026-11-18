@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-011
-description: "Create XXD Panel 011 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-011 or requests the exact Panel 011 style."
+description: "XXD Panel 011｜Meditative Line Poem: distils a photo into one quiet visual idea drawn in thin, flowing, continuous black line on white or warm paper — lines that pause, breathe, leave gaps, overlap or stay unfinished, keeping a person's pose, an animal's movement, an object's key structure or a landscape's horizon — with one core image and one relationship set small or off-centre in large silent whitespace, black and white with at most one tiny meaningful accent colour taken from the photo, and a very short title with one or two tiny lines of quiet, reflective text that the drawing's lines lead into or run beneath. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-011 or asks for meditative continuous-line drawings, philosophical minimal line art or one-accent-colour line posters from a photo."
 ---
 
 # XXD Panel 011

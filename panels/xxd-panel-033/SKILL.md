@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-033
-description: "Create XXD Panel 033 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-033 or requests the exact Panel 033 style."
+description: "XXD Panel 033｜Vivid Collage Journal: turns the photo's subject into a bold modern magazine-cover collage — the main motif simplified into flat graphic shapes that are repeated, enlarged, cropped and layered into background, middle and foreground, in saturated colours taken from the photo with visible grain, grid, cloth, spray and dry-brush print textures. A large cover headline, a subtitle and small issue numbers, dates or tags cross, stack over and overlap the image. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-033 or asks for a magazine-cover collage, editorial cut-paper poster or vivid layered print look from a photo."
 ---
 
 # XXD Panel 033

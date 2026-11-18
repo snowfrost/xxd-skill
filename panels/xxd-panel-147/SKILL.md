@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-147
-description: "Create XXD Panel 147 raster artwork from photographs using semantic food substitution that reinterprets source-image relationships as fresh ingredients inside one transparent konbini deli container, top-view product photography and restrained realistic labels. Use when the user invokes xxd-panel-147 or requests this style. Supports individual images, isolated directory batches, strict 50:50 comparisons, design-only outputs, and wallpapers."
+description: "XXD Panel 147｜Bento Food Packaging: 'bento-fies' a photo by mapping every key element, whether people, buildings, plants, sky, water or objects, onto real food such as rice, vegetables, egg, fruit, nori, cheese, sauce, jelly, roe and herbs, packed into one clear convenience-store deli box, bento tray or divided container and shot as realistic top-down packaged-food photography with fresh textures, moisture and natural light, in bright food colours derived from the photo, with a restrained Japanese konbini-style product label (name, short line, price, weight, barcode or dates) in any language. Photographic, not an illustration. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-147 or asks to turn a photo into a bento, food packaging, konbini deli box or food-substitution product shot."
 ---
 
 # XXD Panel 147

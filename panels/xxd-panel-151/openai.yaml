@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 151"
-  short_description: "Naive Flat Hand Drawing"
-  default_prompt: "Use $xxd-panel-151 to transform my photograph using the complete canonical source brief."
+  short_description: "稚拙扁平手绘志：用平涂色块和歪歪的手绘线，把照片最有性格的部分画成童趣小图"
+  default_prompt: "Use $xxd-panel-151 to turn my photo into Naive Flat Hand Drawing artwork."

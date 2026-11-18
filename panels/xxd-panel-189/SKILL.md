@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-189
-description: "Create Panel 189 raster artwork: Double-frame Matchbox Label Vignette. Use when the user invokes xxd-panel-189 or requests this specific visual language."
+description: "XXD Panel 189｜Double-frame Matchbox Label Vignette: lays a photo out like an old matchbox sleeve or packaging label — an outer frame for the whole label, an inner frame for the main panel and a narrow side column cut off to one side — and places a small spot illustration of the photo's most story-like subject relationship in the middle or slightly low in the main panel, drawn with colour blocks, outlines and a little texture. Paper colour is the largest area; grey-blue or navy carries structure, grey-green or pine green the main shapes, and only a tiny touch of amber or ochre, with slight ink unevenness and grain. Small letterpress-style words run along the side column, frames or whitespace. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-189 or asks for vintage label, matchbox, spot-colour print or framed vignette illustration from a photo."
 ---
 
 # XXD Panel 189

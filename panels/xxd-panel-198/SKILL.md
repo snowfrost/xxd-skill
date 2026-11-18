@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-198
-description: "Create Panel 198 raster artwork: Limited-palette Floating Fashion Collage. Use when the user invokes xxd-panel-198 or requests this specific visual language."
+description: "XXD Panel 198｜Limited-palette Floating Fashion Collage: recasts a photo's subject as a surreal conceptual fashion illustration, stressing outline, garments, pose and silhouette (non-human subjects become a fashion-like main figure), with one or several figures floating, hanging or pulled by thin lines instead of standing on real ground. Figures, clothes, lines and textures are layered like digital collage material, with halftone dots, screen-print grain and slightly worn print texture. A limited palette of two to four colours from the photo (grey-blue, off-white, charcoal, mist) carries a small accent of orange, red, coral or warm yellow, with a few magazine-style notes. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-198 or asks for surreal floating fashion illustration, halftone collage or limited-colour editorial collage from a photo."
 ---
 
 # XXD Panel 198

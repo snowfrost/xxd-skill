@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-057
-description: "Create XXD Panel 057 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-057 or requests the exact Panel 057 style."
+description: "XXD Panel 057｜Geometric Memory Field: keeps only the core subject and relationship of a photo and rebuilds it as a quiet geometric collage — clear blocks, rectangular cells, thin line frames and layered grids, with small details turned into ordered colour squares, dots, slices and stepped edges (designed mosaic, not random pixels), plus a few axis lines, alignment lines and bounding boxes like an architectural diagram or art map. Flat, clean colour from a warm, lively artist's palette (cream yellow, apricot, peach, coral, old rose against sky blue, pale teal, mint, grey-green, with a little brick red or black) on a near-white ground with wide whitespace. A few thin, airy words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-057 or asks for geometric mosaic collage, modular grid illustration or architectural-diagram art from a photo."
 ---
 
 # XXD Panel 057

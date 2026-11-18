@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 202"
-  short_description: "Geometric Line Diagram with Guide Axes"
-  default_prompt: "Use $xxd-panel-202 to transform my photograph following the complete canonical source brief."
+  short_description: "结构主线几何线图：先画几条结构主线，再把照片主体转成挂在线上的蓝灰几何线图，配一笔 S 形水彩"
+  default_prompt: "Use $xxd-panel-202 to turn my photo into Geometric Line Diagram with Guide Axes artwork."

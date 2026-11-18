@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-123
-description: "Create XXD Panel 123 raster artwork from photographs using expressive angular red-and-blue coloured-pencil lines, red visual masses, blue structural cues, paper grain and exceptionally abundant whitespace. Use when the user invokes xxd-panel-123 or requests this style. Supports individual images, isolated directory batches, strict 50:50 comparisons, design-only outputs, and wallpapers."
+description: "XXD Panel 123｜Red–Blue Angular Pencil: reduces a photo to its key subject and redraws it as an expressive coloured-pencil illustration in only red and blue, with angular, sharply turning lines, hatching, overlapping strokes, scribbled loops and unsteady outlines instead of shaded volume; red carries the weight and small colour blocks, blue draws outlines, shadow and structure, on visible paper grain with a small subject in very large whitespace and a few words in any language. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-123 or asks for red and blue duotone coloured pencil, angular expressive line drawing from a photo."
 ---
 
 # XXD Panel 123

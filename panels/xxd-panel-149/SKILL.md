@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-149
-description: "Create XXD Panel 149 raster artwork from photographs using textured flat illustration, cut-paper collage, crayon and gouache marks, 2–4 lively source colours, a small-to-medium focal mass, sparse handwriting and vast whitespace. Use when the user invokes xxd-panel-149 or requests this style. Supports individual images, isolated directory batches, strict 50:50 comparisons, design-only outputs, and wallpapers."
+description: "XXD Panel 149｜Textured Hand-drawn Flat Art: reduces a photo to its key subject and rebuilds it as a textured flat illustration composed like cut and collaged paper, with simple large colour blocks, summarised outlines, a few overlapping layers and irregular edges, grainy paper, crayon, pastel and gouache texture and a slightly naive hand, in 2–4 brightened colours from the photo, sometimes on a saturated background or large solid block, as a small-to-medium focal point in plenty of deliberate whitespace with handwritten lettering. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-149 or asks for textured flat illustration, cut-paper style flat art or grainy hand-drawn poster illustration from a photo."
 ---
 
 # XXD Panel 149

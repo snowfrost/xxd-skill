@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-186
-description: "Create Panel 186 raster artwork: Nine-cell Geometric Memory Grid. Use when the user invokes xxd-panel-186 or requests this specific visual language."
+description: "XXD Panel 186｜Nine-cell Geometric Memory Grid: breaks a photo into nine memorable fragments — the whole subject, a structural detail, an action, an object, a material, an environment clue or a symbolic detail — and redraws them as a 3×3 grid of equal cells, each built from flat colour blocks and rectangles, circles, arcs and zigzags with no realistic light or texture, all pointing back to the same theme. Soft, light, low-contrast flat colours such as butter yellow, pale bean green, apricot, misty violet and soft blue sit on warm white paper; the grid is set centrally or slightly high in wide whitespace, with a few words only outside the cells. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-186 or asks for a nine-grid, modular flat geometric or soft-colour memory grid illustration from a photo."
 ---
 
 # XXD Panel 186

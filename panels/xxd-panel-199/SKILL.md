@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-199
-description: "Create Panel 199 raster artwork: Bright Airy Miniature Fashion Collage. Use when the user invokes xxd-panel-199 or requests this specific visual language."
+description: "XXD Panel 199｜Bright Airy Miniature Fashion Collage: turns a photo's subject into small surreal conceptual fashion figures, stressing outline, garments, pose and silhouette (non-human subjects become a fashion-like main figure), set like floating specimens in a large field of clean warm white, weightless or pulled by thin lines but with a clear centre of gravity. Layers are combined like editorial digital collage with fine, clean halftone dots and only light ink wear. Colours are the brightest of the photo, clear sky blue, lake teal, fresh green, warm yellow, coral orange and peach pink, with sunny orange or soft pink accents and a few quiet titles or notes. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-199 or asks for bright, airy, small-scale floating fashion collage or halftone fashion illustration from a photo."
 ---
 
 # XXD Panel 199

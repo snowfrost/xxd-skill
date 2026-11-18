@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 189"
-  short_description: "Double-frame Matchbox Label Vignette"
-  default_prompt: "Use $xxd-panel-189 to transform my photograph following the complete canonical source brief."
+  short_description: "双框侧栏火柴盒小景：把照片画成旧火柴盒标签里的一幅小插图，双层边框加窄侧栏，限定专色"
+  default_prompt: "Use $xxd-panel-189 to turn my photo into Double-frame Matchbox Label Vignette artwork."

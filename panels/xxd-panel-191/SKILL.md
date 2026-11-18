@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-191
-description: "Create Panel 191 raster artwork: Soft-edged Rectangular Pastel Field. Use when the user invokes xxd-panel-191 or requests this specific visual language."
+description: "XXD Panel 191｜Soft-edged Rectangular Pastel Field: turns a photo into a small, roughly rectangular patch of colour with naturally frayed, rubbed-out edges that floats in wide whitespace like a little window or memory slice. Inside, continuous horizontal bands of dry pastel blend, overlap and rub into one another to form a landscape colour field, with paper grain and bare paper as surface texture, and a few naive, simplified forms placed on top; the subject may touch or slightly break the patch's edge. Cool grey-blue, misty blue, pale violet and grey-green lead, with small warm notes of pink-brown, brick red or apricot, and a few light literary words sit outside the patch. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-191 or asks for soft-edged chalk-pastel colour fields, banded pastel landscapes or poetic small vignettes from a photo."
 ---
 
 # XXD Panel 191

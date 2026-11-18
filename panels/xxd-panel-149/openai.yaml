@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 149"
-  short_description: "Textured Hand-drawn Flat Art"
-  default_prompt: "Use $xxd-panel-149 to transform my photograph using the complete canonical source brief."
+  short_description: "手绘肌理扁平志：用带纸纹和粉蜡笔颗粒的大色块，像剪纸拼贴一样重画照片主体"
+  default_prompt: "Use $xxd-panel-149 to turn my photo into Textured Hand-drawn Flat Art artwork."

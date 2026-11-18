@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 135"
-  short_description: "Street Spot-colour Zine"
-  default_prompt: "Use $xxd-panel-135 to transform my photograph using the complete canonical source brief."
+  short_description: "街头专色手绘志：用粗粝手绘线、几种撞色专色和 Riso 颗粒，把照片做成街头小志海报"
+  default_prompt: "Use $xxd-panel-135 to turn my photo into Street Spot-colour Zine artwork."

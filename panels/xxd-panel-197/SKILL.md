@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-197
-description: "Create Panel 197 raster artwork: Folk-art World Inside a Cage. Use when the user invokes xxd-panel-197 or requests this specific visual language."
+description: "XXD Panel 197｜Folk-art World Inside a Cage: places the theme of a photo inside a cage, so the cage is at once an object, a frame and a tiny world — people, scenes, objects or symbols are nested within it through shifts of scale, spatial nesting and symbolic substitution. Drawn in a flat, naive, warm new-folk-art hand: simple clear outlines, moderate detail, a few folk motifs, feathers, plants or auspicious objects, and two to four brightened colours from the photo such as warm red, coral, leaf green, lake teal, soft pink and pale gold on cream. The cage stays small in wide deliberate whitespace, with a few quiet words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-197 or asks for a world-in-a-cage, container story or folk-art illustration from a photo."
 ---
 
 # XXD Panel 197

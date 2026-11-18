@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-177
-description: "Create Panel 177 raster artwork: Irregular Silhouette Woodcut Micro-island. Use when the user invokes xxd-panel-177 or requests this specific visual language."
+description: "XXD Panel 177｜Irregular Silhouette Woodcut Micro-island: compresses the core of a photo, plus one or two meaningful hints of its setting, into a single compact, irregularly shaped visual island in a modern Eastern minimal printmaking language — clear silhouettes, a few flat colour planes, fine engraved lines and light print grain, with only a few branches or lines breaking out — covering about 15–25% of a warm ivory page. Fixed palette: deep ink navy, layered sage and grey-olive greens, and a tiny vermilion accent; no pure black, bright green or large Chinese red. A few quiet words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-177 or asks for a minimal Eastern woodcut island or navy-olive line-print emblem from a photo."
 ---
 
 # XXD Panel 177
@@ -11,7 +11,7 @@ Read `references/soldier-runtime.md` completely immediately before building ever
 
 ## Panel-specific overlay
 
-Compress the recognisable subject into one irregular silhouette container with nested, layered graphic isomorphism, occupying only 15–25% of the design region. Keep 75–85% clean warm-ivory negative space; allow directional off-centre placement and very few controlled boundary breaks, never dispersed elements. Combine modern Eastern minimalism, fine woodcut lines, symbolic flat shapes and light print grain. Preserve the fixed palette: deep ink navy, layered grey olive/sage greens, tiny vermilion or terracotta accents. Avoid pure black, bright green, large red fields, festival styling, cartoons and 3D. The canonical source is byte-identical to Panel 178; these are equivalent numbered entries, not different styles.
+Compress the recognisable subject into one irregular silhouette container with nested, layered graphic isomorphism, occupying only 15–25% of the design region. Keep 75–85% clean warm-ivory negative space; allow directional off-centre placement and very few controlled boundary breaks, never dispersed elements. Combine modern Eastern minimalism, fine woodcut lines, symbolic flat shapes and light print grain. Preserve the fixed palette: deep ink navy, layered grey olive/sage greens, tiny vermilion or terracotta accents. Avoid pure black, bright green, large red fields, festival styling, cartoons and 3D.
 
 These overlay rules add to `references/soldier-runtime.md`. They never replace the source brief or the family runtime contract.
 

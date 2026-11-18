@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 147"
-  short_description: "Bento Food Packaging"
-  default_prompt: "Use $xxd-panel-147 to transform my photograph using the complete canonical source brief."
+  short_description: "便当食材包装志：把照片里的一切换成食材，装进透明便利店熟食盒，拍成俯视商品照"
+  default_prompt: "Use $xxd-panel-147 to turn my photo into Bento Food Packaging artwork."

@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-217
-description: "Create Panel 217 raster artwork: Bright Digital Mixed-Media Collage. Use when the user invokes xxd-panel-217 or requests this specific visual language."
+description: "XXD Panel 217｜Bright Digital Mixed-Media Collage: keeps the photo's main subject as a real photographic cut-out and rebuilds the story around it with clipped fragments, hand-drawn doodles, line drawings, paper scraps and labels — cropped, enlarged, floating or offset, often with playful scale tricks such as tiny figures beside a giant subject or lines running over the real object — in bright, clean colours lifted from the photo (sky blue, lake teal, fresh green, warm yellow, coral, peach), with generous warm-white space and loose, naive handwritten lettering. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-217 or asks for photo cut-out collage with doodles, scrapbook or bright mixed-media editorial looks from a photo."
 ---
 
 # XXD Panel 217

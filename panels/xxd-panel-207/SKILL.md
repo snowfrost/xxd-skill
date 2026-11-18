@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-207
-description: "Create Panel 207 raster artwork: Airy Blue Mixed-media Collage Insert. Use when the user invokes xxd-panel-207 or requests this specific visual language."
+description: "XXD Panel 207｜Airy Blue Mixed-media Collage Insert: compresses a photo into one small, centred mixed-media collage block, like a magazine insert, journal page or collage card — photo fragments, fine black line drawing, handwritten-style notes, paper pieces and a few collage shapes, cropped or combined — with only a few extra line marks, paper scraps, arrows, symbols or tiny notes around it and the odd hint of tape or sticky note. Light blue, misty blue, powder blue, white or off-white carry the page, fine black lines give structure, a little deep blue adds rhythm and a touch of pale yellow or soft gold may accent it, all in wide whitespace with small relaxed handwritten-style captions. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-207 or asks for airy mixed-media collage, scrapbook or zine-style editorial inserts from a photo."
 ---
 
 # XXD Panel 207

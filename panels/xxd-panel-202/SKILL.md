@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-202
-description: "Create Panel 202 raster artwork: Geometric Line Diagram with Guide Axes. Use when the user invokes xxd-panel-202 or requests this specific visual language."
+description: "XXD Panel 202｜Geometric Line Diagram with Guide Axes: first draws two to five main structural lines from the photo's direction of movement, building axes, sightlines or spatial flow, then hangs a small subject and a few fragments on, across or between them. Every shape becomes a line diagram of rectangles, circles, arcs, zigzags, rounded squares and ellipses in thin, even, single-colour blue-grey, cool grey or soft graphite, with slight repeated strokes, somewhere between sketch and diagram. One faint coloured S-shaped watercolour stroke from the photo may sit behind the subject; the ground is white or very pale paper with wide whitespace, and a few thin words follow the main lines. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-202 or asks for geometric line-diagram, structural-axis or diagrammatic spot illustration from a photo."
 ---
 
 # XXD Panel 202

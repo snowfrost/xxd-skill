@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 139"
-  short_description: "Text-encoded Linear Fields"
-  default_prompt: "Use $xxd-panel-139 to transform my photograph using the complete canonical source brief."
+  short_description: "文字编码线场志：把照片编码成极细的横竖线场，远看是抽象结构，近看才认出原物"
+  default_prompt: "Use $xxd-panel-139 to turn my photo into Text-encoded Linear Fields artwork."

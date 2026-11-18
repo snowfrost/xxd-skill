@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 171"
-  short_description: "Vertical Skeleton and Tiny Vignettes"
-  default_prompt: "Use $xxd-panel-171 to transform my photograph following the complete canonical source brief."
+  short_description: "竖线微型散点志：大片暖白里立几根细淡竖线，照片里的人和物化成疏朗的小岛"
+  default_prompt: "Use $xxd-panel-171 to turn my photo into Vertical Skeleton and Tiny Vignettes artwork."

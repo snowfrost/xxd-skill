@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-118
-description: "Create XXD Panel 118 raster artwork: re-direct a source photograph as a graphite pencil thematic assemblage, using natural hatching, sparse grey tones, optional 1–2 source-derived accent colours, and active whitespace. Supports isolated images or directory batches, strict 50:50 top-bottom or left-right pairs, design-only art, and wallpapers. Use when the user invokes xxd-panel-118 or requests this graphite whitespace sketch style."
+description: "XXD Panel 118｜Graphite Whitespace Sketch Chronicle: makes a fresh art-directed recomposition of a photo as a hand-drawn graphite pencil sketch — the key subject, a structural detail or a few related objects grouped as a theme, drawn with pencil outlines, natural hatching, a little cross-hatching and light grey tones, loose and slightly naive rather than academic, freely moved, enlarged, shrunk or cropped, even when the original framing is weak, inside very large deliberate whitespace, mostly black, white and graphite grey with at most one or two small accent colours taken from the photo, and a few quiet words in any language. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-118 or asks for graphite pencil sketch, hatching or minimal black-and-white drawing with lots of whitespace from a photo."
 ---
 
 # XXD Panel 118

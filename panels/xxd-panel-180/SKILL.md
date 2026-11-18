@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-180
-description: "Create Panel 180 raster artwork: vintage circular souvenir stamps with woodcut and etched print texture on aged ivory paper. Use when the user invokes xxd-panel-180 or requests this visual language."
+description: "XXD Panel 180｜Vintage Circular Travel Stamp: condenses a photo's main subject plus one or two telling details of its setting into a small round vintage souvenir stamp on warm aged ivory paper — hand-carved rubber-stamp and etching texture with uneven, worn, broken lines, old paper fibre, pressed relief, ink bleed, slight misregistration and patchy prints, in 2–3 slightly faded stamp-ink colours from the photo (brick red, ochre, turmeric, olive, deep brown) and a few tiny gold-foil touches. Large whitespace, with an English headline and a smaller keyword line below the stamp. The brief forbids left-right layouts and Chinese captions. Outputs PNG top-bottom comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-180 or asks for a vintage travel stamp, rubber-stamp souvenir or postmark-style travel journal from a photo."
 ---
 
 # XXD Panel 180

@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-044
-description: "Create XXD Panel 044 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-044 or requests the exact Panel 044 style."
+description: "XXD Panel 044｜Flat Pure Gold: presses the photo's subject into a thin layer of real gold lying flat on a dark, clean surface — like gold leaf, beaten gold or pressed metal, with fine matte-to-soft sheen, light hammer marks, pressed edges, small wrinkles or breaks in the leaf — keeping only the key outline, proportions and gesture, shot straight on with no perspective distortion and wide quiet space. The deep background colour is drawn from the photo. A very short title and tiny notes can be embossed or pressed into the surface. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-044 or asks for gold leaf, gilded silhouette, embossed gold or luxury flat-metal artwork from a photo."
 ---
 
 # XXD Panel 044

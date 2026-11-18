@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 132"
-  short_description: "Pen-and-Wash Travel"
-  default_prompt: "Use $xxd-panel-132 to transform my photograph using the complete canonical source brief."
+  short_description: "钢笔淡彩旅行志：用抖动的钢笔线和暖色淡彩，把照片画成邮戳大小的城市速写"
+  default_prompt: "Use $xxd-panel-132 to turn my photo into Pen-and-Wash Travel artwork."

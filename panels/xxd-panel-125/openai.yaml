@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 125"
-  short_description: "Naïve Crayon Whitespace"
-  default_prompt: "Use $xxd-panel-125 to transform my photograph using the complete canonical source brief."
+  short_description: "蜡笔童趣留白志：用稚拙的蜡笔油画棒笔触，把照片画成带一抹亮色的绘本小图"
+  default_prompt: "Use $xxd-panel-125 to turn my photo into Naïve Crayon Whitespace artwork."

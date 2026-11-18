@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-020
-description: "Create XXD Panel 020 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-020 or requests the exact Panel 020 style."
+description: "XXD Panel 020｜Impasto Micro-Landscape: rebuilds the subject and story of a photo as a tactile miniature scene growing out of real impasto paint: on wide warm-white or ivory textured paper sits one irregular, directional island of palette-knife paint — a diagonal band, a scraped block or a torn stroke — with visible ridges, scrapes, broken edges and soft shadows from its thickness, and the subject modelled inside it like a small recognisable sculpture, in a dominant paint colour plus dark structure and key highlights drawn from the photo, with a short meaningful title and a few tiny editorial notes (exact user text is used word for word). Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-020 or asks for impasto miniature scenes, palette-knife sculpted paint or textured paint-island illustration from a photo."
 ---
 
 # XXD Panel 020

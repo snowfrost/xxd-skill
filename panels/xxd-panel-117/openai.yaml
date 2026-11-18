@@ -1,7 +1,7 @@
 interface:
   display_name: "/xxd-panel-117"
-  short_description: "Fine lines, pale flat colour, light collage and stamp-scale subjects in generous whitespace."
-  default_prompt: "Use $xxd-panel-117 on one image or image directory. Read its complete Chinese brief as the sole aesthetic authority, isolate every source, map the chosen delivery mode explicitly and create fresh complete-canvas PNGs with strict 50:50 comparison regions."
+  short_description: "细线淡彩留白志：抓住照片里一个视觉锚点，用细线淡彩重新构图，留白大于画面"
+  default_prompt: "Use $xxd-panel-117 to turn my photo into Fine-Line Pastel Whitespace Chronicle artwork."
 
 policy:
   allow_implicit_invocation: true

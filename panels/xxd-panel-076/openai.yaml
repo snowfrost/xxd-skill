@@ -1,7 +1,7 @@
 interface:
   display_name: "/xxd-panel-076"
-  short_description: "Create Panel 076 from images or a directory batch."
-  default_prompt: "Use $xxd-panel-076; accept one image or an image directory, keep the body of its bundled original style brief as the sole aesthetic authority, resolve shared batch settings once, isolate every source, send exactly one mode-specific delivery contract per asset, keep one flat task directory, make design-only and wallpaper outputs fully transformed, and ground factual-looking copy in supplied or verified facts."
+  short_description: "马卡龙蜡笔：用粗粝深色蜡笔和明亮马卡龙色块，把照片画成留白宽阔的人文旅行记忆"
+  default_prompt: "Use $xxd-panel-076 to turn my photo into Macaron Crayon artwork."
 
 policy:
   allow_implicit_invocation: true

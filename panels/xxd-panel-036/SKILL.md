@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-036
-description: "Create XXD Panel 036 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-036 or requests the exact Panel 036 style."
+description: "XXD Panel 036｜Streamline Picture Book: redraws the key relationship, gesture or direction in a photo as a few fine, continuous, slightly hesitant black-grey lines with omissions and open ends, floating over two to four loose, translucent watercolour colour fields taken from the photo that bleed, overlap and fade into warm paper white. A very short handwritten word or phrase is drawn in the same thin line, sometimes growing out of a stroke. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-036 or asks for minimal continuous line art, one-line drawing with watercolour washes or a gentle picture-book look from a photo."
 ---
 
 # XXD Panel 036

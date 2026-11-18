@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-064
-description: "Create XXD Panel 064 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-064 or requests the exact Panel 064 style."
+description: "XXD Panel 064｜Indie Collage Page: turns the key subject, pose and relationship of a photo into a quiet, incomplete old-paper collage — torn paper pieces, aged paper textures, faded text fragments, thin hesitant pencil or ink lines and slightly misaligned joins, on a near-white paper ground with faint fibres, in paper tones, light grey, pale brown and old ink with only one or two colours from the photo as small accents, wide poetic whitespace and a few small typewriter words or fragments. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-064 or asks for torn-paper collage, archival scrapbook or typewriter-text collage art from a photo."
 ---
 
 # XXD Panel 064

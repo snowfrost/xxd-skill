@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-160
-description: "Create Panel 160 raster artwork: Expressive Pen-and-wash Illustration. Use when the user invokes xxd-panel-160 or requests this specific visual language."
+description: "XXD Panel 160｜Expressive Pen-and-wash Illustration: redraws the most recognisable subject of a photo as an expressive pen-and-wash illustration — free, loose, sketch-like ink or fineliner lines with searching, repeated and unclosed strokes, then a few touches of transparent watercolour and simplified colour patches in 2–4 lively, brightened colours from the photo — one small, clear focal point with almost no background and very large whitespace, plus a few quiet words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-160 or asks for loose ink-and-watercolour, urban-sketch or pen-and-wash illustration from a photo."
 ---
 
 # XXD Panel 160

@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-140
-description: "Create XXD Panel 140 raster artwork from photographs using tiny centered visual islands, opaque gouache and oil or chalk pastel, dry-brush grain, irregular edges, 2-4 lively source colours and miniature handwritten notes. Use when the user invokes xxd-panel-140 or requests this style. Supports individual images, isolated directory batches, strict 50:50 comparisons, design-only outputs, and wallpapers."
+description: "XXD Panel 140｜Dry-media Visual Island: distils a photo into one small centred vignette, a visual island taking about a quarter to a third of the design, painted in opaque gouache, oil pastel and dry brush with broad simplified colour blocks, short rough strokes, paper showing through, dry-brush grain and irregular edges that break off and fade with no frame, in the photo's 2–4 brightest, liveliest colours lifted to a sunlit freshness on lots of clean warm white, with one short thin handwritten line nearby. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-140 or asks for gouache and oil pastel vignettes, dry-brush travel-journal sketches or small centred painted islands from a photo."
 ---
 
 # XXD Panel 140

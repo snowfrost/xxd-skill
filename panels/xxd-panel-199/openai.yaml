@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 199"
-  short_description: "Bright Airy Miniature Fashion Collage"
-  default_prompt: "Use $xxd-panel-199 to transform my photograph following the complete canonical source brief."
+  short_description: "明快留白时装拼贴：把照片主体缩成漂浮的小尺度时装插画形象，大片暖白留白，明亮清爽配色"
+  default_prompt: "Use $xxd-panel-199 to turn my photo into Bright Airy Miniature Fashion Collage artwork."

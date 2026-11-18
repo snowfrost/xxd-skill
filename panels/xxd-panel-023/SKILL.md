@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-023
-description: "Create XXD Panel 023 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-023 or requests the exact Panel 023 style."
+description: "XXD Panel 023｜Eastern Window View: frames the subject of a photo in one traditional Chinese window chosen to suit it — round, moon-gate, fan, hexagonal or lattice — with the subject, branch shadows or light spots appearing through or spilling past the frame, set slightly off-centre with one main pool of light, on a very pale, low-saturation background taken from the photo (misty blue, apricot, grey-green or warm beige), with coloured light from the photo's liveliest hues, fine airbrush grain and diffused blur, like sunlight through a lattice onto a pale wall, plus a very short title and a few small words along the window's edge. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-023 or asks for Chinese window-frame illustration, soft airbrush light-and-shadow art or Eastern poetic framed views from a photo."
 ---
 
 # XXD Panel 023

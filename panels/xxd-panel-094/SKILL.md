@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-094
-description: "Create XXD Panel 094 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-094 or requests the exact Panel 094 style."
+description: "XXD Panel 094｜Classic Two-Color Book: redraws the subject, pose and story of a photo as an early twentieth-century book plate in pen and ink with one spot colour — fine restrained ink lines, a few solid blacks and light hatching, a single colour taken from the photo and used only on a few key areas, the subject small and isolated in very large negative space on warm old paper or ivory, an optional thin hand-drawn decorative border or corner ornaments, faint paper fibre and slight misregistration, and a few words in a thin classical book typeface placed like a running head, margin note or epigraph. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-094 or asks for vintage book illustration, pen-and-ink with spot colour, or two-colour print illustration from a photo."
 ---
 
 # XXD Panel 094

@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-041
-description: "Create XXD Panel 041 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-041 or requests the exact Panel 041 style."
+description: "XXD Panel 041｜Isometric Lab: rebuilds the photo's subject in isometric space as clear blocks, layers and cut faces in soft, bright, matte Japanese-style colours from the photo, and turns a theme taken from the photo into a geometric device — a base, a gap, a path or an enclosure — that the subject passes through, rests on or floats above. Faint Leonardo-style study sketches, proportion lines, arrows and tiny notes in pale pencil or sepia surround it on a wide cream-white ground. A short title and a few notes run along the isometric axes. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-041 or asks for isometric illustration, axonometric study drawings or a concept model with sketch notes from a photo."
 ---
 
 # XXD Panel 041

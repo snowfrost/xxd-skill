@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 215"
-  short_description: "Grayscale Axonometric with Ochre Accent"
-  default_prompt: "Use $xxd-panel-215 to transform my photograph following the complete canonical source brief."
+  short_description: "灰阶赭黄极简轴测：把照片主体画成一枚白灰轴测图解小品，只点一处赭黄"
+  default_prompt: "Use $xxd-panel-215 to turn my photo into Grayscale Axonometric with Ochre Accent artwork."

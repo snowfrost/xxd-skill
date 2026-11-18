@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 217"
-  short_description: "Bright Digital Mixed-Media Collage"
-  default_prompt: "Use $xxd-panel-217 to transform my photograph following the complete canonical source brief."
+  short_description: "明快数码混合媒介拼贴：把照片主体抠出来，配手绘涂鸦和纸片拼成明快的杂志拼贴"
+  default_prompt: "Use $xxd-panel-217 to turn my photo into Bright Digital Mixed-Media Collage artwork."

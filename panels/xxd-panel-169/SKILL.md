@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-169
-description: "Create Panel 169 raster artwork: Warm Ochre Ink-line Spot Illustration. Use when the user invokes xxd-panel-169 or requests this specific visual language."
+description: "XXD Panel 169｜Warm Ochre Ink-line Spot Illustration: redraws the most recognisable subject of a photo as a small, isolated spot illustration that stops once the important part is drawn — loose, fine, slightly hesitant charcoal-black ink lines with broken and searching strokes, and thin transparent watercolour or gouache in ochre, tan and khaki with only a touch of burnt or terracotta orange on warm white paper, no competing blue, green or purple and no full background. About 75–85% of the design stays unpainted paper and 15–25% holds the subject, with a few words in a small, slightly imperfect editorial type. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-169 or asks for a spot illustration, vignette ink sketch or warm ochre pen-and-wash from a photo."
 ---
 
 # XXD Panel 169

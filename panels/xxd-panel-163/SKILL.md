@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-163
-description: "Create Panel 163 raster artwork: Centred Flat-colour Stamp Composition. Use when the user invokes xxd-panel-163 or requests this specific visual language."
+description: "XXD Panel 163｜Centred Flat-colour Stamp Composition: distils the most recognisable subject of a photo into a small, centred emblem built only from clean, complete flat colour blocks — a few silhouettes, positive-negative shapes and minimal outlines, with no grain, hatching, brush strokes or complex texture — in 2–4 bright, clean colours from the photo on an off-white or very pale ground, like a stamp placed in the middle of a large empty page, with a few quiet words. The layout is always centred. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-163 or asks for a centred flat-colour emblem, minimal colour-block stamp or flat geometric icon poster from a photo."
 ---
 
 # XXD Panel 163

@@ -1,7 +1,7 @@
 interface:
   display_name: "/xxd-panel-057"
-  short_description: "Create Panel 057 from images or a directory batch."
-  default_prompt: "Use $xxd-panel-057; accept one image or an image directory, keep the body of its bundled original style brief as the sole aesthetic authority, resolve shared batch settings once, isolate every source, send exactly one mode-specific delivery contract per asset, keep one flat task directory, make design-only and wallpaper outputs fully transformed, and ground factual-looking copy in supplied or verified facts."
+  short_description: "几何记忆场：用几何块面和有秩序的马赛克，把照片重组为安静温暖的现代拼贴"
+  default_prompt: "Use $xxd-panel-057 to turn my photo into Geometric Memory Field artwork."
 
 policy:
   allow_implicit_invocation: true

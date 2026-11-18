@@ -1,7 +1,7 @@
 interface:
   display_name: "/xxd-panel-054"
-  short_description: "Create Panel 054 from images or a directory batch."
-  default_prompt: "Use $xxd-panel-054; accept one image or an image directory, keep the body of its bundled original style brief as the sole aesthetic authority, resolve shared batch settings once, isolate every source, send exactly one mode-specific delivery contract per asset, keep one flat task directory, make design-only and wallpaper outputs fully transformed, and ground factual-looking copy in supplied or verified facts."
+  short_description: "记忆贴纸册：把照片拆成一张主视觉和六枚大小不一的切边记忆贴纸，像私人收藏册的一页"
+  default_prompt: "Use $xxd-panel-054 to turn my photo into Memory Sticker Album artwork."
 
 policy:
   allow_implicit_invocation: true

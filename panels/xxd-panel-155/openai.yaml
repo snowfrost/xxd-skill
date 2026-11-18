@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 155"
-  short_description: "One-point Perspective Light Wash"
-  default_prompt: "Use $xxd-panel-155 to transform my photograph using the complete canonical source brief."
+  short_description: "一点透视淡彩志：把照片画成一点透视的钢笔线稿室内效果图，再铺一层极淡的水彩"
+  default_prompt: "Use $xxd-panel-155 to turn my photo into One-point Perspective Light Wash artwork."

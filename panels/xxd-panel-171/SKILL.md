@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-171
-description: "Create Panel 171 raster artwork: Vertical Skeleton and Tiny Vignettes. Use when the user invokes xxd-panel-171 or requests this specific visual language."
+description: "XXD Panel 171｜Vertical Skeleton and Tiny Vignettes: reorganises a photo into a whitespace-led scatter of tiny vignettes — about 75–85% clean warm near-white space, a few small figures, animals, buildings, plants or objects spread out like islands, and a hidden skeleton of thin, light, low-contrast vertical lines drawn from the photo (columns, trunks, masts, poles, stems, building edges). High-key Eastern paper palette re-mixed from the photo: ivory and rice-paper white, grey-teal and grey-green for the lines, soft ochre, khaki and earth gold in between, and only seal-sized dots of vermilion, orange-red, azurite, navy or ink. A few quiet words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-171 or asks for minimal scattered vignettes, vertical-line composition or airy Eastern paper-tone illustration from a photo."
 ---
 
 # XXD Panel 171

@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 153"
-  short_description: "Monochrome Journal Doodles"
-  default_prompt: "Use $xxd-panel-153 to transform my photograph using the complete canonical source brief."
+  short_description: "单色手帐涂鸦志：用一支绿色水笔在方格纸上把照片画成小小的稚拙涂鸦"
+  default_prompt: "Use $xxd-panel-153 to turn my photo into Monochrome Journal Doodles artwork."

@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 169"
-  short_description: "Warm Ochre Ink-line Spot Illustration"
-  default_prompt: "Use $xxd-panel-169 to transform my photograph following the complete canonical source brief."
+  short_description: "暖赭小幅墨线志：用松动炭黑墨线和赭黄淡彩，把照片主体画成一小幅孤立插图"
+  default_prompt: "Use $xxd-panel-169 to turn my photo into Warm Ochre Ink-line Spot Illustration artwork."

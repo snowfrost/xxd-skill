@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-224
-description: "Create XXD Panel 224 raster artwork: a faithful photograph paired with a poetic reconstruction of the subject from irregular Chinese porcelain shards, glaze-derived colour, small-stamp composition and generous porcelain-white negative space. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-224 or asks for this porcelain-shard reconstruction style."
+description: "XXD Panel 224｜Reassembled Porcelain Shards: rebuilds the meaning of a photo from Chinese porcelain fragments — irregular shards of different sizes with real glaze, exposed clay at the breaks, crackle, chipped corners and only hints of traditional pattern, in blue-and-white, celadon, famille rose, monochrome or underglaze-red language chosen to suit the photo — with gaps and offsets left between pieces so breaking and reassembly become part of the story, kept small like a seal in wide porcelain-white space, glaze colours translated from the photo's liveliest hues, and a few short words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-224 or asks for porcelain shard mosaic, kintsugi-like broken ceramic or Chinese ceramic reconstruction from a photo."
 ---
 
 # XXD Panel 224

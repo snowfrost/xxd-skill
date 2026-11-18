@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-039
-description: "Create XXD Panel 039 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-039 or requests the exact Panel 039 style."
+description: "XXD Panel 039｜Embroidered Imagery: chooses the single image that best carries a photo's meaning — one pose, outline, gesture or symbolic detail — and embroiders only that in Chinese silk thread, with satin, long-and-short, couched, wrapped and seed stitches whose direction and density change with the form. Some parts are finely worked, others left as a few stitches or an unfinished outline, on a clean, airy silk ground (white, cool white, soft ivory or a clear tint) with wide empty space. Shimmering thread colours come from the photo; one very short phrase is stitched or added as a slim label. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-039 or asks for Chinese embroidery, silk-thread stitching or minimal Eastern textile art from a photo."
 ---
 
 # XXD Panel 039

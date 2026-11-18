@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-062
-description: "Create XXD Panel 062 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-062 or requests the exact Panel 062 style."
+description: "XXD Panel 062｜Clever Clumsy Line: compresses the key subject, pose and relationship of a photo into one central figure and a few small symbols, drawn in loose, slightly clumsy black pen lines that wobble, break and show small corrections, on a near-white tinted paper ground, with a single accent colour taken from the photo used on only one or two tiny spots, generous planned whitespace and a few handwritten or minimal printed words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-062 or asks for naive black line drawing, one-accent-colour minimal sketch or witty clumsy-line editorial art from a photo."
 ---
 
 # XXD Panel 062
